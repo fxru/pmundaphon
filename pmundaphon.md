@@ -1,3 +1,3 @@
 # A Historical Phonology of the Munda languages
 
-# pMunda `*a`
+# pMunda _*a_
