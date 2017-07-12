@@ -4,8 +4,6 @@
 
 ### pMunda _*a_
 
-#### _*a_
-
 #### _*a₁_
 
 |gorum|sora|remo|gutob|kharia|juang|gtaq|santali|mundari|ho|korwa|korku|
