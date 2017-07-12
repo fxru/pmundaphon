@@ -10,7 +10,7 @@
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
 |a|a:|a|a(:)|a|a|a|a|a(:)|a|a(:)|a(:)|
 
-##### _*daˀk_
+consistent reflexes as _a_, but vowel length is irregular
 
 #### _*a₂_
 
@@ -18,3 +18,6 @@
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
 |a|a|a|a|a|a|ia|a|a(:)|a(:)|a(:)|a|
 
+diphthongization in Gtaʔ vowel length is irregular
+
+##### _*daˀk_
