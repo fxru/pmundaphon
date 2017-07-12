@@ -10,6 +10,8 @@
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
 |a|a:|a|a(:)|a|a|a|a|a(:)|a|a(:)|a(:)|
 
+##### _*daˀk_
+
 #### _*a₂_
 
 |gorum|sora|remo|gutob|kharia|juang|gtaq|santali|mundari|ho|korwa|korku|
