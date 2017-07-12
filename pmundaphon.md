@@ -10,11 +10,11 @@
 
 |gorum|sora|remo|gutob|kharia|juang|gtaq|santali|mundari|ho|korwa|korku|
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
-|a|a|a|a|a|a|ia|a|a(:)|a(:)|a(:)|a|
+|a|a:|a|a(:)|a|a|a|a|a(:)|a|a(:)|a(:)|
 
 #### _*a₂_
 
 |gorum|sora|remo|gutob|kharia|juang|gtaq|santali|mundari|ho|korwa|korku|
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
-|a|a:|a|a(:)|a|a|a|a|a(:)|a|a(:)|a(:)|
+|a|a|a|a|a|a|ia|a|a(:)|a(:)|a(:)|a|
 
