@@ -2,6 +2,16 @@
 
 ## Vowels
 
+/i, e, a, o, u/ (Kharia, Mundari, Ho, Korku, Gorum, Remo, Juang, Gutob)
+/i, e, æ, a, o, u/ (Gtaʔ)
+/i, e, ɛ, a, ɔ, o, u/ (Santali)
+/i, e, ɛ, ɨ, ə, a, ɔ, o, u/ (Sora)
+
+Proto-Munda
+
+/i, e, ɛ, ɨ, ə, a, ɔ, o, u/ (Sora)
+
+
 ### pMunda _*a_
 
 #### _*a₁_
@@ -21,3 +31,9 @@ consistent reflexes as _a_, but vowel length is irregular
 diphthongization in Gtaʔ vowel length is irregular
 
 ##### _*daˀk_
+
+## Prosodic Restructuring
+
+Santali:    *kə1ˈla →   *ˈkəla →    *ˈkula →            kul
+Gutob:      *kə1ˈla →   *ˈkəla →    *ˈkila →    *ˈkil → gikil
+Gorum:      *kə1ˈla →   *kəˈlaʔ →                       kuˈlaʔ
