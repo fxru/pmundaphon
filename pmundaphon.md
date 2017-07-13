@@ -1,15 +1,16 @@
 # A Historical Phonology of the Munda languages
 
 ## Vowels
+Inventory|Languages
+|/i, e, a, o, u/|Kharia, Mundari, Ho, Korku, Gorum, Remo, Juang, Gutob|
+|---------------|-----------------------------------------------------|
+|/i, e, æ, a, o, u/|Gtaʔ|
+|/i, e, ɛ, a, ɔ, o, u/|Santali|
+|/i, e, ɛ, ɨ, ə, a, ɔ, o, u/|Sora|
 
-/i, e, a, o, u/ (Kharia, Mundari, Ho, Korku, Gorum, Remo, Juang, Gutob)
-/i, e, æ, a, o, u/ (Gtaʔ)
-/i, e, ɛ, a, ɔ, o, u/ (Santali)
-/i, e, ɛ, ɨ, ə, a, ɔ, o, u/ (Sora)
+Proto-Munda?
 
-Proto-Munda
-
-/i, e, ɛ, ɨ, ə, a, ɔ, o, u/ (Sora)
+/i, e, ɛ, ɨ, ə, a, ɔ, o, u/ (pM?)
 
 
 ### pMunda _*a_
