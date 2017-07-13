@@ -35,6 +35,8 @@ diphthongization in Gtaʔ vowel length is irregular
 
 ## Prosodic Restructuring
 
-Santali:    *kə1ˈla →   *ˈkəla →    *ˈkula →            kul
-Gutob:      *kə1ˈla →   *ˈkəla →    *ˈkila →    *ˈkil → gikil
-Gorum:      *kə1ˈla →   *kəˈlaʔ →                       kuˈlaʔ
+|Language|pMunda state|step 1|step 2|step 3|current state|
+|--------|------------|------|------|------|-------------|
+|Santali:|*kə1ˈla → | *ˈkəla →| *ˈkula →| |kul|
+|Gutob:|*kə1ˈla →| *ˈkəla →| *ˈkila →| *ˈkil →| gikil|
+|Gorum:|*kə1ˈla →| *kəˈlaʔ →| | | kuˈlaʔ|
