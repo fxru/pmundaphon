@@ -37,6 +37,6 @@ diphthongization in Gtaʔ vowel length is irregular
 
 |Language|pMunda state|step 1|step 2|step 3|current state|
 |--------|------------|------|------|------|-------------|
-|Santali:|*kə1ˈla → | *ˈkəla →| *ˈkula →| |kul|
-|Gutob:|*kə1ˈla →| *ˈkəla →| *ˈkila →| *ˈkil →| gikil|
-|Gorum:|*kə1ˈla →| *kəˈlaʔ →| | | kuˈlaʔ|
+|Santali:|*kə₁ˈla → | *ˈkəla →| *ˈkula →| |kul|
+|Gutob:|*kə₁ˈla →| *ˈkəla →| *ˈkila →| *ˈkil →| gikil|
+|Gorum:|*kə₁ˈla →| *kəˈlaʔ →| | | kuˈlaʔ|
