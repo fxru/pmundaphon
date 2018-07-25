@@ -22,6 +22,8 @@ Vowel length is not consistent and seems to relflex prosodic principles in indiv
 
 ### pMunda _\*a_
 
+Proto-Munda \*a is
+
 #### _\*a₁_
 
 |gorum|sora|remo|gutob|kharia|juang|gtaq|santali|mundari|ho|korwa|korku|
@@ -51,6 +53,8 @@ MKCD unclear best candidate MKCD 1671 _\*waar_, _\*wər_, but neither pAA \*w no
 
 ##### _\*maraŋ_ ‘big’
 
+##### _\*bar_ ‘two’
+
 
 #### _\*a₂_
 
@@ -71,6 +75,10 @@ diphthongization in Gtaʔ vowel length is irregular
 ##### _\*(saŋ)saŋ_ ‘tumeric’
 
 #### _\*a₃_
+
+|gorum|sora|remo|gutob|kharia|juang|gtaq|santali|mundari|ho|korwa|korku|
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
+|a|a|a|a|a|a|æ|e/e̠|e|e|e|?|
 
 ##### _\*taɲ_ ‘to weave’
 
