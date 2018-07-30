@@ -62,7 +62,7 @@ MKCD unclear best candidate MKCD 1671 _\*waar_, _\*wər_, but neither pAA \*w no
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
 |a|a|a|a|a|a|ia|a|a(:)|a(:)|a(:)|a|
 
-diphthongization in Gtaʔ vowel length is irregular
+diphthongization in Gtaʔ vowel length occured before a velar coda (i.e. *ŋ and ˀk), so that in Gtaʔ the pM coda \*aˀk became Gtaʔ _iaʔ_ while pM \*aŋ became Gtaʔ _ia_.
 
 ##### _\*daˀk_ ‘water’
 
@@ -70,7 +70,7 @@ diphthongization in Gtaʔ vowel length is irregular
 
 ##### _\*laŋ_ ‘tongue’
 
-##### _\*Vlaˀk_ ‘leaf’
+##### _\*(p)Vla(ˀk)_ ‘leaf’
 
 ##### _\*(saŋ)saŋ_ ‘tumeric’
 
@@ -80,9 +80,22 @@ diphthongization in Gtaʔ vowel length is irregular
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
 |a|a|a|a|a|a|æ|e/e̠|e|e|e|?|
 
+Correnspondence set for pM \*a in a rhyme with a palatal coda (i.e. ɲ or ˀc). South Munda has consistently _a_ except Gtaʔ, which has _æ_. North Munda has consistently _e_ (although there is so far no data from Korku for these etyma).
+
 ##### _\*taɲ_ ‘to weave’
 
 ##### _\*daˀc_ ‘to climb’
+
+### pMunda _\*i_
+
+#### _\*i1_
+
+|gorum|sora|remo|gutob|kharia|juang|gtaq|santali|mundari|ho|korwa|korku|
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
+|i|i(:)|i|i|i|i|i|i|i|i(:)|i(:)|i|
+
+
+
 
 
 ## Consonants
