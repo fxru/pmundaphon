@@ -1,5 +1,29 @@
 # A Historical Phonology of the Munda languages
 
+Munda branch konsists of South Munda (8)
+Glottolog lists 22 Munda languages: Gtaʔ, Gutob, Remo, Juang, Kharia, Sora, Juray, Gorum, Korku, Asuri, Bijori, Birhor, Ho, Mundari, Koda, Kodaku, Korwa, Majhwa, Turi, Kol, Mahali, Santali. Whether the 22 varieties constitute 22 distinct languages and whether 
+
+Kherwarian consisting of  Mundari, Ho, Korwa and Santali 
+
+Gutob-Remo
+
+Sora-Gorum
+
+Kherwarian and Korku as North Munda is highly likely
+
+Juray 
+
+
+
+coverage of all sub-branches of Munda but also availability of lexical information.
+
+result twelve languages were selected for systematic comparison 
+
+Gorum, Sora, Remo, Gutob, Kharia, Juang, Gtaʔ, Santali, Mundari, Ho, Korwa, Korku
+
+
+
+
 ## Vowels
 |Inventory|Languages|
 |---------|---------|
@@ -8,7 +32,19 @@
 |/i, e, ɛ, a, ɔ, o, u/|Santali|
 |/i, e, ɛ, ɨ, ə, a, ɔ, o, u/|Sora|
 
-Proto-Munda?
+Five vowel systems are very dominant.
+
+Gtaʔ /æ/ might be a phonemization of an allophone of /a/ raising the possibility that Proto-Gtaʔ had a five vowel system.
+
+Proto-Khewarian has been reconstructed with 7 (Zide???), 6, and 5 (Osada) vowel phonemes. If Osada 19xx is to be believed, Proto-Kherwarian had a five vowel system
+
+all but Sora and Proto-Sora-(Juray)-Gorum have five vowel systems or have to be reconstructed as having had five vowel systems
+
+
+
+Proto-Munda?  Correspondence are so varied and numerous that we have to assume that the five vowel systems of most modern Munda languages are the result of a variety of mergers in the development of the Munda languages.
+
+XX correspondence sets, even if we allow for 
 
 /i, e, ɛ, ɨ, ə, a, ɔ, o, u/ (pM?)
 
@@ -21,6 +57,8 @@ Proto-Munda?
 Vowel length is not consistent and seems to relflex prosodic principles in individual languages, if not bias of the researcher that expects phonological vowel length disctinctions in South Asian languages.
 
 Syllable weight needs to be reconstructed 
+
+a e o i u ɛ ɔ ɨ ə
 
 ### pMunda _\*a_
 
@@ -142,18 +180,20 @@ Correnspondence set for pM \*a in a rhyme with a palatal coda (i.e. ɲ or ˀc). 
 
 "—","—","—","—","siŋi","BDBH.2543","siN","AG08660","siŋ","PFED.p183","siŋ","PJDW.p244","sni","PGEG.p34","siɲ","CDES.p193","siŋi","BMED.p174","siŋi","DHED.p319","si:ŋ","BAHL.p136","—","—","*sxŋx","sun","#0075","","",""
 
+
+
 ## Consonants
 
-|                  | bilabial | dental/alveolar | palatal | velar | glottal |
-| ---------------- | -------- | --------------- | ------- | ----- | ------- |
-| voiceless stop   | \*p      | \*t             | (=\*s2) | \*k   | (\*ʔ)   |
-| voiced stop      | \*b      | \*d             | \*ɟ     | \*g   |         |
-| glottalized stop | \*ˀp     | \*ˀt            | \*ˀc    | \*ˀk  |         |
-| nasal            | \*m      | \*n             | \*ɲ     | \*ŋ   |         |
-| sibilant         |          | \*s (=\*s1)     |         |       |         |
-| lateral          |          | \*l             |         |       |         |
-| rhotic           |          | \*r             |         |       |         |
-| approximants     |          |                 |  \*j    |       |         |
+|                  | bilabial | dental/alveolar | palatal  | velar | glottal |
+| ---------------- | -------- | --------------- | -------- | ----- | ------- |
+| voiceless stop   | \*p      | \*t             | \*c (=\*s2?) | \*k   | (\*ʔ)   |
+| voiced stop      | \*b      | \*d             | \*ɟ      | \*g   |         |
+| glottalized stop | \*ˀp     | \*ˀt            | \*ˀc     | \*ˀk  |         |
+| nasal            | \*m      | \*n             | \*ɲ      | \*ŋ   |         |
+| sibilant         |          | \*s (=\*s1)     |          |       |         |
+| lateral          |          | \*l             |          |       |         |
+| rhotic           |          | \*r             |          |       |         |
+| approximants     |          |                 |  \*j     |       |         |
 
 ### _\*p_
 
