@@ -337,7 +337,7 @@ Gtaʔ /æ/ is treated as a reflex of V₁ here.
 
 ### Proto-Munda _\*i_
 
-#### _\*i1_
+#### _\*i₁_
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
@@ -362,6 +362,18 @@ Gtaʔ /æ/ is treated as a reflex of V₁ here.
 ##### _\**siŋi_ ‘sun’
 
 "—","—","—","—","siŋi","BDBH.2543","siN","AG08660","siŋ","PFED.p183","siŋ","PJDW.p244","sni","PGEG.p34","siɲ","CDES.p193","siŋi","BMED.p174","siŋi","DHED.p319","si:ŋ","BAHL.p136","—","—","*sxŋx","sun","#0075","","",""
+
+#### _\*i₂_
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
+| i   | i  | i  | i   | i    | i   | i  | i     | i     |i | i   | i   |
+
+#### _\*sxm_ ‘chicken’
+
+"—","—","kənsi:m","RSED.p131","gisiŋ","BDBH.856","gisiŋ","AG08.p651","siŋkoy","PKED.p183","sɛŋkɔe","PJDW.p275","gsæŋ","PGEG.p23","sim","CDES.p30","sim","BMED.p173","sim","HOGV.p151","si:m","BAHL.p135","—","—","*sxm","chicken","#0028","V315","1324",""
+
+
 
 ### Proto-Munda _\*u_
 
@@ -700,7 +712,17 @@ unclear relation to _\*tuɲ_ ‘shoot (v)’ comparison:
 
 close back rounded vowels and the close-mid back rounded vowel in Gtaʔ suggest a rounded vowel followed by a palatal, nasal, and glottalized coda. The best candidate  for this vowel phoneme is /o/, thus _\*boɲˀ_ or maybe _\*booˀɲ_. Other possibilities are _\*buɲˀ_/_\*buuˀɲ_ or more problematic _\*ɨ_ or _\*ʉ_.
 
+#### _\*pəˀt_/_\*par(om)_ ‘cross (v)’
 
+"pa'd","FR","pad","RSED.p200","poʔ","BDBH.1793","poɖ","DSGU#18931","paro(m)","PKED.p155","(pakea)","DSJU#25131","pwaʔ","PGEG.p39","par","CSED.p474","pa:rom","BMED.p144","parom","DHED.p262","parom","BAHL.p97","pa:r","NKEV.p331","*pxx","cross (v)","#0085","","",""
+
+While the reflexes in Gorum, Sora, Remo, Gutob, and Gtaʔ are consistent with a reconstruction of proto-Munda _\*pəˀt_. The attested vowels are consistent with the correspondence sets _\*ə_v2 and _\*ə_v3. 
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
+| a   | a  | o  | o   |  —   | —   | wa | –     | –     |– | –   | –   |
+
+The onset and final consonants of these forms are also consistent. So that for these forms proto-Munda _\*pəˀt_ can be posited, confoidently. If the North Munda and Kharia forms _pa(:)r(om)_ are added, the reflexes do not fit any known vowel set and the final rhotics are also inconsistent with any regular reflexes. This suggests that we have to assume a second etymon _\*par(om)_ ‘cross (v)’, probably of Indo-Aryan origin.
 
 
 ## Consonants
@@ -720,8 +742,6 @@ close back rounded vowels and the close-mid back rounded vowel in Gtaʔ suggest 
 
 - _\*Kʰ_
 - _\*dᶡ_
-- _\*dr_
-
 
 ### _\*p_
 
@@ -731,15 +751,17 @@ close back rounded vowels and the close-mid back rounded vowel in Gtaʔ suggest 
  
 only based on /pVC/ words, no well attested intervocalic instance of _\*p_ found so far.
 
-#### _\*pe₁.₂ₐˀt_ ‘blow (v)’
+#### _\*peˀt_ ‘blow (v)’
 
 "peˀd","ped","RSED.p212","peʔ","BDBH.1759","ped","ZG65.293","pɛˀɖ","PJED.p156","—","","piʔ","PGEG.p38","phe̠t'","CDES.p142","—","","—","","—","","—","","*pxˀt","blow (v)","V157","",""
 
 Pinnow V157
 
-#### _\*pxˀt_ ‘cross (v)’
+#### _\*pəˀt_/_\*par(om)_ ‘cross (v)’
 
 "pa'd","FR","pad","RSED.p200","poʔ","BDBH.1793","poɖ","DSGU#18931","paro(m)","PKED.p155","(pakea)","DSJU#25131","pwaʔ","PGEG.p39","par","CSED.p474","pa:rom","BMED.p144","parom","DHED.p262","parom","BAHL.p97","pa:r","NKEV.p331","*pxx","cross (v)","#0085","","",""
+
+Althought the initial bilabials constitute a consistent correspondence set, evidence from the vowel and the dental/retroflex second consonant suggest that we have to assume \*pəˀt_ for Sora, Gorum, Remo, Gutob, and Gtaʔ and a second etymon _\*par(om)_ ‘cross (v)’ for Kharia and North Munda, probably of Indo-Aryan origin.
 
 ### _\*b_
 
@@ -1014,17 +1036,9 @@ Unexplaint correspondence set that is characterized by a voiced alveolar sound i
 "uɖuˀb","FR","orub","RSED.p195","minɖip'","BDBH.2087","noNdib","GZ65.260","iɖiˀb","PKED.p79","—","—","minɖig","PGEG.p33","ayup'","CDES.p128","a:yub","BMED.p14","ayub","HOGV.p157","ayub","BAHL.p3","ayup","NKEV.p290","","night","#0033","V280","1268",""
 
 
-### _\*dr_ (Coda/Medial)
 
-|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
-|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
-| ˀd  | d  | ʔ  | ɖ   | r    | ?   | ʔ  | r     | r     |r | r   | r   |
 
-#### _\*pxdr(???)_ ‘cross (v)’
 
-"pa'd","FR","pad","RSED.p200","poʔ","BDBH.1793","poɖ","DSGU#18931","paro(m)","PKED.p155","(pakea)","DSJU#25131","pwaʔ","PGEG.p39","par","CSED.p474","pa:rom","BMED.p144","parom","DHED.p262","parom","BAHL.p97","pa:r","NKEV.p331","*pxx","cross (v)","#0085","","",""
-
-The Sora and Gorum, Rema and Gutob, as well as Gtaʔ suggest a _\*pxˀt_. However, the _r_ in Kharia and North Munda cannot be explained a a reflex of _\*pxˀt_ or _\*pxd(xm)_.
 
 ### _\*ˀt_
 
@@ -1063,6 +1077,18 @@ The /r/ in Juang in the \*bxˀt ‘sow (v)’ set remains unexplained as well. G
 #### _\*uˀt_ ‘drink/swallow (v)’
 
 "—","—","—","—","uʔ","BDBH.181","iɖ","AG08.p664","uˀd","PKED.p205","ur/uɖ","PJDW.p292","ug","PGEG.p6","ut'","CSED.p674","ud'","BMED.p191","uɖ","DHED.p369","u:ɖ","BAHL.p18","u:ʈ","NKEV.346","*uˀt","drink/swallow (v)","#0090","V142","",""
+
+### _\*ˀt_/_\*r_ (Coda/Medial)
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
+| ˀd  | d  | ʔ  | ɖ   | r    | ?   | ʔ  | r     | r     |r | r   | r   |
+
+#### _\*pəˀt_/_\*par(om)_ ‘cross (v)’
+
+"pa'd","FR","pad","RSED.p200","poʔ","BDBH.1793","poɖ","DSGU#18931","paro(m)","PKED.p155","(pakea)","DSJU#25131","pwaʔ","PGEG.p39","par","CSED.p474","pa:rom","BMED.p144","parom","DHED.p262","parom","BAHL.p97","pa:r","NKEV.p331","*pxx","cross (v)","#0085","","",""
+
+The Sora and Gorum, Remo and Gutob, as well as Gtaʔ suggest a _\*pəˀt_. However, the _r_ in Kharia and North Munda cannot be explained a a reflex of _\*pxˀt_ or _\*pxd(xm)_. Since the Sora, Gorum, Remo, Gutob, and Gtaʔ vowels are also consistent while the Kharia and North Munda vowels are inconsistent with any correspondece sets. This suggests that we have to assume a second etymon _\*par(om)_ ‘cross (v)’, probably of Indo-Aryan origin.
 
 ### _\*n_
 
