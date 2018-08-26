@@ -1,12 +1,16 @@
 # Towards a Historical Phonology of the Munda languages
 
+
+
 The Munda branch of the Austroasiatic language family 
 
 Historical phonology 
 Zide
 Osada
 
-Pinnow (1959) still state of the art for the reconstruction of proto-Munda, despite its modest title “Versuch einer Historischen Lautlehre der Kharia‐Sprache” (“Attempt of a historical phonology of the Kharia language”)
+Pinnow (1959) still state of the art for the reconstruction of proto-Munda. The book covers the historical phonology of the Munda branch and connects it with other branches of the Austroasiatic family, despite its modest title “Versuch einer Historischen Lautlehre der Kharia‐Sprache” (“Attempt of a historical phonology of the Kharia language”).
+
+However, it has not received the reception it deserves. This may be partially due to the fact that this immense work was published in German and partially owed to the fact that it is a very dense text. 
 
 Glottolog lists 22 Munda languages: Gtaʔ, Gutob, Remo, Juang, Kharia, Sora, Juray, Gorum, Korku, Asuri, Bijori, Birhor, Ho, Mundari, Koda, Kodaku, Korwa, Majhwa, Turi, Kol, Mahali, Santali. 
 
@@ -32,6 +36,13 @@ Gorum, Sora, Remo, Gutob, Kharia, Juang, Gtaʔ, Santali, Mundari, Ho, Korwa, Kor
 
 91 as complete as possible sets
 
+### Plan
+
+1. collect cognate sets criterion as complete for the twelve languages as possible
+2. set up correspondence sets
+3. reconstruct proto-phonemes
+4. reconstruct many words as possible
+5. look for regularities in relation to MKCD
 
 ## Vowels
 |Inventory|Languages|
@@ -348,11 +359,26 @@ bagu, FR, bar, RSED.p48, mbaʔr, BDBH.2214, umbar, AG08.p646, ubar, PKED.p205, u
 
 - Pinnow 1959: V49 / MKCD: 1562 _\*biʔaar_ > _\*ɓaar_
 
+##### _\*ɟa(ˀt)_ ‘additive.particle’ (\#0079-2)
+
+zaˀd, FR, ɟa:, RSED.p117, sa, BDBH.2547, sa, AG08.p649, ja, HLKS.V1, ɟan, PJDW.p211, , , ja, BSD3.p216, ja:, BMED.p77, ja:, DHED.p155, ja’’, DSKW.@09330, ja, DSKO.12141, \*ɟa(ˀt), additive.particle, #0079, V1, , 
+
+- Pinnow 1959: V1 / MKCD: —
+
+
 ##### _\*gam_ ‘say (v)’ (\#0080-2)
 
 —, —, gam, RSED.p96, —, —, gam, Z1965.121, gam, PKED.p57, gam, PJDW.p194, —, —, gam, CSED.p176, gamu, HLKS.V12, gamu, HLKS.V12, —, —, —, —, \*gam, say (v), #0080, V12, , 
 
 - Pinnow 1959: V12 / MKCD: —
+
+#### _\*maraˀk_ ‘peacock’ V₁ (\#0081-2)
+
+(marraʔ), FR, ma:ra:, RSED.p173, —, —, —, —, maraʔ, PKED.p131, marag, PJDW.p242, —, —, marak’, CSED.p407, ma:ra:, BMED.p114, mara:, DHED.p225, mara:q, BAHL.p117, mara, NKEV.p324, \*maraˀk, peacock, #0081, V27, 416, 
+
+- Pinnow 1959: V27 / MKCD: 416 _\*mraik\[ \]_
+
+Gorum _marraʔ_ ‘husband’ probably belongs to another etymon.
 
 #### _\*a₂_
 
@@ -394,6 +420,21 @@ saŋsaŋ, FR, sansaŋ, RSED.249, saŋsaŋ, BDBH.400, saŋsaŋ, GZ63.226, saŋsa�
 
 - Pinnow 1959: V271 / MKCD: —
 
+##### _\*maraˀk_ ‘peacock’ V₂ (\#0081-4)
+
+(marraʔ), FR, ma:ra:, RSED.p173, —, —, —, —, maraʔ, PKED.p131, marag, PJDW.p242, —, —, marak’, CSED.p407, ma:ra:, BMED.p114, mara:, DHED.p225, mara:q, BAHL.p117, mara, NKEV.p324, \*maraˀk, peacock, #0081, V27, 416, 
+
+- Pinnow 1959: V27 / MKCD: 416 _\*mraik\[ \]_
+
+Gorum _marraʔ_ ‘husband’ probably belongs to another etymon.
+
+##### _\*laˀk_ ‘to scrape’ (\#0093-2)
+
+laʔ, FR, —, —, —, —, lag, Z1965.205, laʔ, PKED.p118, lag, PJDW.p235, liaʔ, PGEG.p31, lak', CSED.p359, —, —, laʔ, DHED.p203, —, —, laʔ, DSKO.17551, *laˀk, scrape (v), #0093, —, 418, 
+
+- Pinnow 1959: — / MKCD: 418 _\*l\[a\]k_
+
+
 #### _\*a₃_
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
@@ -415,6 +456,13 @@ taɲ, FR, taɲ, RSED.p281, taNy, BDBH.1358, taɲ, GZ65.369, taɲ, PKED.p196, —
 ɖaˀɟ, FR, daɟ, RSED.p72, ɖaĭ, BDBH.1168, ɖaj, GZ65.79, —, —, ɖaɲ, PJDW.p186, ɖæʔ, PGEG.p16, de̠c’, CDES.p32, dej’, BMED.p40, deʔ, DHED.p81, deʔ, BAHL.p89, (cuɖe), NKEV.p298, daˀɟ, climb (v), #0006, V333, , 
 
 - Pinnow 1959: V333 / MKCD: —
+
+##### _\*gaˀc_ ‘to climb’ (#0096-2)
+
+gaˀɟ ,FR ,gaɟ ,RSED.p95 ,gaĭ ,BDBH.766 ,gaj ,Z1965.120 ,gaˀj ,PKED.p165 ,gaj ,DSJU#10461 ,gæʔ ,PGEG.p19 ,ge̠c' ,CSED.p184 ,geʔ ,EMV5.p1411 ,— ,— ,— ,— ,— ,— ,*gaˀc ,fry/scrape (v) ,#0096 ,V15 ,(338a) ,
+
+- Pinnow 1959: V15 / MKCD: (338a)
+
 
 #### _\*a₄_
 
@@ -460,7 +508,7 @@ see also: _\*sxˀp_ ‘grab (v)’
 
 Delineation of _\*a₅_ and _\*a₄_ is difficult. In both sets Sora and North Munda has consistently _a_, while Remo, Gutob, Kharia, and Juang have  o/ɔ. The only difference is that in _\*a₄_ Gorum has _o_ and in _\*a₅_ Gorum has _a_ and Gtaʔ has _a_ _\*a₄_ and _o_ in  _\*a₅_.
 
-The set _\*a₅_ cannot be regarded as definite, because set \#0014-3, which establishes the relfex in Gtaʔ and contains a full set of reflexes for all but North Munda, lacks reflexes in North Munda completely. So far (0093), no other set, besides \#0014-3, has an /a/ reflex in Sora-Gorum and /o/ in Gtaʔ.
+The set _\*a₅_ cannot be regarded as definite, because set \#0014-3, which establishes the reflex in Gtaʔ and contains a full set of reflexes for all but North Munda, lacks reflexes in North Munda completely. So far (0093), no other set, besides \#0014-3, has an /a/ reflex in Sora-Gorum and /o/ in Gtaʔ.
 
 
 ##### _\*kᵊla_ ‘tiger’ V₂ (\#0004-4)
@@ -482,6 +530,7 @@ amaŋ, FR, ammaŋ, RSED.p31, gutumoŋ, BDBH.885, sumoŋ/amuŋ, GZ65.21, somoŋ/s
 - Pinnow 1959: V269 / MKCD: —
 
 Gtaʔ /æ/ is treated as a reflex of V₁ here. 
+
 
 ### Proto-Munda _\*i_
 
@@ -529,10 +578,11 @@ The reflexes of V₂ (\#0075-4) are consistent with _\*i₁_, but not definite, 
 
 #### _\*i₂_
 
-|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
-|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
-| —   | i: | i  | i   | i    | ɛ   | æ  | i     | i     |i | i:  | i   |
-| i   | i  | i  | i   | i    |(i)  | æ  | i     | i     |i | i:  | i   |
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+| —   | i: | i  | i   | i    | ɛ   | æ  | i     | i     |i | i:  | i   |0028-2|
+| i   | i  | i  | i   | i    |(i)  | æ  | i     | i     |i | i:  | i   |0091-1|
+| —   | ɪ: | i  | —   | i    | i   | æi | i     | i     |i | i:  | i   |0095-2
 
 The correspondence set _\*i₂_ is treated as a continuation of proto-Munda _\*i_. The reflexes are dominantly close front unrounded vowels. However, Juang /ɛ/ and Gtaʔ /æ/ constitute a considerable deviation from the Juang /i/ and Gtaʔ /i/ in _\*i₁_. What makes the difference to _\*i₁_ problematic for a continuation of proto-Munda _\*i_ is the fact that the lowering to an open-mid vowel can not be motivated. The reconstructed forms from Shorto open up the possibility that _\*i₂_ is a reflex of proto-Austroasiatic _\*iə_. 
 
@@ -550,11 +600,20 @@ ḭj / iˀɟ, FR, gad-iɟ, RSED.p94, ik’, BDBH.88, ig, AG08.p652, iˀj, DSKH#1
 
 - Pinnow 1959: V281 / MKCD: 794 _\*ʔic_; _\*ʔiə\[c\]_; _\*ʔ\[ə\]c_
 
+##### _\**ɟi₂ŋ(k)_ ‘porcupine’ (\#0095-2)
+
+—,  —,  kənɟɪ:ŋ,  RSED.p131,  gisiŋreʔe,  BDBH.858,  —,  —,  jiŋray,  PKED.p86,  ɟiŋɛ,  PJDW.p212,  gcæiŋ,  PGEG.p22,  jhĩk,  CSED.p268,  jiki,  BMED.p82,  jiki,  DHED.p165,  ji:k,  DSKW@09500,  jikɽa,  NKEV.p313,  *ɟiŋ(k),  porcupine,  #0095,  V318,  528/1883, 
+
+- Pinnow 1959: V318 / MKCD: 528 _\*cu\[ə\]ŋ_; _\*cəŋ_; _\*ciəŋ_
+
+Looks like a combination of MKCD 528 and 1883 _\*\[r\]kus_; _\*\[r\]kuus_; _\*\[r\]kuəs_; _\*\[r\]k\[iə\]s_, e.g. _\*ciəŋ+\[r\]kuəs_.
+
 #### _\*i₃_
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
 | —   | i  | i  | i   | e    | ɛ   | i  | e     | i     |i | i:  | i   |0009-2|
+|  —  | ∅  | i  | i   | —    |(ɛ)  | i  | ∅     | i     |i | ∅   | —   |0070-1|
 
 ##### _\*sii₃ˀ_ ‘louse’ (\#0009-2)
 
@@ -563,6 +622,14 @@ ḭj / iˀɟ, FR, gad-iɟ, RSED.p94, ik’, BDBH.88, ig, AG08.p652, iˀj, DSKH#1
 - Pinnow 1959: V341 UM: e,ɛ / MKCD: 39 _\*ciiʔ_ (& _\*ciʔ_?)
 
 Unexplained variation of _\*i₁_, especially the constrast to \*tiiˀ_ ‘hand’ (\#0008-2) is striking. Kharia /e/, Juang /ɛ/, and Santali /e/ cannot be explained. Pinnow (1959, p. 164 and p. 195) reconstructs proto-Munda _\*e_/_\*ɛ_. However, positing \#0009-2 as a continuation of proto-Munda _\*e_ (_\*ɛ_) is also not consistent. MKCD 39 _\*ciiʔ_ also suggests proto-Munda _\*siiˀ_.
+
+##### _\*uli_ ‘mango (ripe)’ V₂ (\#0070-3)
+
+—, —, u:l, RSED.p304, uli, BDBH.171, ili, DSGU#4032, —, —, holɛ, PJDW.p205, uli, PGEG.p7, ul, CDES.p118, uli, BMED.p192, uli, DHED.p370, u:l, BAHL.p19, —, —, \*uli, mango (ripe), #0070, V144/V400e/K496, , 
+
+- Pinnow 1959: V144;V400e;K496 / MKCD: —
+
+If Juang /ɛ/ is genuine, \#0070-3 belongs to _\*i₃_. Otherwise, _\*i₁_ is also possible.
 
 ### Proto-Munda _\*u_
 
@@ -591,6 +658,18 @@ usal, FR, usal, RSED.p308, usa, BDBH.173, isa:l, HLKS.V149, usal, PKED.p300, cha
 | u   | u  | u  | i   | u    | ∅   | u  | ∅     | —     |— | —   | ∅   |
 
 The irregular ∅ reflexes are probably due to a second etymon in Juang, Santali and Korku. This would also account for the irregular palatals in Juang and Santali.
+
+##### _\*uli_ ‘mango (ripe)’ V₁ (\#0070-1)
+
+—, —, u:l, RSED.p304, uli, BDBH.171, ili, DSGU#4032, —, —, holɛ, PJDW.p205, uli, PGEG.p7, ul, CDES.p118, uli, BMED.p192, uli, DHED.p370, u:l, BAHL.p19, —, —, \*xlx, mango (ripe), #0070, V144/V400e/K496, , 
+
+- Pinnow 1959: V144;V400e;K496 / MKCD: —
+
+Juang /o/ is unexpected, however the whole form /holɛ/ is as a whole problematic. The initial /h/ is unexpected. 
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  —  | u: | u  | i   | —    | (o) | u  | u     | u     |u | u:  | —   |0070-1|
 
 
 ##### _\*lutu(uˀ)r_ ‘ear’ V₁ and V₂ (\#0073-2 and \#0073-4)
@@ -687,13 +766,13 @@ If Remo _gumi_ ‘heap of unclean paddy before winnowing’ (BDBH.908) can be co
 | u   | u  | i  | i   | i    | i   | i  | i     | i     |i | –   | i   |0045-2|
 | –   | u: | i  | i   | –    | –   | i  | ∅     | u     |u | –   | u   |0069-4|
 
-#### _\*vdᶡu₅ˀp_ ‘night’ (\#0033-3)
+##### _\*vdᶡu₅ˀp_ ‘night’ V₂ (\#0033-3)
 
 uɖuˀb, FR, orub, RSED.p195, minɖip’, BDBH.2087, noNdib, GZ65.260, iɖiˀb, PKED.p79, —, —, minɖig, PGEG.p33, ayup’, CDES.p128, a:yub, BMED.p14, ayub, HOGV.p157, ayub, BAHL.p3, ayup, NKEV.p290, , night, #0033, V280, 1268, 
 
 - Pinnow 1959: V280 / MKCD: 1268 _\*yup_; _\*y\[uu\]p_; _\*yəp_
 
-#### _\*txru₅ˀp_ ‘cloud’ (\#0034-4)
+##### _\*txru₅ˀp_ ‘cloud’ V₂ (\#0034-4)
 
 taruˀb, FR, tarub, RSED.p283, tirib, BDBH.1387, tirib, GZ65.416, tiriˀb, PKED.p287, —, —, trig, PGEG.p46, rimil, CDES.p33, rimil, BMED.p160, rimil, HOGV.p152, liNbir, BAHL.p127, —, —, , cloud, #0034, V285a, , 
 
@@ -701,19 +780,56 @@ taruˀb, FR, tarub, RSED.p283, tirib, BDBH.1387, tirib, GZ65.416, tiriˀb, PKED.
 
 If /rim/ in Santali, Munda, and Ho is parallel to /ri(ˀ)b/ in Remo, Gutob, and Kharia, _\*txru₅ˀp_ ‘cloud’ belongs quite clearly to _\*bxˀt_ ‘sow (v)’, else it could belong to _\*vdᶡu₅ˀp(???)_ ‘night’ or _\*bxˀt_ ‘sow (v)’.
 
-#### _\*bxˀt_ ‘sow (v)’ (\#0045-2)
+##### _\*bxˀt_ ‘sow (v)’ (\#0045-2)
 
 buˀd, FR, büd, RSED.p63, biʔ, BDBH.1898, biɽ, GZ63.67, biˀɖ, PKED.p20, bir, PJDW.p167, big, PGEG.p11, bit’, CDES.p142, bid’, BMED.p22, biɖ, DHED.p35, , , biʈ, NKEV.p294, \*bxˀt, sow (v), #0045, V285, , 
 
 - Pinnow 1959: V285 / MKCD: —
 
-#### _\*ɟəlu₅_ ‘meat’ V₂ (\#0069-4)
+##### _\*ɟəlu₅_ ‘meat’ V₂ (\#0069-4)
 
 —, —, ɟelu:, RSED.p123, sili/seli, BDBH.2599/2731, seli, AG08.p674, ―, —, —, —, cili, PGEG.p15, jel, CDES.p120, jilu, BMED.p83, jilu, DHED.p165, —, —, jilu, NKEV.p311, \*ɟəlu₅, meat, #0069, V228, , 
 
 - Pinnow 1959: V228 / MKCD: —
 
 A possibly connected MKCD etymon is MKCD 204 _\*\[c\]nlu\[u\]ʔ_ ‘edible grub’ only atttested in Bahnaric.
+
+#### _\*u₆_
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+| u   | u  | i  | i   | (o)  | (o) | u  | u     | u     |u | u   | u   |0033-3|
+
+The correspondence set is based on the etymon _\*muuˀ_ ‘nose’ Kharia _romoŋ_/_romoˀɖ_ and Juang _motɛɟ_ feature a /o/ instead of the /u/ attested in set _u₂_. The dental coda in both Kharia and Juang is unexplained and might indicate that these words are not straightforward reflexes of proto-Munda _\*muuˀ_.
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+| u   | u  | i  | i   | (o)  | (o) | u  | u     | u     |u | u   | u   | _u₆_ |
+| u   | u  | i  | i   | u    | u   | u  | u     | u     |u | u   | u   | _u₂_ |
+
+
+##### _\*muuˀ_ ‘nose’ (\#0074-2)
+
+muʔ, FR, mu:ʔ, RSED.p179, nseʔmiʔ, BDBH.1653, miʔ, GZ63.262, romoŋ/romoˀɖ, PKED.p170, motɛɟ, PJDW.p245, mmu, PGEG.p34, muN, CDES.p129, mu/muhu, BMED.p121, muwa/muʈa, DHED.p238, hu:mu:, DSKW@23180, mu:, NKEV.p327, \*mxxˀ, nose, #0074, , , 
+
+- Pinnow 1959: V387 / MKCD: 2045 _\*muh_; _\*muuh_; _\*muus_ 
+
+#### _\*u₇_
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  u  | ʊ  | u  | u   | u    | u   | ∅  | —     | (u)   |— | —   | —   |0068-2|
+
+The one attested set where /u/ in Gorum, Sora, Remo, Kharia and Juang correlates with Gutob /u/ and not /i/. Otherwise, the set is compatible with _\*u₁_ and _\*u₄_. MCKD suggests an origin in _\*ᵊ_ (probably _\*rᵊ(N)kvˀk_)
+
+##### _\*ruNkOˀk_ ‘husked rice’ (\#0068-2)
+
+ruŋk, FR, rʊŋkʊ, RSED.p239, ruŋku, BDBH.2291, rukug, AG08.p672, ruŋkuˀb/rumkuˀb, PKED.p171, ruŋkub, PJDW.p269, rkoʔ, PGEG.p41, —, —, (rukhaɽ), BMED.p163, —, —, —, —, —, —, \*ruNkOˀk, husked rice, #0068, V139, 1820, 
+
+- Pinnow 1959: V139 / MKCD: 1820 _\*rk\[aw\]ʔ_
+
+
+
 
 ### Proto-Munda _\*e_
 
@@ -747,6 +863,41 @@ asel, FR, —, —, —, —, —, —, osel, PKED.p216, —, —, —, —, e̠
 
 - Pinnow 1959: V255 / MKCD: —
 
+##### _\*boŋtel_ ‘buffalo’ V₂ (\#0054-5)
+
+boŋtel, FR, boŋtel, RSED.p62, buŋte, BDBH.1917, boŋtel, AG08.p647, boŋtel, PKED.p36, —, —, buNʈi, PGEG.p13, bitkil, CDES.p23, —, —, —, —, —, —, biʈkhil, NKEV.p294, \*bxŋtxl, buffalo, #0054, , , 
+
+North Munda /i/ has to be taken out. There is no regular sound change that will result in the southern forms and North Munda _\*bitkil_. When the North Munda forms are excluded, the remaining set is consisten with _\*e₁_ and _\*ə₂_.  
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+| e   | e  | e  | e   | e    | –   | i  |(i)    | –     |– | –   |(i)  |0054-5|
+| e   | e  | e  | e   | e    | –   | i  | e̠    | e     |e | e   | e   |_\*e₁_|
+| e   | e  | e  | e   | e    | –   | i  | e̠    | i     |i | e   | i   |_\*ə₂_|
+
+
+##### _\*geˀp_ ‘to burn (vi)’ (\#0058-2)
+
+geˀb ,FR ,tuŋge:b ,RSED.p298 ,gep' ,BDBH.967 ,geb ,GZ65.123 ,geb ,PKED.p61 ,— ,— ,giʔ ,PGEG.p19 , — ,— ,— ,— ,— ,— ,— ,— ,— ,— ,*gxˀp ,burn (vi) ,#0058 , , ,
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+| e   | e: | e  | e   | e    | –   | i  | –     | –     |– | –   | –   |0058-2|
+| e   | e  | e  | e   | e    | –   | i  | e̠    | e     |e | e   | e   |_\*e₁_|
+| e   | e  | e  | e   | e    | –   | i  | e̠    | i     |i | e   | i   |_\*ə₂_|
+
+
+##### _\*per_ ‘to burn (of chilies) (vi)’ (\#0097-2)
+
+per ,FR ,— ,— ,per ,BDBH.1756 ,per ,Z1975.294 ,— ,— ,— ,— ,pir ,PGEG.p38 ,pe̠ṛen ,CSED.p500 ,— ,— ,(pertol) ,DHED.p266 ,— ,— ,— ,— ,*per ,burn(chilies) (v) ,#0097 ,— , ,
+
+- Pinnow 1959: — / MKCD: —
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+| e   | –  | e  | e   | –    | –   | i  | e̠    | –    |(e)| –   | –   |0097-2|
+| e   | e  | e  | e   | e    | –   | i  | e̠    | e     |e | e   | e   |_\*e₁_|
+| e   | e  | e  | e   | e    | –   | i  | e̠    | i     |i | e   | i   |_\*ə₂_|
 
 ####  _\*e₂_
 
@@ -777,6 +928,7 @@ aril, FR, are:l, RSED.p39, are, BDBH.43, arel, HLKS.V225, arel, PKED.p7, aɭɛn,
 —, —, tarel, RSED.p138, tire, BDBH.1390, —, —, ti(ɽr)(ei)l, PKED.p200, tɛrɛn, PJDW.p285, tre, PGEG.p46, terel, CSED.p626, tiril, BMED.p188, tiril, DHED.p355, —, —, —, —, \*txrel, ebony, #0083, V227, , 
 
 - Pinnow 1959: V227 / MKCD: —
+
 
 ####  _\*e₃_
 
@@ -836,6 +988,14 @@ zoʔ, FR, ɟo:ʔ, RSED.p125, suʔ, BDBH.2701, —, —, —, —, —, —, cu, 
 
 - Pinnow 1959: V188 / MKCD: —
 
+##### _\*boŋtxl_ ‘buffalo’ V₁ (\#0054-2)
+
+boŋtel, FR, boŋtel, RSED.p62, buŋte, BDBH.1917, boŋtel, AG08.p647, boŋtel, PKED.p36, —, —, buNʈi, PGEG.p13, bitkil, CDES.p23, —, —, —, —, —, —, biʈkhil, NKEV.p294, \*bxŋtxl, buffalo, #0054, , , 
+
+
+North Munda /i/ has to be taken out. There is no regular sound change that will result in the southern forms and North Munda _\*bitkil_.
+
+
 #### _\*o₂_
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
@@ -848,7 +1008,7 @@ Defining context: velar coda – _\*oˀk_/_\*oŋ_
 
 zoʔ, FR, ɟo:, RSED.p126, suk’, BDBH.2624, sog, AG08.p650, joʔ, PKED.p87, ɟɛnɔg, PJDW.p211, coʔ, PGEG.p15, jo̠k’, CDES.p194, joʔ, BMED.p85, joʔ, DHED.p167, —, —, ju-khɽi, NKEV.p313, \*ɟoˀk, sweep (v), #0031, , , 
 
-##### _\*bxtoŋ_ ‘fear’ V₂ (\#0039-2)
+##### _\*bxtoŋ_ ‘fear’ V₂ (\#0039-4)
 
 butoŋ, FR, bato:ŋ, RSED.p55, butuŋ, BDBH.1922, butoŋ, GZ65.76, bɔtɔŋ (P), HLKS.V261, betɔŋan, JLIC.v239, bʈoʔ, PGEG.p14, —, —, botoŋ, BMED.p25, —, —, (bor), BAHL.p112, —, —, \*bxtoŋ, fear, #0039, V261, 552, 
 
@@ -859,6 +1019,36 @@ The connection to MKCD 552 _\*ʔt₁uuŋ_ (already made by Shorto) is questionab
 ##### _\*soŋ_ ‘buy/sell (v)’ (\#0060-2)
 
 oŋ, FR, —, —, suŋ, BDBH.2635, soŋ, GZ65.370, soŋ, PKED.p185, soŋ, PJDW.p278, so, PGEG.p42, —, —, —, —, —, —, ―, —, —, —, \*soŋ, buy/sell (vt), #0060, , , 
+
+#### _\*o₃_
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+| —   | —  | o  | o   | o    | ɔ   | we | o̠    | o     |o | oe  | o   |0051-2|
+| o   | o: |(o) | o   |(ɔ)   | —   | oe | o̠    | o     |o | o   | u   |0071-2|
+|(a)  |(a) | i  | o   | o    | o   | we | o     | oe   |o:e| oe  | o:  |0094-2|
+
+Proto-Munda _\*o_ in context of a palatal coda (_\*oˀc_/_\*oj_; not attested so far _\*oɲ_). Some interesting – if not crucial – unexplained variation are the occurence of Remo /i/ in \#0094-2 as oppoed to the expected Remo and Gutob /o/ as well as the different distribution of the coarticulatory diphthongization /oe/ in Kherwarian. 
+
+
+##### _\*goˀc/goj_ ‘die (v)’ (\#0051-2) 
+
+(kiˀd), FR, (kajed), RSED.p133, goĭ, BDBH.975, goj, ZG65.139, goˀj, PKED.p63, gɔɟ, PJDW.p197, gweʔ, PGEG.p23, go̠c’, CDES.p51, goj, BMED.p61, goj, DHED.p115, goej, BAHL.p46, go, NKEV.p306, \*goj, die (v), #0051, K67 , , 
+
+- Pinnow 1959: K67 / MKCD: —
+
+##### _\*roj_/_\*roˀk_ ‘fly’ (\#0071-2)
+
+aroj, FR, əro:j, RSED.p14, (ayoŋ/ayuŋ), BDBH.39, uroj, GGEG.p93, (kɔnɖɔi), HLKS.K356, —, —, nɖroe, PGEG.p36, ro̠, CDES.p76, roko, BMED.p161, roko, DHED.p291, roʔo, DSKW.19600, ruku, NKEV.p335, \*roj, fly, #0071, , , 
+
+- Pinnow 1959: K356 / MKCD: —
+
+##### _\*roˀc_ ‘squeeze/milk (v)’ (\#0094-2)
+
+"(ra'd),  FR,  (rad),  RSED.p226,  riʔ,  BDBH.2276,  roj,  DSGU#2071,  roˀj,  PKED.p170,  roɟ,  PJDW.p268,  rweʔ,  PGEG.p41,  roco,  BSDV5.p98,  roeʔ,  EMV12.p3628,  ro:eʔ,  DHED.p290,  roej,  DSKW@19520,  ro(:)c,  NKEV.p335,  *roˀc,  squeeze/milk (v),  #0094,  V381,  1061,  "
+
+- Pinnow 1959: V381 / MKCD: 1061 _\*ruut_; _\*ruət_; _\*rət_; _\*rat_; _\*rit_; _\*riit_; _\*riət_
+
 
 #### incomplete _\*o_
 
@@ -889,6 +1079,8 @@ The reflexes of V₁ in _\*b(oKʰ)xˀp_ ‘head’ (\#0011) – Kharia /o/, Juan
 | a   | –  | –  | –   | o    | —   | –  | e̠    | e     |e | e   | e   |0065-1|
 | a   | ə  | o  | o   | o    | o   |(u)a| e̠    | e     |e | e   | –   |0021-4|
 | a   | a  | o  | o   |  —   | —   | wa | –     | –     |– | –   | –   |0085-2|
+| a   | a  | o  | o   |  —   | —   | oa | e̠    | e     |e | –   | –   |0092-2|
+
 
 _\*ə_ is a grouping of four closely related correpondece sets, all defined by Gtaʔ diphthong /ua/ (/wa/) and North Munda /e/ (Santali /e̠/). The variation is restricted to Sora /o:/ (v1: \#0012-2) ~ /a/ (v2 and v3) ~ /ə/ (v4) and Kharia /o/ (v1, v3, and v4) and /a/ (v2). The consistency of Gtaʔ and North munda, /a/ ing Gorum and the consistency of /o/ in Remo, Gutob, Juang and with one exception Kharia, suggest that these sets are indeed reflexes of a single proto-phoneme. The nature of this proto-phoneme remains unclear.
 
@@ -961,13 +1153,19 @@ While the reflexes in Gorum, Sora, Remo, Gutob, and Gtaʔ are consistent with a 
 
 The onset and final consonants of these forms are also consistent. So that for these forms proto-Munda _\*pəˀt_ can be posited, confidently. If the North Munda and Kharia forms _pa(:)r(om)_ are added, the reflexes do not fit any known vowel set and the final rhotics are also inconsistent with any regular reflexes. This suggests that we have to assume a second etymon _\*par(om)_ ‘cross (v)’, probably of Indo-Aryan origin.
 
+##### _\*bəˀt_ ‘contain/block (v)’ (\#0092-2)
+
+baˀd ,FR ,bad ,RSED.p47 ,boʔ ,BDBH.2027 ,bod ,Z1965.59 ,— ,— ,— ,— ,boaʔ ,PGEG.p11 ,be̠t' ,BSDV1.p275 ,bed' ,BMED.p21 ,beɖ ,DHED.p33 ,— ,— ,— ,— ,— ,contain/block (v) ,#0092 ,— , ,
+
+- Pinnow 1959: — / MKCD —
+
 
 #### _ə₂_
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
 | e   | e  | e  | –   | e    | –   | i  | e     | i     |i | e   | –   |0007-2|
-| –   | e  | i/e| e   | –    | –   | i  | e     | i     |i | –   | i   |
+| –   | e  | i/e| e   | –    | –   | i  | e     | i     |i | –   | i   |0069-2|
 
 close to reflexes of _\*e_, but rather different to reflexes of ə₁
 
@@ -1028,13 +1226,13 @@ Correspondence between Juang /ɛ/ and Gtaʔ /æ/ is also attested in the _\*i₂
 | u   | u  | –  | –   | u    | –   | o  | i     | i     |i | –   | i   |0062-2|
 
 
-Comparison with _\*tuɲ_ ‘shoot (v)’:
+Comparison with _\*tuɲ_ ‘shoot (v)’ (\#0027-2):
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|etymon|
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
-| u   | u  | –  | –   | u    | –   | o  | i     | i     |i | –   | i   |kindle|
-|(u)  | i  | u  | ui  | u    | u   | o  | i     | i     |i | i:  | i   | snake|
-| i   | u  | i  | i   | u    | u   | wi | u     | ui    |u | ?   | u   | shoot|
+| u   | u  | –  | –   | u    | –   | o  | i     | i     |i | –   | i   |0062-2|
+|(u)  | i  | u  | ui  | u    | u   | o  | i     | i     |i | i:  | i   |0041-2|
+| i   | u  | i  | i   | u    | u   | wi | u     | ui    |u | ?   | u   |0027-2|
 
 ##### _\*bxɲˀ(\*bxxˀɲ?)_ ‘snake’ (\#0041-2)
 
@@ -1268,38 +1466,411 @@ In all likelihood ultimately the refles of an epenthetic schwa, _\*bᵊlv₍₁�
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
 |  —  | —  | u  | u   | o    | o   | ∅  | e̠    | e     |e | e   |(o)  |0019-2|
+|  a  | a  | u  | u   | o    | ɛ   | ∅  | e̠    | e     |e | e   | —   |0021-2|
 
-
-
-V₁ of _\*bxrəl_ ‘raw’  (\#0019-2) is consistent with _\*ə₁_v3, in particular \#0020-2 V₂ of _\*səreŋ_ ‘stone’ and \#0065-1 V₂ of _\*əsel_ ‘white’:
+V₁ of _\*bxrəl_ ‘raw’ (\#0019-2) and _\*sxŋəl_ ‘fuel’ (\#0021-2) are consistent with _\*ə₁_v3, in particular \#0020-2 V₂ of _\*səreŋ_ ‘stone’ and \#0065-1 V₂ of _\*əsel_ ‘white’:
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
 |  —  | —  | u  | u   | o    | o   | ∅  | e̠    | e     |e | e   |(o)  |0019-2|
+|  a  | a  | u  | u   | o    | ɛ   | ∅  | e̠    | e     |e | e   | —   |0021-2|
 | a   | a  | —  | —   | o    | —   | —  | –     | e     |e | –   | –   |0020-2|
 | a   | –  | –  | –   | o    | —   | –  | e̠    | e     |e | e   | e   |0065-1|
 
-However, all other reflexes of the set _\*ə₁_ feature Remo and Gutob /o/.
-
-Furthermore, V₂ of _\*bxrəl_ ‘raw’ (\#0019-4) is consitent with _\*ə₁_v1/3/4.
+However, all other reflexes of the set _\*ə₁_ feature Remo and Gutob /o/, when one of these two languages provides a reflex. Furthermore, V₂ of _\*bxrəl_ ‘raw’ (\#0019-4) shows distinct reflexes from V₁ (\#0019-1) and is itself consitent with _\*ə₁_v1/3/4.
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
-|  —  | —  | u  | u   | o    | o   | ∅  | e̠    | e     |e | e   |(o)  |0019-2|
+| —   | —  | u  | u   | o    | o   | ∅  | e̠    | e     |e | e   |(o)  |0019-2|
 | —   | —  | o  | o   | o    | o   | wa | e̠    | e     |e | e   | e   |0019-4|
 
 This raises the possibility, that the reflexes of V₁ and V₂ of _\*bxrəl_ ‘raw’ are both reflexes of proto-Munda _\*ə_, only in different positions (and with different histories of stress and stress shift). We could thus posit _\*bərəl_ or _\*bᵊrəl_.
 
+
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
 |  —  | —  |u-o | u-o | o-o  | o-o |∅-wa| e̠-e̠ | e-e  |e-e| e-e |(o-o)|0019  |
+| a-a | a-a|u-o | u-o | o-o  | ɛ-o |∅-ua| e̠-e̠ | e-e  |e-e| e-e | —   |0021  |
+| a-a | a-a|∅-o | u-o | o-o  | o-o |∅-ua| —     | —     | —| —   | —   |0055  |
+| a-a | ə-a|∅-ɔ | u-o | o-o  | o-o |∅-o | —     | —     |— | —   | —   |0014  |
+
+_\*v₍₉₎laŋ_ ‘thatch’ V₁ (\#0014-1) VS-009 is very close.
 
 
 ##### _\*bxrəl_ ‘raw’ V₁ (\#0019-2) 
 
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+| —   | —  | u  | u   | o    | o   | ∅  | e̠    | e     |e | e   |(o)  |0019-2|
+
 —, —, —, —, buro, BDBH.1937, burol, GZ65.74, borol, PKED.p25, boron, PJDW.p171, brwa, PGEG.p14, be̠re̠l, CDES.p211, berel, BMED.p21, berel, HOGV.p185, berel, BAHL.p111, boboɽ, NKEV.p294, \*bxrəl, raw, #0019, V253, , 
 
 - Pinnow 1959: V253 / MKCD: —
+
+
+##### _\*sxŋəl_ ‘fuel’ V₁ (\#0021-2) 
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  a  | a  | u  | u   | o    | ɛ   | ∅  | e̠    | e     |e | e   | —   |0021-2|
+
+aŋal, FR, aŋəl, RSED.p37, suŋo, BDBH.2638, suõl, GZ63.216, soŋgol, PKED.p186, sɛŋon, PJDW.p276, sua, PGEG.p43, se̠ŋge̠l, CDES.p73, seŋgel, BMED.p172, seŋgel, HOGV.p158, seNgel, BAHL.p137, —, —, \*sxŋəl, fuel, #0021, V252, 1723, 
+
+- Pinnow 1959: V252 / MKCD 1723 _\*j\[n\]ŋəl_
+
+If Gtaʔ /sua/ is to be interpreted as a /ua/ parallel to /ua/~/wa? in the set above, V₂ of _\*sxŋxl_ ‘fuel’ belongs to the set _\*ə₁_ above only deviating reflex is Sora /ə/.
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  —  | —  |u-o | u-o | o-o  | o-o |∅-wa| e̠-e̠ | e-e  |e-e| e-e |(o-o)|0019  |
+| a-a | a-a|u-o | u-o | o-o  | ɛ-o |∅-ua| e̠-e̠ | e-e  |e-e| e-e | —   |0021  |
+
+##### _\*xsər_ ‘dry’ V₂ (\#0055-1)
+
+asar, FR, asar, RSED.p42, nsor, BDBH.1657, usor, AG08.p650, kosor, PKED.p155, kosor, PJDW.p229, nswar, PGEG.p37, —, —, —, —, —, —, —, —, —, —, \*xsxr, dry, #0055, V260, 160, 
+
+- Pinnow 1959: V183 / MKCD: 160 _\*rɔʔ_;  _\*rɔs_, ( _\*rɔs rɔs_ >?) _\*srɔs_
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  a  | a  | ∅  | u   | o    | o   | ∅  | —     | —     |— | —   | —   |0055-1|
+
+
+#### VS-015
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+| a-u | a-u|i-i | i-i | i-i  | —   |∅-i |  —    | —     |— | —   | —   |0034  |
+| a-i | a-i|i-i | i-i | —    | —   | —  |  —    | i-i  |i-i| —   | —   |0067  |
+|  —  | a-e|i-e |  —  | i-i/e| ɛ-ɛ |∅-e | e-e   | i-i  |i-i| —   | —   |0083  |
+
+#### _\*txru₅ˀp_ ‘cloud’ V₁ (\#0034-2)
+
+taruˀb, FR, tarub, RSED.p283, tirib, BDBH.1387, tirib, GZ65.416, tiriˀb, PKED.p287, —, —, trig, PGEG.p46, rimil, CDES.p33, rimil, BMED.p160, rimil, HOGV.p152, liNbir, BAHL.p127, —, —, , cloud, #0034, V285a, , 
+
+- Pinnow 1959: V285a / MKCD: —
+
+If /rim/ in Santali, Munda, and Ho is parallel to /ri(ˀ)b/ in Remo, Gutob, and Kharia, _\*txru₅ˀp_ ‘cloud’ belongs quite clearly to _\*bxˀt_ ‘sow (v)’, else it could belong to _\*vdᶡu₅ˀp(???)_ ‘night’ or _\*bxˀt_ ‘sow (v)’.
+
+##### _\*xli_ ‘liquor’ V₁ (\#0067-1)
+
+ali, FR, əli/ali, RSED.p8, ili, BDBH.120, ili, AG08.p672, —, —, —, —, —, —, —, —, ili, BMED.p75, ili, DHED.p151, —, —, —, —, \*xlx, liquor, #0067, V85, , 
+
+- Pinnow 1959: V85 / MKCD: —
+
+##### _\*txrel_ ‘ebony’ V₁ (\#0083-2)
+
+—, —, tarel, RSED.p138, tire, BDBH.1390, —, —, ti(ɽr)(ei)l, PKED.p200, tɛrɛn, PJDW.p285, tre, PGEG.p46, terel, CSED.p626, tiril, BMED.p188, tiril, DHED.p355, —, —, —, —, \*txrel, ebony, #0083, V227, , 
+
+- Pinnow 1959: V227 / MKCD: —
+
+
+#### VS-016
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  u  | a  | u  | u   | ɔ    | e   | ∅  | —     | o     |— | —   | —   |0039-2|
+|  u  | ə  | u  | u   | —    | (u) | ∅  | o̠    | (o)  |(o)| o   | —   |0066-2|
+
+
+##### _\*bxtoŋ_ ‘fear’ V₁ (\#0039-2)
+
+butoŋ, FR, bato:ŋ, RSED.p55, butuŋ, BDBH.1922, butoŋ, GZ65.76, bɔtɔŋ (P), HLKS.V261, betɔŋan, JLIC.v239, bʈoʔ, PGEG.p14, —, —, botoŋ, BMED.p25, —, —, (bor), BAHL.p112, —, —, \*bxtoŋ, fear, #0039, V261, 552, 
+
+- Pinnow 1959: V261 / MKCD: 552 _\*ʔt₁uuŋ_
+
+#### _\*bxrx(ˀp/ˀk)_ ‘lungs’ V₁ (\#0066-2)
+
+buroˀb, FR, bəro:, RSED.p46, buruk’, BDBH.1936, —, —, —, —, (buku), JLIC.n49, breʔ, PGEG.p14, bo̠ro̠, CDES.p116, (borkod’), BMED.p25, (borkoɖ), DHED.p45, boro, BAHL.p112, , , , lungs, #0066, , , 
+
+- Pinnow 1959: — / MKCD: —
+
+
+#### VS-017
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  o  | o: | u  | —   | —    | (u) | e  | o̠    | (o)  |(o)| o   | —   |0066-4|
+
+#### _\*bxrx(ˀp/ˀk)_ ‘lungs’ V₂ (\#0066-4)
+
+buroˀb, FR, bəro:, RSED.p46, buruk’, BDBH.1936, —, —, —, —, (buku), JLIC.n49, breʔ, PGEG.p14, bo̠ro̠, CDES.p116, (borkod’), BMED.p25, (borkoɖ), DHED.p45, boro, BAHL.p112, , , , lungs, #0066, , , 
+
+- Pinnow 1959: — / MKCD: —
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+| u-o |a-o:|u-u | u-o | ɔ-ɔ  | e-ɔ |∅-o | —     | o-o   |— | —   | —   |0039  |
+| u-o |ə-o:|u-u | —   | —    |(u-u)|∅-e | o̠-o̠ |(o-o)|(o-o)| o-o| —   |0066  |
+
+
+#### VS-018
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  i  | —  | —  | u   | a    | a   | wa | a     | a:    |a | a:  | a   |0037-2|
+
+The sets VS-018 and VS-019 are (so far) the only sets with Gtaʔ /wa/ (notational variation /ua/ and /oa/) that do not seem to constinue _\*ə_. However, the two sets are as different from each other as they are from the goup of sets _\*ə₁_ and _\*ə₂_.
+
+##### _\*lv₍₁₈₎(N)dx_ ‘laugh (v)’ V₁ (\#0037-2)
+
+liɖa, FR, —, —, (ɖoɖo), BDBH.1283, luɖo, GZ65.228, laɖa, PKED.p202, lara, PJDW.p236, lwaʔ, PGEG.p32, lanɖa, CDES.p110, la:nɖa:, BMED.p102, landa, HOGV.p166, la:Nd, BAHL.p127, lanɖa, NKEV.p322, , laugh (v), #0037, V302, ,
+
+- Pinnow 1959: V302 / MKCD: —
+
+#### VS-019
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  i  | a  | o  | u   | u    | o   | wa | e     | i     |i | —   | e   |0050-2|
+
+##### _\*tv₍₁₉₎ŋxn/txnxŋ_ ‘stand (v)’ V₁ (\#0050-2)
+
+tinaŋ, FR, tanaŋ, RSED.p, toŋ, BDBH.1490, tunon, AG08.p662, tuŋon, PKED.p201, toŋon, PJDW.p287, thwaN, PGEG.p46, teŋgon, CDES.p186, tiŋun, BMED.p187, tiŋgu, HOGV.p180, —, —, ʈengene, NKEV.p342, \*txŋxn, stand (v), #0050, V258, 1824, 
+
+- Pinnow 1959: V258 / MKCD: 1824 _\*taaw_
+
+#### VS-020
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  a  | —  | —  | o   | a    | a   | ∅  | a     | a:    |a | ∅   | a   |0037-5|
+
+The correspondence set VS-020 is
+
+##### _\*lv₍₁₈₎(N)dv₍₂₀₎_ ‘laugh (v)’ V₂ (\#0037-5)
+
+liɖa, FR, —, —, (ɖoɖo), BDBH.1283, luɖo, GZ65.228, laɖa, PKED.p202, lara, PJDW.p236, lwaʔ, PGEG.p32, lanɖa, CDES.p110, la:nɖa:, BMED.p102, landa, HOGV.p166, la:Nd, BAHL.p127, lanɖa, NKEV.p322, , laugh (v), #0037, V302, ,
+
+- Pinnow 1959: V302 / MKCD: —
+
+#### VS-021 _\*O_
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  e  | i  | o  | o   | e    | ɛ   | ue | —     | —     |— | —   | —   |0040-2|
+
+VS-021 is a problematic correspondence set. Gtaʔ /we/ (variations: /oe/ and /ue/) seems to be a reflex of _\*oɲ_ in pre-Gtaʔ. Gtaʔ /we/ very conistenly correlates with /o/ in Remo and Gutob. However, no other correspondence set features Remo and Gutob /e/ as well as Kharia and Juang /e~ɛ/.
+
+Given the presence of back vowels in Remo-Gutob and Gtaʔ and with the palatal coda a motivation for fronting, exlaining the front vowels in Sora-Gorum, Kharia, and Juang we posit a back vowel _\*O_ (more likely _\*o_ than _\*u_).
+
+##### _\*ɖO₍₂₁₎ɲ_ ‘cook (v)’ (\#0040-2)
+
+ɖeɲ, FR, diɲ, RSED.p80, ɖoNĭ, BDBH.1302, ɖoɲ, AG08.p664, ɖeɲ, PKED.p63, ɖɛɲ, PJDW.p187, ɖue, PGEG.p17, —, —, —, —, —, —, —, —, —, —, \*ɖxɲ, cook (v), #0040, , , 
+
+- Pinnow 1959: — / MKCD: —
+
+
+#### VS-022
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  —  | —  | e  | ui  | i    | i   | i  | i     | iu    |i:| i:  | —   |0042-2|
+
+VS-022 is a unique set. While Kharia, Juang, Gtaʔ and all Kherwarian except Mundari feature a close front vowel (/i/), Mundaru /iu/ is a unique exception, unattested in any other set. Gutob /ui/ also occurs in \#0041-2 (\*bxɲˀ(\*bxxˀɲ?)_ ‘snake’), but does not correlate with Remo /e/ in this case nor with unrounded front vowels in North Munda.
+
+#### _\*sv₍₂₂₎_ ‘plough (v)’ (\#0042-2)
+
+(or), FR, (or), RSED.p195, se, BDBH.2706, sui, AG08.p650, si, PKED.p143, si, PJDW.p276, si, PGEG.p42, si, CDES.p143, siu, BMED.p175, si:, HOGV.p170, si:, BAHL.p135, —, —, \*sx, plough (v), #0042, V99, ,
+
+- Pinnow 1959: V99 / MKCD: —
+
+MKCD 1599 _\*bcuər_ is not a good candidate.
+
+#### VS-023 _\*I₍₂₃₎_
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  a  | ə  | ∅  | i   | i    | i   | ∅  | i     | i     |i | i   | i   |0046-1|
+
+VS-023 is unique and the all languages that have a vowel in this postion have an unrounded closed front vowel, except for Gorum /a/ and Sora /ə/.
+
+##### _\*I₍₂₃₎sin_ ‘to boil’ V₂ (\#0046-1)
+
+asin, FR, əsin, RSED.p16, nsiŋ, BDBH.1641, isin, GZ65.173, isin, PKED.p81, isinɔ, JLIC.v65, nsiŋ, PGEG.p37, isin, CDES.p39, isin, BMED.p77, isin, DHED.p153, isiŋ, BAHL.p12, isin, Korku.txt.12071, \*I₍₂₃₎sin, boil (v), #0046, V86, ,
+
+- Pinnow 1959: V86 / MKCD: —
+
+
+#### VS-024 \*I₍₂₄₎_
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  u  | i  | i  | i   | i    | i   | —  | (i)   | (i)   |— | i:  | —   |0049-1|
+
+VS-024 is very close to the _\*i₁_ set continuing _\*i_. However, Gorum /u/ is unexplained. The best candidate is currently _\*ɨ_. 
+
+##### _\*tI₍₂₄₎l_ ‘bury (v)’
+
+tul, FR, til, RSED.p288, ti, BDBH.1360, til, GZ65.408, til, PKED.p199, tir, PJDW.p284, —, —, (til), RSED.p288, (til), RSED.p288, —, —, ti:l, BAHL.p82, —, —, \*txl, bury (v), #0049, —, —, 
+
+#### VS-025
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  a  | a  |(o) | o   | o    | o   |(wa)| o     | u     |u | —   | e   |0050-4|
+
+VS-025 
+
+Comparison  _\*a₅_ (\#0014-3)  _\*ə₁_ (\#0055-3)
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+| a   | a  |(o) | o   | o    | o   |(wa)| o     | u     |u | —   | e   |0050-4|
+| a   | a  | ɔ  | o   | o    | o   | o  | ∅     | ∅     |∅ | ∅   | ∅   |0014-3|
+| a   | a  | o  | o   | o    | o   | wa | –     | –     |– | –   | –   |0055-3|
+
+
+##### _\*tv₍₁₉₎ŋv₍₂₅₎n/tv₍₁₉₎nv₍₂₅₎ŋ_ ‘stand (v)’ V₁ (\#0050-4)
+
+tinaŋ, FR, tanaŋ, RSED.p, toŋ, BDBH.1490, tunon, AG08.p662, tuŋon, PKED.p201, toŋon, PJDW.p287, thwaN, PGEG.p46, teŋgon, CDES.p186, tiŋun, BMED.p187, tiŋgu, HOGV.p180, —, —, ʈengene, NKEV.p342, \*txŋxn, stand (v), #0050, V258, 1824, 
+
+- Pinnow 1959: V258 / MKCD: 1824 _\*taaw_
+
+#### VS-026
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  e  | e  | u  | —   | —    | —   | i  | i     | i     |i | i   | i   |0052-2|
+
+##### _\*ɲv₍₂₆₎r_ ‘run (v)’ (\#0052-2)
+
+jer ,FR ,jer ,RSED.p88 ,ur ,BDBH.155 ,— ,— ,— ,— ,— ,— ,wir ,PGEG.p9 ,ɲir ,CDES.p164 ,nir ,BMED.p132 ,nir ,DHED.p246 ,ɲir ,BAHL.p66 ,niɽe ,NKEV.p328 ,*ɲxr ,run (v) ,#0052 , , ,
+
+
+#### VS-027 _\*ᵊ_
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  e  | a  | i  | i   | o    | —   | ∅  | —     | —     |— | —   | —   |0053-2|
+
+
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  e  | a  | i  | i   | o    | —   | ∅  | —     | —     |— | —   | —   |0053-2|
+|  a  | a  | i  | i   | ɔ    | —   | —  | e     | e     |e | e   | —   |0077-2|
+
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+| e-i | a-e| i-e| i-e | o-e  | —   | ∅-i| —     | —     |— | —   | —   |0053|
+| a-i | a-e| i-e| i-e | ɔ-ɛ  | —   | —  | e-e   | e-e  |e-e| e-e | —   |0077|
+
+##### _\*tᵊme_ ‘new’ V₁ (\#0053-2)
+
+tḛmi, FR, tamme, RSED.p277, time, BDBH.1383, time, ZG65.410, tonme, PKED.p289, —, —, tmi, PGEG.p125, (nãwã), CDES.p128, (nawã), BMED.p127, (nama), HOGV.p168, —, —, (uni), NKEV.345, \*tᵊme, new, #0053, V184, 144, 
+
+- Pinnow 1959: V182 / MKCD: 144 _\*t₁miʔ_
+
+#### VS-028 
+
+##### _\*gəle_ ‘ear of corn’ V₁ (\#0077-2)
+
+gali, FR, gale, RSED.p96, gileker, DSBO.11781, gile, GTXT.7791, gɔlɛ, HLKS.V182, (ɔnɔ), PJDW.p255, (konto-ja), PGEG.p28, gele, CDES.p185, gele, EM.p1418, gele, DHED.p111, geleʔ, BAHL.p45, (kelʈa), NKEV.p317, \*gxle, ear of corn, #0077, V182, 1577, 
+
+- Pinnow 1959: V182 / MKCD: 1577 _\*gur_; _\*guər_
+
+#### VS-029 _\*a_?
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  —  |(o:)| o  | o   | a(i) | (a) | we | a     | a:    |a:| a:  | a:  |0063-2|
+
+Gtaʔ /we/ suggests _\*oj(ˀ)_ in pre-Gtaʔ. This is supported by Remo and Gutob /oj/. The reflexes suggest _\*a_ similar to _\*a₄_ or _\*a₅_, however Gtaʔ _\*weʔ_ or the assumed pre-Gtaʔ _\*oj(ˀ)_ consititutes a deviation from the attested reflexes of _\*a_.
+
+#### _\*lv₍₂₉₎jˀ_ ‘stomach’ _\*a_?
+
+—, —, (lo:ˀɟ), RSED.p163, suloĭ, BDBH.2692, suloj, AG08.p651, la(i)ˀj, PKED.p119, (lai), JLIC.n57, slweʔ, PGEG.p43, lac’, CDES.p188, la:iˀ, BMED.p101, la:iʔ, DHED.p204, la:i:ʔ, BAHL.p123, la:j, NKEV.p323, \*lv₍₂₉₎jˀ, stomach, #0063, K282, , 
+
+- Pinnow 1959: K282 / MKCD: 1577 _\*gur_; _\*guər_
+
+
+
+#### VS-029 _\*O_
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  ∅  | ʊ  | u  | u   | u    | u   | o  | —     | (a)   |— | —   | —   |0068-5|
+
+VS-029 is the only set that features /u/ in Sora, Remo, Gutob, Kharia, and Juang  and /o/ in Gtaʔ. 
+
+The set shows some similarity with \#0062-2 of _\*txŋ_ ‘kindle (v)’. However, if Mundari /a/ belongs to this set, Kherwarian /a/ would be in sharp contrast to Khewarian /i/ in \#0062-2.
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  ∅  | ʊ  | u  | u   | u    | u   | o  | —     | (a)   |— | —   | —   |0068-5|
+| u   | u  | –  | –   | u    | –   | o  | i     | i     |i | –   | i   |0062-2|
+
+##### _\*ruNkOˀk_ ‘husked rice’ (\#0068-5)
+
+ruŋk, FR, rʊŋkʊ, RSED.p239, ruŋku, BDBH.2291, rukug, AG08.p672, ruŋkuˀb/rumkuˀb, PKED.p171, ruŋkub, PJDW.p269, rkoʔ, PGEG.p41, —, —, (rukhaɽ), BMED.p163, —, —, —, —, —, —, \*ruNkOˀk, husked rice, #0068, V139, 1820, 
+
+- Pinnow 1959: V139 / MKCD: 1820 _\*rk\[aw\]ʔ_
+
+Gtaʔ /rkoʔ/ is surprisingly close th Shorto’s  _\*rk\[aw\]ʔ_.
+
+#### VS-030 _\*Ə_
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  a  | a  | e  | —   | a    |(a)  | —  | e     | e     |e | e   | e   |0087-2|
+
+Gorum, Sora, and Kharia /a/ and North Munda /e/ are consistent with _\*a₃_ and _\*ə₁_. However, Remo /e/ is not compatible with any of these. In set  _\*a₃_, Remo features /a/ and in _\*ə₁_ /o/.  Furthermore, the palatal context motivating _\*a₃_ is probably absent in the case of \#0087-2.
+
+##### _\*sƏn_ ‘chase (v)’ (\#0087-2)
+
+san, FR, san, RSED.p248, sensen, BDBH.2714, —, —, san, PKED.p176, (saŋgem), PJDW.p273, —, —, sen, CSED.p572, sen, BMED.p172, sen, DHED.p311, sen, BAHL.p138, sen(e), NKEV.p337, \*sƏn, chase (v), #0087, V300, , 
+
+### VS-031
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  u  | e  | u  | u   | e    | i   | ∅  | i     | i:    |i:| i:  | —   |0098-2|
+
+##### _\*bv₍₃₁₎/bv₍₃₁₎sv₍₃₂₎_ ‘sated (v)’ (\#0098-2)
+
+buʔ, FR, beˀ, RSED.p56, busu, BDBH.1960, busu, Z1965.72, beso/u, PKED.p20, bisu, PJDW.p14, bse, PGEG.p14, bi(ʔ), CSED.p67, bi:(ʔ)/biu, BMED.22, bi:, DHED.p35, bi:, BAHL.p106, —, —, *bx, be sated (v), #0098, V319, 259, 
+
+- Pinnow 1959: V319 / MKCD: 259 _\*bhiiʔ_
+
+It remains unknown why \#0098-2 is not a straightforward reflex. The correspondence set shows some similarity with VS-003 (\#0041-2 and \#0062-2), but the attested words in this group have a palatal coda. The other similar set is VS-026 (\#0052-2). If we take the /u/ of Gorum as an effect 
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  u  | e  | u  | u   | e    | i   | ∅  | i     | i:    |i:| i:  | —   |0098-2|
+| (u) | i  | u  | ui  | u    | u   | o  | i     | i     |i | i:  | i   |0041-2|
+|  u  | u  | –  | –   | u    | –   | o  | i     | i     |i | –   | i   |0062-2|
+|  e  | e  | u  | —   | —    | —   | i  | i     | i     |i | i   | i   |0052-2|
+
+If MKCD 259  _\*bhiiʔ_ is correct the reflex should be consistent with _\*i_, but these vowels are not at all clear reflex of proto-Munda \*i_.
+
+### VS-032
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
+|  —  | —  | u  | u   | o/u  | u   | e  | —     | —     |— | —   | —   |0098-5|
+
+##### _\*bx/bv₍₃₁₎sv₍₃₂₎_ ‘sated (v)’ (\#0098-5)
+
+buʔ, FR, beˀ, RSED.p56, busu, BDBH.1960, busu, Z1965.72, beso/u, PKED.p20, bisu, PJDW.p14, bse, PGEG.p14, bi(ʔ), CSED.p67, bi:(ʔ)/biu, BMED.22, bi:, DHED.p35, bi:, BAHL.p106, —, —, *bx, be sated (v), #0098, V319, 259, 
+
+- Pinnow 1959: V319 / MKCD: 259 _\*bhiiʔ_
+
+Only in the /sV/ part attested in in Gutob, Remo, Kharia, Juang, and Gtaʔ, probably not going back to proto-Munda, especially if MKCD 259 is the same etymon.
+
+### Words with problematic vocalism
+
+#### _\*mxJxm_ ‘blood’ (\#0059)
+
+miam, FR, miɲam, RSED.p177, —, —, iam, GZ63.325, iɲam, PKED.p115, iɲam/iɲɑm, PJDW.p208, mia, PGEG.p33, maNyaNM, CDES.p18, ma:yom, BMED.p116, mayom, HOGV.p149, , , mayum, NKEV.p325, , blood, #0059, , , 
+
+#### _\*ɟxlxN_ ‘long/tall’
+
+zuleŋa, FR, ɟele:n, RSED.p123, sileŋ, BDBH.2601, silej, AG08.p651, jhelo(g, b, m), PKED.p92, ɟaliŋ, PJDW.210, clæ, PGEG.p15, jeleɲ, CSED.p260, jiliŋ, BMED.p83, jiliɲ, DHED.p165, —, —, —, —, \*ɟxlxN, long/tall, #0082, V340, 740, 
+
+The set _\*ɟxlxN_ ‘long/tall’ displays unclear reflexes of a final nasal. The problems are aggravated by the fact that this might be a fused set of two or more etyma meaning _long_, _tall_, _high_, _slim_, and related concepts all based in the consonantal frame _\*ɟxlxN_, but with different vowels. If we assume that the character of the vowel preceding the nasal may influence the the form in certain languages, the problem of the different etyma with different vowels is fundamental for the reconstruction of the final nasal.
+
 
 ## Consonants
 
@@ -1325,6 +1896,8 @@ This raises the possibility, that the reflexes of V₁ and V₂ of _\*bxrəl_ �
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
 |   p | p  | p  | p   | p    | ?   | p  | p(h)  | p     | p| p   | p   |
  
+Proto-Munda _\*p_ is surprisingly poorly attested in the
+
 only based on /pVC/ words, no well attested intervocalic instance of _\*p_ found so far.
 
 #### _\*peˀt_ ‘blow (v)’
@@ -1335,7 +1908,7 @@ Pinnow V157
 
 #### _\*pəˀt_/_\*par(om)_ ‘cross (v)’
 
-pa’d, FR, pad, RSED.p200, poʔ, BDBH.1793, poɖ, DSGU#18931, paro(m), PKED.p155, (pakea), DSJU#25131, pwaʔ, PGEG.p39, par, CSED.p474, pa:rom, BMED.p144, parom, DHED.p262, parom, BAHL.p97, pa:r, NKEV.p331, \*pxx, cross (v), #0085, , , 
+pa’d, FR, pad, RSED.p200, poʔ, BDBH.1793, poɖ, DSGU#18931, paro(m), PKED.p155, (pakea), DSJU#25131, pwaʔ, PGEG.p39, par, CSED.p474, pa:rom, BMED.p144, parom, DHED.p262, parom, BAHL.p97, pa:r, NKEV.p331, \*pəˀt, cross (v), #0085, , , 
 
 Althought the initial bilabials constitute a consistent correspondence set, evidence from the vowel and the dental/retroflex second consonant suggest that we have to assume \*pəˀt_ for Sora, Gorum, Remo, Gutob, and Gtaʔ and a second etymon _\*par(om)_ ‘cross (v)’ for Kharia and North Munda, probably of Indo-Aryan origin.
 
@@ -1343,7 +1916,7 @@ Althought the initial bilabials constitute a consistent correspondence set, evid
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
-| b   | b  | b  | b   | b    | b   | b  | b(h)  | b     | b| b(h)| b   |
+| b   | b  | b  | b   | b    | b   | b  | b     | b     | b| b(h)| b   |
 
 #### _\*b(xKʰ)xˀp_ ‘head’
 
@@ -1422,7 +1995,9 @@ muʔ, FR, mu:ʔ, RSED.p179, nseʔmiʔ, BDBH.1653, miʔ, GZ63.262, romoŋ/romoˀ�
 
 #### _\*maraˀk_ ‘peacock’
 
-(marraʔ), FR, ma:ra:, RSED.p173, —, —, —, —, maraʔ, PKED.p131, marag, PJDW.p242, —, —, marak’, CSED.p407, ma:ra:, BMED.p114, mara:, DHED.p225, mara:q, BAHL.p117, mara, NKEV.p324, \*maraˀk, peacock, #0081, V27, , 
+(marraʔ), FR, ma:ra:, RSED.p173, —, —, —, —, maraʔ, PKED.p131, marag, PJDW.p242, —, —, marak’, CSED.p407, ma:ra:, BMED.p114, mara:, DHED.p225, mara:q, BAHL.p117, mara, NKEV.p324, \*maraˀk, peacock, #0081, V27, ,
+
+- Pinnow 1959: V27 / MKCD: 416 _\*mraik\[ \]_ 
 
 Gorum _marraʔ_ ‘husband’ probably belongs to another etymon.
 
@@ -1584,7 +2159,7 @@ luˀd, FR, luˀd, RSED.p165, luntur, BDBH.2386, litir, AG08.p652, lutur, PKED.p1
 
 ɖeraŋ, FR, deraŋ, RSED.p78, deruŋ, BDBH.1266, —, —, ɖereŋ, PKED.p44, —, —, ɖiraŋ, PGEG.p17, dereɲ, CDSE.p171, diriŋ, BMED.p49, diriɲ, HOGV.p162, dereŋ, BAHL.p89, —, —, dəraŋ, horn, #0007, V347, 699, 34
 
-##### _\*ɖxɲ_ ‘cook (v)’
+##### _\*ɖO₍₂₁₎ɲ_ ‘cook (v)’
 
 ɖeɲ, FR, diɲ, RSED.p80, ɖoNĭ, BDBH.1302, ɖoɲ, AG08.p664, ɖeɲ, PKED.p63, ɖɛɲ, PJDW.p187, ɖue, PGEG.p17, —, —, —, —, —, —, —, —, —, —, \*ɖxɲ, cook (v), #0040, , , 
 
@@ -1825,7 +2400,7 @@ ḭj / iˀɟ, FR, gad-iɟ, RSED.p94, ik’, BDBH.88, ig, AG08.p652, iˀj, DSKH#1
 
 taɲ, FR, taɲ, RSED.p281, taNy, BDBH.1358, taɲ, GZ65.369, taɲ, PKED.p196, —, —, tæ, PGEG.p45, teɲ, CDES.p219, teŋ, BMED.p183, teɲ, HOGV.p187, —, —, —, —, taɲ, weave (v), #0005, V301, 898, 
 
-##### _\*ɖxɲ_ ‘cook (v)’
+##### _\*ɖO₍₂₁₎ɲ_ ‘cook (v)’
 
 ɖeɲ, FR, diɲ, RSED.p80, ɖoNĭ, BDBH.1302, ɖoɲ, AG08.p664, ɖeɲ, PKED.p63, ɖɛɲ, PJDW.p187, ɖue, PGEG.p17, —, —, —, —, —, —, —, —, —, —, \*ɖxɲ, cook (v), #0040, , , 
 
@@ -1956,6 +2531,9 @@ The _pala_ forms are probably Indo-Aryan (Turner 7969)
 #### _\*maraˀk_ ‘peacock’
 
 marraʔ, FR, ma:ra:, RSED.p173, —, —, —, —, maraʔ, PKED.p131, marag, PJDW.p242, —, —, marak’, CSED.p407, ma:ra:, BMED.p114, mara:, DHED.p225, mara:q, BAHL.p117, mara, NKEV.p324, \*maraˀk, peacock, #0081, V27, , 
+
+- Pinnow 1959: V27 / MKCD: 416 _\*mraik\[ \]_
+
 
 ### _\*ŋ₁_
 
@@ -2283,9 +2861,9 @@ ali, FR, əli/ali, RSED.p8, ili, BDBH.120, ili, AG08.p672, —, —, —, —, �
 
 —, —, ɟelu:, RSED.p123, sili/seli, BDBH.2599/2731, seli, AG08.p674, ―, —, —, —, cili, PGEG.p15, jel, CDES.p120, jilu, BMED.p83, jilu, DHED.p165, —, —, jilu, NKEV.p311, \*ɟxlx, meat, #0069, V228, , 
 
-#### _\*xlx_ ‘mango (ripe)’
+#### _\*uli_ ‘mango (ripe)’
 
-—, —, u:l, RSED.p304, uli, BDBH.171, —, —, —, —, holɛ, PJDW.p205, uli, PGEG.p7, ul, CDES.p118, uli, BMED.p192, uli, DHED.p370, u:l, BAHL.p19, —, —, \*xlx, mango (ripe), #0070, , , 
+—, —, u:l, RSED.p304, uli, BDBH.171, ili, DSGU#4032, —, —, (holɛ), PJDW.p205, uli, PGEG.p7, ul, CDES.p118, uli, BMED.p192, uli, DHED.p370, u:l, BAHL.p19, —, —, \*xlx, mango (ripe), #0070, , , 
 
 #### _\*lxtxr_ ‘ear’
 
@@ -2423,6 +3001,8 @@ Gorum and Sora _luˀd_ as well as Gtaʔ _nlug_ are not a regular reflex _\*lxtxr
 #### _\*maraˀk_ ‘peacock’
 
 marraʔ, FR, ma:ra:, RSED.p173, —, —, —, —, maraʔ, PKED.p131, marag, PJDW.p242, —, —, marak’, CSED.p407, ma:ra:, BMED.p114, mara:, DHED.p225, mara:q, BAHL.p117, mara, NKEV.p324, \*maraˀk, peacock, #0081, V27, , 
+
+- Pinnow 1959: V27 / MKCD: 416 _\*mraik\[ \]_
 
 #### _\*txrxl_ ‘ebony’  (_\*r₁_ or _\*r₂_)
 
