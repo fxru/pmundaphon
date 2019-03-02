@@ -668,11 +668,26 @@ Gtaʔ /æ/ is treated as a reflex of V₁ here.
 
 ##### _\*maˀt_ ‘bamboo joint’ (\#0105-2)
 
-maˀd, Z1982.p273, mad, RSED.p168, —, —, moʔ, DSGU#15161, moɖa, PKEP.p135, mɔɖɔ, PJDW.p244, (leʔ-mweʔ), PGEG.p31, mat', CSED.p410, ma:d', BMED.p110, maɖ, DHED.p221, ma:ɖ, BAHL.p118, ma:ʈ, NKEV.p325, *mVˀt, bamboo joint, #0105, K415(ˀt)/508(m), —,
+maˀd, Z1982.p273, mad, RSED.p168, —, —, moʔ, DSGU#15161, moɖa, PKEP.p135, mɔɖɔ, PJDW.p244, (leʔ-mweʔ), PGEG.p31, mat', CSED.p410, ma:d', BMED.p110, maɖ, DHED.p221, ma:ɖ, BAHL.p118, ma:ʈ, NKEV.p325, \*mVˀt, bamboo joint, #0105, K415(ˀt)/508(m), —,
 
 - Pinnow 1959: K415(ˀt)/508(m) / MKCD: —
 
 Contrasts with _\*məˀt_ ‘eye’ (\#0012)
+
+
+#### _\*a₅_
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
+| a   | a: | —  | —   | a    | ua  | —  | —     | a:    |a | —   | a   |
+
+##### _\*baaˀ_ ‘paddy’ (\#0123-2)
+
+baba, FR, ba:ba:, RSED.p47, —, —, —, —, —, —, baʔ, paddy, PKED.p10, bua, PJDW.p172, —, —, —, —, —, —, ba:ba:, BMED.p14, baba, paddy plant' DHED.p18' (a:ba:ga)' (grains)' BAHL.p9, baba, NKEV.p291, \*baaˀ, paddy, #0123, V4, 120, *ɓaʔ, paddy
+
+- Pinnow 1959: V4 /508(m) / MKCD: 120, ɓaʔ, paddy
+
+Juang /ua/ is unexplained. Given the phonological context, the initial \*ɓ is the only candidate that could explain the rounding in Juang.  
 
 
 ### Proto-Munda _\*i_
