@@ -486,7 +486,7 @@ Gorum _marraʔ_ ‘husband’ probably belongs to another etymon.
 
 ##### _\*ɲam_  ‘get (v)’ (\#0088-2)
 
-—, —, ɲam, RSED.p186, —, —, —, —, ɲam, PKED.p140, —, —, —, —, ɲam, CSED.p434, na:m, BMED.p126, nam, DHED.p241, ɲa:m, BAHL.p66, na, NKEV.p327, *ɲam, get (v), #0088, 5(?), 1243(?),
+—, —, ɲam, RSED.p186, —, —, —, —, ɲam, PKED.p140, —, —, —, —, ɲam, CSED.p434, na:m, BMED.p126, nam, DHED.p241, ɲa:m, BAHL.p66, na, NKEV.p327, \*ɲam, get (v), #0088, 5(?), 1243(?),
 
 - Pinnow 1959: 5(?) / MKCD: —
 
@@ -500,7 +500,7 @@ possibly _\*a₄_
 
 ##### _\*Kʰa(aˀ)_ ‘fish’ (\#0101-2)
 
-ajuʔ, FR, əjo:, RSED.p5, aɽoŋ/CF:aʔ, BDBH.56, aʔɖoŋ, GGEG.p91, kaɖoŋ, HLKS.V64, karoŋ, PJDW.219, haʔɽo/CF:haʔ, PGEG.p24, hako, CSED.p212, ha:i, BMED.p64, hai/haku, DHED.p126, haku:, DSKW@22340, ka:ku, NKEV.p316, *Kʰa(aˀ), fish, #0101, V64, 16,
+ajuʔ, FR, əjo:, RSED.p5, aɽoŋ/CF:aʔ, BDBH.56, aʔɖoŋ, GGEG.p91, kaɖoŋ, HLKS.V64, karoŋ, PJDW.219, haʔɽo/CF:haʔ, PGEG.p24, hako, CSED.p212, ha:i, BMED.p64, hai/haku, DHED.p126, haku:, DSKW@22340, ka:ku, NKEV.p316, \*Kʰa(aˀ), fish, #0101, V64, 16,
 
 - Pinnow 1959: V64 / MKCD: 16 _\*kaʔ_
 
@@ -512,7 +512,7 @@ Sora /ə/ is unexpected, but ptobably due to it becoming the presyllable of a ma
 
 ##### _\*gv₍₄₁₎ma_ ‘rain’ (#0108-4)
 
-—, —, gum, RSED.p105, —, —, arel-gum, DSGU#26300, gim, PKED.p61, gima, PJDW.p196, —, —, ?, ?, ga:ma:, BMED.p58, gama, DHED.p105, —, —, ghamaʔ, DSKO#9171, *gVmV, rain (n/vi), #0108, V282, 141,
+—, —, gum, RSED.p105, —, —, arel-gum, DSGU#26300, gim, PKED.p61, gima, PJDW.p196, —, —, ?, ?, ga:ma:, BMED.p58, gama, DHED.p105, —, —, ghamaʔ, DSKO#9171, \*gVmV, rain (n/vi), #0108, V282, 141,
 
 - Pinnow 1959: V282 / MKCD: 141 _\*gmaʔ_
 
@@ -595,7 +595,7 @@ taɲ, FR, taɲ, RSED.p281, taNy, BDBH.1358, taɲ, GZ65.369, taɲ, PKED.p196, —
 
 ##### _\*gaˀc_ ‘to fry’ (#0096-2)
 
-gaˀɟ ,FR ,gaɟ ,RSED.p95 ,gaĭ ,BDBH.766 ,gaj ,Z1965.120 ,gaˀj ,PKED.p165 ,gaj ,DSJU#10461 ,gæʔ ,PGEG.p19 ,ge̠c’ ,CSED.p184 ,geʔ ,EMV5.p1411 ,— ,— ,— ,— ,— ,— ,*gaˀc ,fry/scrape (v) ,#0096 ,V15 ,(338a) ,
+gaˀɟ ,FR ,gaɟ ,RSED.p95 ,gaĭ ,BDBH.766 ,gaj ,Z1965.120 ,gaˀj ,PKED.p165 ,gaj ,DSJU#10461 ,gæʔ ,PGEG.p19 ,ge̠c’ ,CSED.p184 ,geʔ ,EMV5.p1411 ,— ,— ,— ,— ,— ,— ,\*gaˀc ,fry/scrape (v) ,#0096 ,V15 ,(338a) ,
 
 - Pinnow 1959: V15 / MKCD: (338a)
 
@@ -610,7 +610,7 @@ gaˀɟ ,FR ,gaɟ ,RSED.p95 ,gaĭ ,BDBH.766 ,gaj ,Z1965.120 ,gaˀj ,PKED.p165 ,ga
 
 Defining context: bilabial stop coda –_\*Vˀp_
 
-Probable reflexes of _\*am_ are inconsistent. _\*gam_ ‘say (v)’ (\#0080-2) is clearly part of _\*a₁_ while _\*ɲam_  ‘get (v)’ (\#0088-2) is too poorly atttested to decide whether it belongs to _\*a₁_ or _\*a₄_. (In my notes I have _\*tam_ ‘to wash, rinse, hit’ that would fit best into _\*a₄, but Kharia /o/ would be inconsitent with \#0056-2.)
+Probable reflexes of _\*am_ are inconsistent. _\*gam_ ‘say (v)’ (\#0080-2) is clearly part of _\*a₁_ while _\*ɲam_  ‘get (v)’ (\#0088-2) is too poorly atttested to decide whether it belongs to _\*a₁_ or _\*a₄_. (In my notes I have _\*tam_ ‘to wash, rinse, hit’ that would fit best into _\*a₄_, but Kharia /o/ would be inconsitent with \#0056-2.)
 
 ##### _\*saˀp_ ‘grab (v)’ (\#0048-2)
 
@@ -683,7 +683,7 @@ Contrasts with _\*məˀt_ ‘eye’ (\#0012)
 
 ##### _\*baaˀ_ ‘paddy’ (\#0123-2)
 
-baba, FR, ba:ba:, RSED.p47, —, —, —, —, —, —, baʔ, paddy, PKED.p10, bua, PJDW.p172, —, —, —, —, —, —, ba:ba:, BMED.p14, baba, paddy plant' DHED.p18' (a:ba:ga)' (grains)' BAHL.p9, baba, NKEV.p291, \*baaˀ, paddy, #0123, V4, 120, *ɓaʔ, paddy
+baba, FR, ba:ba:, RSED.p47, —, —, —, —, —, —, baʔ, paddy, PKED.p10, bua, PJDW.p172, —, —, —, —, —, —, ba:ba:, BMED.p14, baba, paddy plant' DHED.p18' (a:ba:ga)' (grains)' BAHL.p9, baba, NKEV.p291, \*baaˀ, paddy, #0123, V4, 120, \*ɓaʔ, paddy
 
 - Pinnow 1959: V4 /508(m) / MKCD: 120, ɓaʔ, paddy
 
@@ -771,7 +771,7 @@ ḭj / iˀɟ, FR, gad-iɟ, RSED.p94, ik’, BDBH.88, ig, AG08.p652, iˀj, DSKH#1
 
 ##### _\*ɟi₂ŋ(k)_ ‘porcupine’ (\#0095-2)
 
-—,  —,  kənɟɪ:ŋ,  RSED.p131,  gisiŋreʔe,  BDBH.858,  —,  —,  jiŋray,  PKED.p86,  ɟiŋɛ,  PJDW.p212,  gcæiŋ,  PGEG.p22,  jhĩk,  CSED.p268,  jiki,  BMED.p82,  jiki,  DHED.p165,  ji:k,  DSKW@09500,  jikɽa,  NKEV.p313,  *ɟiŋ(k),  porcupine,  #0095,  V318,  528/1883, 
+—,  —,  kənɟɪ:ŋ,  RSED.p131,  gisiŋreʔe,  BDBH.858,  —,  —,  jiŋray,  PKED.p86,  ɟiŋɛ,  PJDW.p212,  gcæiŋ,  PGEG.p22,  jhĩk,  CSED.p268,  jiki,  BMED.p82,  jiki,  DHED.p165,  ji:k,  DSKW@09500,  jikɽa,  NKEV.p313,  \*ɟiŋ(k),  porcupine,  #0095,  V318,  528/1883, 
 
 - Pinnow 1959: V318 / MKCD: 528 _\*cu\[ə\]ŋ_; _\*cəŋ_; _\*ciəŋ_
 
@@ -1106,7 +1106,7 @@ geˀb ,FR ,tuŋge:b ,RSED.p298 ,gep’ ,BDBH.967 ,geb ,GZ65.123 ,geb ,PKED.p61 ,
 
 ##### _\*per_ ‘to burn (of chilies) (vi)’ (\#0097-2)
 
-per ,FR ,— ,— ,per ,BDBH.1756 ,per ,Z1975.294 ,— ,— ,— ,— ,pir ,PGEG.p38 ,pe̠ṛen ,CSED.p500 ,— ,— ,(pertol) ,DHED.p266 ,— ,— ,— ,— ,*per ,burn(chilies) (v) ,#0097 ,— , ,
+per ,FR ,— ,— ,per ,BDBH.1756 ,per ,Z1975.294 ,— ,— ,— ,— ,pir ,PGEG.p38 ,pe̠ṛen ,CSED.p500 ,— ,— ,(pertol) ,DHED.p266 ,— ,— ,— ,— ,\*per ,burn(chilies) (v) ,#0097 ,— , ,
 
 - Pinnow 1959: — / MKCD: —
 
@@ -1222,7 +1222,7 @@ North Munda /i/ has to be taken out. There is no regular sound change that will 
 
 ##### _\*or_ ‘drag (v)’ (\#0106-1)
 
-or, FR, or, RSED.p195, —, —, (an), (Z1965.24), —, —, —, —, ur-guʔ, PGEG.p7, or, CSED.p461, or, BMED.p138, or, DHED.p253, or, BAHL.p23, o(:)ɽ, NKEV.p329, *or, pull/drag (vt), #0106, —, —,
+or, FR, or, RSED.p195, —, —, (an), (Z1965.24), —, —, —, —, ur-guʔ, PGEG.p7, or, CSED.p461, or, BMED.p138, or, DHED.p253, or, BAHL.p23, o(:)ɽ, NKEV.p329, \*or, pull/drag (vt), #0106, —, —,
 
 - Pinnow 1959: — / MKCD: —
 
@@ -1287,13 +1287,13 @@ Gtaʔ /nɖroe/ derives from pre-Gtaʔ _\*n(ɖ)roj_
 
 ##### _\*roˀc_ ‘squeeze/milk (v)’ (\#0094-2)
 
-(ra’d),  FR,  (rad),  RSED.p226,  riʔ,  BDBH.2276,  roj,  DSGU#2071,  roˀj,  PKED.p170,  roɟ,  PJDW.p268,  rweʔ,  PGEG.p41,  roco,  BSDV5.p98,  roeʔ,  EMV12.p3628,  ro:eʔ,  DHED.p290,  roej,  DSKW@19520,  ro(:)c,  NKEV.p335,  *roˀc,  squeeze/milk (v),  #0094,  V381,  1061, 
+(ra’d),  FR,  (rad),  RSED.p226,  riʔ,  BDBH.2276,  roj,  DSGU#2071,  roˀj,  PKED.p170,  roɟ,  PJDW.p268,  rweʔ,  PGEG.p41,  roco,  BSDV5.p98,  roeʔ,  EMV12.p3628,  ro:eʔ,  DHED.p290,  roej,  DSKW@19520,  ro(:)c,  NKEV.p335,  \*roˀc,  squeeze/milk (v),  #0094,  V381,  1061, 
 
 - Pinnow 1959: V381 / MKCD: 1061 _\*ruut_; _\*ruət_; _\*rət_; _\*rat_; _\*rit_; _\*riit_; _\*riət_
 
 ##### _\*Kʰojo_ ‘wind’ (\#0102-2)
 
-—, —, —, —, uĭɖak', BDBH.130, oioi, GGEG.p90, koyo, PKEV.p108, koio, PJDW.p225, hueɽiaʔ, PGEG.p26, hoyoŋ, CSED.p237, hoyo, BMED.72, hoyo, DHED.p146, hoe, BAHL.p149, koyo, NKEV.318, *Kʰojo, wind, #0102, V202, 1782,
+—, —, —, —, uĭɖak', BDBH.130, oioi, GGEG.p90, koyo, PKEV.p108, koio, PJDW.p225, hueɽiaʔ, PGEG.p26, hoyoŋ, CSED.p237, hoyo, BMED.72, hoyo, DHED.p146, hoe, BAHL.p149, koyo, NKEV.318, \*Kʰojo, wind, #0102, V202, 1782,
 
 - Pinnow 1959: V202 / MKCD: 1782 _\*kyaal_
 
@@ -1316,7 +1316,7 @@ The reflexes of V₁ in _\*b(oKʰ)xˀp_ ‘head’ (\#0011) – Kharia /o/, Juan
 
 ##### _\*Kʰojo_ ‘wind’ (\#0102-4)
 
-—, —, —, —, uĭɖak', BDBH.130, oioi, GGEG.p90, koyo, PKEV.p108, koio, PJDW.p225, hueɽiaʔ, PGEG.p26, hoyoŋ, CSED.p237, hoyo, BMED.72, hoyo, DHED.p146, hoe, BAHL.p149, koyo, NKEV.318, *Kʰojo, wind, #0102, V202, 1782,
+—, —, —, —, uĭɖak', BDBH.130, oioi, GGEG.p90, koyo, PKEV.p108, koio, PJDW.p225, hueɽiaʔ, PGEG.p26, hoyoŋ, CSED.p237, hoyo, BMED.72, hoyo, DHED.p146, hoe, BAHL.p149, koyo, NKEV.318, \*Kʰojo, wind, #0102, V202, 1782,
 
 - Pinnow 1959: V202 / MKCD: 1782 _\*kyaal_
 
@@ -1374,46 +1374,46 @@ The reflexes especially with no apparent motivation for the front vowel in North
 
 Some variation: Sora o:~a seems real, Juang ɔ~o artefact of my inconsistent treatment of PJDW, Gtaʔ ua~wa seems to be the artefact of inconsistent represeantation of the diphthong in PGEG.
 
-##### _\*məˀt_ ‘eye’ (\#0012-2) _\*ə₁_v1
+##### _\*məˀt_ ‘eye’ (\#0012-2) _\*ə₁_ v1
 
 maˀd, FR, mo:ˀd/mad, RSED.p168, moʔ, BDBH.220, moʔ, AG08.p642, moˀɖ, PKED.p195, ɛmɔɖ, PJDW.p191, muaʔ, PGEG.p34, mẽ̠t’, CDES.p67, med’, BMED.p117, meɖ, DHED.p228, meɖ, BAHL.p120, med, ZKPM.p48, məˀt, eye, #0012, V250, 1045, 40
 
 - Pinnow 1959: V250 / MKCD: 1045 \*mat
 
-##### _\*gəˀt_ ‘cut (v)’ (\#0013-2) _\*ə₁_v2
+##### _\*gəˀt_ ‘cut (v)’ (\#0013-2) _\*ə₁_ v2
 
 gaˀd, FR, gad, RSED.p93, goʔ, BDBH.1018, goʔ, AG08.p669, gaˀɖ, PKED.p60, , , gwaʔ, PGEG.p21, ge̠t’, CDES.p44, ged’, EMV5.1411, geɖ, DHED.p111, geɖ, BAHL.p46, geʈ, NKEV.p306, gəˀt, cut (v), #0013, V334, 972, 
 
 - Pinnow 1959: V334 / MKCD: MKCD 972 _\*sguut_; _\*\[s\]gət_; _\*sgat_
  
 
-##### _\*bVrəl_ ‘raw’ V₂ (\#0019-4) _\*ə₁_v1/3/4
+##### _\*bVrəl_ ‘raw’ V₂ (\#0019-4) _\*ə₁_ v1/3/4
 
 —, —, —, —, buro, BDBH.1937, burol, GZ65.74, borol, PKED.p25, boron, PJDW.p171, brwa, PGEG.p14, be̠re̠l, CDES.p211, berel, BMED.p21, berel, HOGV.p185, berel, BAHL.p111, boboɽ, NKEV.p294, \*bxrəl, raw, #0019, V253, , 
 
 - Pinnow 1959: V253 / MKCD: —
 
 
-##### _\*səreŋ_ ‘stone’ V₁ (\#0020-2) _\*ə₁_v3
+##### _\*səreŋ_ ‘stone’ V₁ (\#0020-2) _\*ə₁_ v3
 
 areŋ, FR, areŋ, RSED.p39, —, —, —, —, soreŋ, PKED.p187, —, —, —, —, —, —, sereŋ, BMED.p172, sereɲ, HOGV.p175, —, —, —, —, \*səreŋ, stone, #0020, V183, , 
 
 - Pinnow 1959: V183 / MKCD: —
 
 
-##### _\*xsər_ ‘dry’ V₂ (\#0055-3) _\*ə₁_v3
+##### _\*xsər_ ‘dry’ V₂ (\#0055-3) _\*ə₁_ v3
 
 asar, FR, asar, RSED.p42, nsor, BDBH.1657, usor, AG08.p650, kosor, PKED.p155, kosor, PJDW.p229, nswar, PGEG.p37, —, —, —, —, —, —, —, —, —, —, \*xsxr, dry, #0055, V260, 160, 
 
 - Pinnow 1959: V183 / MKCD: 160 _\*rɔʔ_;  _\*rɔs_, ( _\*rɔs rɔs_ >?) _\*srɔs_
 
-##### _\*əsel_ ‘white’ V₁ (\#0065-1) _\*ə₁_v1/3/4
+##### _\*əsel_ ‘white’ V₁ (\#0065-1) _\*ə₁_ v1/3/4
 
 asel, FR, —, —, —, —, —, —, osel, PKED.p216, —, —, —, —, e̠se̠l, BSDV2.p343, esel, BMED.p56, esel, DHED.p102, hesel, BAHL.p149, esel, HLKS.V255, \*əsel, white, #0065, V255, , 
 
 - Pinnow 1959: V255 / MKCD: —
 
-##### _\*sVŋəl_ ‘fuel’ V₂ (\#0021-4) _\*ə₁_v4
+##### _\*sVŋəl_ ‘fuel’ V₂ (\#0021-4) _\*ə₁_ v4
 
 aŋal, FR, aŋəl, RSED.p37, suŋo, BDBH.2638, suõl, GZ63.216, soŋgol, PKED.p186, sɛŋon, PJDW.p276, sua, PGEG.p43, se̠ŋge̠l, CDES.p73, seŋgel, BMED.p172, seŋgel, HOGV.p158, seNgel, BAHL.p137, —, —, \*sxŋxl, fuel, #0021, V252, 1723, 
 
@@ -1427,7 +1427,7 @@ _sua_/_su.a_ < _\*suŋal_ < _\*sVŋVl_ with l-loss and intervocalic ŋ-loss or _
 
 pa’d, FR, pad, RSED.p200, poʔ, BDBH.1793, poɖ, DSGU#18931, paro(m), PKED.p155, (pakea), DSJU#25131, pwaʔ, PGEG.p39, par, CSED.p474, pa:rom, BMED.p144, parom, DHED.p262, parom, BAHL.p97, pa:r, NKEV.p331, \*pəˀt, cross (v), #0085, , , 
 
-While the reflexes in Gorum, Sora, Remo, Gutob, and Gtaʔ are consistent with a reconstruction of proto-Munda _\*pəˀt_. The attested vowels are consistent with the correspondence sets _\*ə_v2 and _\*ə_v3. 
+While the reflexes in Gorum, Sora, Remo, Gutob, and Gtaʔ are consistent with a reconstruction of proto-Munda _\*pəˀt_. The attested vowels are consistent with the correspondence sets _\*ə_ v2 and _\*ə_ v3. 
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
@@ -1443,17 +1443,17 @@ baˀd ,FR ,bad ,RSED.p47 ,boʔ ,BDBH.2027 ,bod ,Z1965.59 ,— ,— ,— ,— ,bo
 
 ##### _\*ɟv₍₄₀₎ləˀt_ ‘slip (vi)/be slippery’ (\#0107-4)
 
-—, —, ɟalo:/ɟəlo:(ɟ), RSED.p120/115, sulo(ʔ), DSRE#37391, sulod, Z1965.383, joloɖ, PKED.p88, —, —, cluaʔ, PGEG.p16, (jilet'/jalat'), CSED.p273/252, jila:d', BMED.p83, jilad, DHED.p165, jeleɖ, BAHL.p62, (silir), NKEV.338, *ɟVlVˀt, slip (vi)/be slippery, #0107, V259, 1076/1081,
+—, —, ɟalo:/ɟəlo:(ɟ), RSED.p120/115, sulo(ʔ), DSRE#37391, sulod, Z1965.383, joloɖ, PKED.p88, —, —, cluaʔ, PGEG.p16, (jilet'/jalat'), CSED.p273/252, jila:d', BMED.p83, jilad, DHED.p165, jeleɖ, BAHL.p62, (silir), NKEV.338, \*ɟVlVˀt, slip (vi)/be slippery, #0107, V259, 1076/1081,
 
 - Pinnow 1959: V259 / MKCD: 1076 _\*liit_; _\*liət_ / 1081 _\*lut_; _\*luut_; _\*luət_; _\*lət_; _\*lat_; (_\*lut-s_;) _\*luc_;  _\*luuc_; _\*luəc_; _\*l\[ə\]c_
 
 ##### _\*tv₍₄₃₎məˀt_ ‘mouth’  (\#0110-2)
 
-"toˀd/tom, FR, tˀod/tam, RSED.p291/276, tumoʔ, BDBH.1431, tumog, AG08.662, tomoˀɖ, PKED.p201, tɔmɔd, PJDW.p286, tmwaʔ, PGEG.46, —, —, —, —, —, —, —, —, —, —, *tVmVˀt, mouth, #0110, V393, 1001/2020, "
+"toˀd/tom, FR, tˀod/tam, RSED.p291/276, tumoʔ, BDBH.1431, tumog, AG08.662, tomoˀɖ, PKED.p201, tɔmɔd, PJDW.p286, tmwaʔ, PGEG.46, —, —, —, —, —, —, —, —, —, —, \*tVmVˀt, mouth, #0110, V393, 1001/2020, "
 
 - Pinnow 1959: V393 / MKCD: 1001 _\*t₁ət_ ‘mouth’ /2020 _\*t₁n₁ɔh_ ‘mouth’
 
-remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m`ɔət_
+remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m'ɔət_
 
 ### Superset: _\*ᵊ_ epenthetic schwa
 
@@ -1776,7 +1776,7 @@ V₁ of _\*bVrəl_ ‘raw’ (\#0019-2) and _\*sVŋəl_ ‘fuel’ (\#0021-2) ar
 | a   | a  | —  | —   | o    | —   | —  | –     | e     |e | –   | –   |0020-2|
 | a   | –  | –  | –   | o    | —   | –  | e̠    | e     |e | e   | e   |0065-1|
 
-However, all other reflexes of the set _\*ə₁_ feature Remo and Gutob /o/, when one of these two languages provides a reflex. Furthermore, V₂ of _\*bVrəl_ ‘raw’ (\#0019-4) shows distinct reflexes from V₁ (\#0019-1) and is itself consitent with _\*ə₁_v1/3/4.
+However, all other reflexes of the set _\*ə₁_ feature Remo and Gutob /o/, when one of these two languages provides a reflex. Furthermore, V₂ of _\*bVrəl_ ‘raw’ (\#0019-4) shows distinct reflexes from V₁ (\#0019-1) and is itself consitent with _\*ə₁_ v1/3/4.
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
@@ -2190,7 +2190,7 @@ Comparison to _\*u₅_ and in particular \*vdʲu₅ˀp_ ‘night’ V₂ (\#0033
 
 ##### _\*ɲUm_ ‘name’ (\#0100-2)
 
-inum, FR, əɲam, RSED.p12, nimi, BDBH.1588, imi, AG.p645, (i)ɲimi, PKED.p140, —, —, mni, PGEG.p35, ɲum/ɲutum, CSED.p451/452, num/nutum, BMED.134, numu/nutum, DHED.p249, —, —, jimu, , *ɲUm, name, #0100, V279, 147,
+inum, FR, əɲam, RSED.p12, nimi, BDBH.1588, imi, AG.p645, (i)ɲimi, PKED.p140, —, —, mni, PGEG.p35, ɲum/ɲutum, CSED.p451/452, num/nutum, BMED.134, numu/nutum, DHED.p249, —, —, jimu, , \*ɲUm, name, #0100, V279, 147,
 
 - Pinnow 1959: V319 / MKCD: 147 _\*\[hy\]muʔ_
 
@@ -2203,7 +2203,7 @@ inum, FR, əɲam, RSED.p12, nimi, BDBH.1588, imi, AG.p645, (i)ɲimi, PKED.p140, 
 
 ##### _\*sv₍₃₉₎r_ ‘sambar (deer)’ (\#0103-2)
 
-ki(N)sar, FR, kinsar, RSED.p141, saram/săram/sram/siram, BDBH.2496/2591, suram, AG08.p651, —, —, sɛram, PJDW.p276, sra, PGEG.p44, saram, CSED.p563, sa:ra:m, BMED.p169, saram, DHED.p305, —, —, (ruy), NKEV.335, *sVr, sambar (deer), #0103, —, —, 
+ki(N)sar, FR, kinsar, RSED.p141, saram/săram/sram/siram, BDBH.2496/2591, suram, AG08.p651, —, —, sɛram, PJDW.p276, sra, PGEG.p44, saram, CSED.p563, sa:ra:m, BMED.p169, saram, DHED.p305, —, —, (ruy), NKEV.335, \*sVr, sambar (deer), #0103, —, —, 
 
 - Pinnow 1959: — / MKCD: —
 
@@ -2216,7 +2216,7 @@ ki(N)sar, FR, kinsar, RSED.p141, saram/săram/sram/siram, BDBH.2496/2591, suram
 
 ##### _\*ɟv₍₄₀₎ləˀt_ ‘slip (vi)/be slippery’ (\#0107-2)
 
-—, —, ɟalo:/ɟəlo:(ɟ), RSED.p120/115, sulo(ʔ), DSRE#37391, sulod, Z1965.383, joloɖ, PKED.p88, —, —, cluaʔ, PGEG.p16, (jilet'/jalat'), CSED.p273/252, jila:d', BMED.p83, jilad, DHED.p165, jeleɖ, BAHL.p62, (silir), NKEV.338, *ɟVlVˀt, slip (vi)/be slippery, #0107, V259, 1076/1081,
+—, —, ɟalo:/ɟəlo:(ɟ), RSED.p120/115, sulo(ʔ), DSRE#37391, sulod, Z1965.383, joloɖ, PKED.p88, —, —, cluaʔ, PGEG.p16, (jilet'/jalat'), CSED.p273/252, jila:d', BMED.p83, jilad, DHED.p165, jeleɖ, BAHL.p62, (silir), NKEV.338, \*ɟVlVˀt, slip (vi)/be slippery, #0107, V259, 1076/1081,
 
 - Pinnow 1959: V259 / MKCD: 1076 _\*liit_; _\*liət_ / 1081 _\*lut_; _\*luut_; _\*luət_; _\*lət_; _\*lat_; (_\*lut-s_;) _\*luc_;  _\*luuc_; _\*luəc_; _\*l\[ə\]c_
 
@@ -2229,7 +2229,7 @@ ki(N)sar, FR, kinsar, RSED.p141, saram/săram/sram/siram, BDBH.2496/2591, suram
 
 ##### _\*gv₍₄₁₎ma_ ‘rain’ (#0108-2)
 
-—, —, gum, RSED.p105, —, —, arel-gum, DSGU#26300, gim, PKED.p61, gima, PJDW.p196, —, —, ?, ?, ga:ma:, BMED.p58, gama, DHED.p105, —, —, ghamaʔ, DSKO#9171, *gVmV, rain (n/vi), #0108, V282, 141,
+—, —, gum, RSED.p105, —, —, arel-gum, DSGU#26300, gim, PKED.p61, gima, PJDW.p196, —, —, ?, ?, ga:ma:, BMED.p58, gama, DHED.p105, —, —, ghamaʔ, DSKO#9171, \*gVmV, rain (n/vi), #0108, V282, 141,
 
 - Pinnow 1959: V282 / MKCD: 141 _\*gmaʔ_
 
@@ -2241,7 +2241,7 @@ ki(N)sar, FR, kinsar, RSED.p141, saram/săram/sram/siram, BDBH.2496/2591, suram
 
 ##### _\*sv₍₄₂₎rv₍₄₂₎ˀp_ ‘sip (v)’ (\#0109-2/4)
 
-soɖo'b, Zide, sərub, RSED.p242, —, —, surub, DSGU#23421, suruˀb, PKED.p190, surupi, DSJU#30520, srog, PGEG.p44, sirup', CSED.p582, —, —, siri:b, DHED.p320, —, —, —, —, *sVrVˀp, sip (v), #0109, V354, 1283,
+soɖo'b, Zide, sərub, RSED.p242, —, —, surub, DSGU#23421, suruˀb, PKED.p190, surupi, DSJU#30520, srog, PGEG.p44, sirup', CSED.p582, —, —, siri:b, DHED.p320, —, —, —, —, \*sVrVˀp, sip (v), #0109, V354, 1283,
 
 - Pinnow 1959: V354 / MKCD: 1283 _\*srup_; _\*sruup_ ‘to suck, drink’
 
@@ -2254,11 +2254,11 @@ soɖo'b, Zide, sərub, RSED.p242, —, —, surub, DSGU#23421, suruˀb, PKED.p19
 
 ##### _\*tv₍₄₃₎məˀt_ ‘mouth’  (\#0110-2)
 
-"toˀd/tom, FR, tˀod/tam, RSED.p291/276, tumoʔ, BDBH.1431, tumog, AG08.662, tomoˀɖ, PKED.p201, tɔmɔd, PJDW.p286, tmwaʔ, PGEG.46, —, —, —, —, —, —, —, —, —, —, *tVmVˀt, mouth, #0110, V393, 1001/2020, "
+"toˀd/tom, FR, tˀod/tam, RSED.p291/276, tumoʔ, BDBH.1431, tumog, AG08.662, tomoˀɖ, PKED.p201, tɔmɔd, PJDW.p286, tmwaʔ, PGEG.46, —, —, —, —, —, —, —, —, —, —, \*tVmVˀt, mouth, #0110, V393, 1001/2020, "
 
 - Pinnow 1959: V393 / MKCD: 1001 _\*t₁ət_ ‘mouth’ /2020 _\*t₁n₁ɔh_ ‘mouth’
 
-remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m`ɔət_
+remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m'ɔət_
 
 ### VS-044
 
@@ -2268,7 +2268,7 @@ remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m`ɔət_
 
 ##### _\*sv₍₄₄₎(vˀ)l_ ‘husking mortar’  (\#0104-2)
 
-a̰l, FR, ono:l/OnAl, RSED.p194/DSSO#50351, sabu, BDBH.2490, saʔl, JV, sol, PKED.p185, (hesab), PJDW.p204), saboʔ, PGEG.p41, —, —, se:l/sehel, EMV13.p3900/3894, sẽ:l, DHED.p311, —, —, sel, DSKO#24701, *sV(Vˀ)l, husking mortar, #0104, —, —,
+a̰l, FR, ono:l/OnAl, RSED.p194/DSSO#50351, sabu, BDBH.2490, saʔl, JV, sol, PKED.p185, (hesab), PJDW.p204), saboʔ, PGEG.p41, —, —, se:l/sehel, EMV13.p3900/3894, sẽ:l, DHED.p311, —, —, sel, DSKO#24701, \*sV(Vˀ)l, husking mortar, #0104, —, —,
 
 - Pinnow 1959: V233 / MKCD —
 
@@ -2282,11 +2282,11 @@ a̰l, FR, ono:l/OnAl, RSED.p194/DSSO#50351, sabu, BDBH.2490, saʔl, JV, sol, PKE
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
 | a   | i  | e  | e   | a    | a   | oe | —     | —     |— | —   | —   |0111-2|
 
-Problematic vowel set Gtaʔ /oe/ is a reflex of an earlier Gtaʔ /o/ before a palatal coda. However, neither /oe/ (~/we/~/ue/) nor /o/ correspond to Remo or Gutob /e/ nor to Kharia or Juang /a/.
+Problematic vowel set Gtaʔ /oe/ is a reflex of an earlier Gtaʔ /o/ before a palatal coda. However, neither /oe/ (~/we/~/ue/) nor /o/ correspond to Remo or Gutob /e/ nor to Kharia or Juang /a/. 
 
 ##### _\*tv₍₄₅₎ˀc_ ‘distribute’  (\#0111-2)
 
-taˀɟ, to give, FR, tij, to give, RSED.p287, teʔsaʔgur, the one-day feast at the time of marriage when only wine is served, BDBH.1473, tej, to serve food, Z1965.401, taˀj, to distribute; to divide, PKED.p195, taɟ, teilen; verteilen, PJDW.p283, toeʔ, to serve food; to distribute food, PGEG.p45, —, —, —, —, —, —, —, —, —, —, —, —, —, —, —, *tVˀc, distribute (v)
+taˀɟ, to give, FR, tij, to give, RSED.p287, teʔsaʔgur, the one-day feast at the time of marriage when only wine is served, BDBH.1473, tej, to serve food, Z1965.401, taˀj, to distribute; to divide, PKED.p195, taɟ, teilen; verteilen, PJDW.p283, toeʔ, to serve food; to distribute food, PGEG.p45, —, —, —, —, —, —, —, —, —, —, —, —, —, —, —, \*tVˀc, distribute (v)
 
 ### VS-046
 
@@ -2300,7 +2300,7 @@ forest
 
 ##### _\*gv₍₄₈₎l_ ‘ten’  (\#0111-2)
 
-galgi, ten, FR, galɟi, ten, RSED.p96, go:, ten, HLKS.V249, gol, ten, DSGU#26750, gel, ten, DSKH#10041, —, —, —, go, ten, DSGT#5591, gel, ten, CSED.p185, gel(ea), BMED.p59, BMED.p59, gel, ten, DHED.p111, —, —, —, gel(ya), ten, NKEV.p305, *gVl, ten, #0122, V249, , , , , , , , , , , ,
+galgi, ten, FR, galɟi, ten, RSED.p96, go:, ten, HLKS.V249, gol, ten, DSGU#26750, gel, ten, DSKH#10041, —, —, —, go, ten, DSGT#5591, gel, ten, CSED.p185, gel(ea), BMED.p59, BMED.p59, gel, ten, DHED.p111, —, —, —, gel(ya), ten, NKEV.p305, \*gVl, ten, #0122, V249, , , , , , , , , , , ,
 
 ### Words with problematic vocalism
 
@@ -2405,7 +2405,7 @@ Althought the initial bilabials constitute a consistent correspondence set, evid
 
 ##### _\*per_ ‘to burn (of chilies) (vi)’ (\#0097-2)
 
-per ,FR ,— ,— ,per ,BDBH.1756 ,per ,Z1975.294 ,— ,— ,— ,— ,pir ,PGEG.p38 ,pe̠ṛen ,CSED.p500 ,— ,— ,(pertol) ,DHED.p266 ,— ,— ,— ,— ,*per ,burn(chilies) (v) ,#0097 ,— , ,
+per ,FR ,— ,— ,per ,BDBH.1756 ,per ,Z1975.294 ,— ,— ,— ,— ,pir ,PGEG.p38 ,pe̠ṛen ,CSED.p500 ,— ,— ,(pertol) ,DHED.p266 ,— ,— ,— ,— ,\*per ,burn(chilies) (v) ,#0097 ,— , ,
 
 - Pinnow 1959: — / MKCD: —
 
@@ -2579,7 +2579,7 @@ alu’b, FR, əle:b, RSED.p7, sulup, BDBH.2688, sulub, GGEG.p116, selhob, PKED.p
 
 ##### _\*sv₍₄₂₎rv₍₄₂₎ˀp_ ‘sip (v)’ (\#0109-5)
 
-soɖo'b, Zide, sərub, RSED.p242, —, —, surub, DSGU#23421, suruˀb, PKED.p190, surupi, DSJU#30520, srog, PGEG.p44, sirup', CSED.p582, —, —, siri:b, DHED.p320, —, —, —, —, *sVrVˀp, sip (v), #0109, V354, 1283,
+soɖo'b, Zide, sərub, RSED.p242, —, —, surub, DSGU#23421, suruˀb, PKED.p190, surupi, DSJU#30520, srog, PGEG.p44, sirup', CSED.p582, —, —, siri:b, DHED.p320, —, —, —, —, \*sVrVˀp, sip (v), #0109, V354, 1283,
 
 - Pinnow 1959: V354 / MKCD: 1283 _\*srup_; _\*sruup_ ‘to suck, drink’
 
@@ -2689,7 +2689,7 @@ Gorum _marraʔ_ ‘husband’ probably belongs to another etymon connected with 
 
 ##### _\*maˀt_ ‘bamboo joint’ (\#0105-2)
 
-maˀd, Z1982.p273, mad, RSED.p168, —, —, moʔ, DSGU#15161, moɖa, PKEP.p135, mɔɖɔ, PJDW.p244, (leʔ-mweʔ), PGEG.p31, mat', CSED.p410, ma:d', BMED.p110, maɖ, DHED.p221, ma:ɖ, BAHL.p118, ma:ʈ, NKEV.p325, *mVˀt, bamboo joint, #0105, K415(ˀt)/508(m), —,
+maˀd, Z1982.p273, mad, RSED.p168, —, —, moʔ, DSGU#15161, moɖa, PKEP.p135, mɔɖɔ, PJDW.p244, (leʔ-mweʔ), PGEG.p31, mat', CSED.p410, ma:d', BMED.p110, maɖ, DHED.p221, ma:ɖ, BAHL.p118, ma:ʈ, NKEV.p325, \*mVˀt, bamboo joint, #0105, K415(ˀt)/508(m), —,
 
 - Pinnow 1959: K415(ˀt)/508(m) / MKCD: —
 
@@ -2727,17 +2727,17 @@ tḛmi, FR, tamme, RSED.p277, time, BDBH.1383, time, ZG65.410, tonme, PKED.p289,
 
 ##### _\*gv₍₄₁₎ma_ ‘rain’ (#0108-3)
 
-—, —, gum, RSED.p105, —, —, arel-gum, DSGU#26300, gim, PKED.p61, gima, PJDW.p196, —, —, ?, ?, ga:ma:, BMED.p58, gama, DHED.p105, —, —, ghamaʔ, DSKO#9171, *gVmV, rain (n/vi), #0108, V282, 141,
+—, —, gum, RSED.p105, —, —, arel-gum, DSGU#26300, gim, PKED.p61, gima, PJDW.p196, —, —, ?, ?, ga:ma:, BMED.p58, gama, DHED.p105, —, —, ghamaʔ, DSKO#9171, \*gVmV, rain (n/vi), #0108, V282, 141,
 
 - Pinnow 1959: V282 / MKCD: 141 _\*gmaʔ_
 
 ##### _\*tv₍₄₃₎məˀt_ ‘mouth’  (\#0110-2)
 
-"toˀd/tom, FR, tˀod/tam, RSED.p291/276, tumoʔ, BDBH.1431, tumog, AG08.662, tomoˀɖ, PKED.p201, tɔmɔd, PJDW.p286, tmwaʔ, PGEG.46, —, —, —, —, —, —, —, —, —, —, *tVmVˀt, mouth, #0110, V393, 1001/2020, "
+"toˀd/tom, FR, tˀod/tam, RSED.p291/276, tumoʔ, BDBH.1431, tumog, AG08.662, tomoˀɖ, PKED.p201, tɔmɔd, PJDW.p286, tmwaʔ, PGEG.46, —, —, —, —, —, —, —, —, —, —, \*tVmVˀt, mouth, #0110, V393, 1001/2020, "
 
 - Pinnow 1959: V393 / MKCD: 1001 _\*t₁ət_ ‘mouth’ /2020 _\*t₁n₁ɔh_ ‘mouth’
 
-remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m`ɔət_
+remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m'ɔət_
 
 #### _\*m₁_ (Coda)
 
@@ -2932,11 +2932,11 @@ Gtaʔ _ʈe_ is problematic. The retroflex /ʈ/ is unexplained, as is Mundari /ʈ
 
 ##### _\*tv₍₄₃₎məˀt_ ‘mouth’  (\#0110-2)
 
-"toˀd/tom, FR, tˀod/tam, RSED.p291/276, tumoʔ, BDBH.1431, tumog, AG08.662, tomoˀɖ, PKED.p201, tɔmɔd, PJDW.p286, tmwaʔ, PGEG.46, —, —, —, —, —, —, —, —, —, —, *tVmVˀt, mouth, #0110, V393, 1001/2020, "
+"toˀd/tom, FR, tˀod/tam, RSED.p291/276, tumoʔ, BDBH.1431, tumog, AG08.662, tomoˀɖ, PKED.p201, tɔmɔd, PJDW.p286, tmwaʔ, PGEG.46, —, —, —, —, —, —, —, —, —, —, \*tVmVˀt, mouth, #0110, V393, 1001/2020, "
 
 - Pinnow 1959: V393 / MKCD: 1001 _\*t₁ət_ ‘mouth’ /2020 _\*t₁n₁ɔh_ ‘mouth’
 
-remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m`ɔət_
+remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m'ɔət_
 
 #### _\*t₂_ (Onset)
 
@@ -3089,7 +3089,7 @@ baˀd ,FR ,bad ,RSED.p47 ,boʔ ,BDBH.2027 ,bod ,Z1965.59 ,— ,— ,— ,— ,bo
 
 ##### _\*maˀt_ ‘bamboo joint’ (\#0105-3)
 
-maˀd, Z1982.p273, mad, RSED.p168, —, —, moʔ, DSGU#15161, moɖa, PKEP.p135, mɔɖɔ, PJDW.p244, (leʔ-mweʔ), PGEG.p31, mat', CSED.p410, ma:d', BMED.p110, maɖ, DHED.p221, ma:ɖ, BAHL.p118, ma:ʈ, NKEV.p325, *mVˀt, bamboo joint, #0105, K415(ˀt)/508(m), —,
+maˀd, Z1982.p273, mad, RSED.p168, —, —, moʔ, DSGU#15161, moɖa, PKEP.p135, mɔɖɔ, PJDW.p244, (leʔ-mweʔ), PGEG.p31, mat', CSED.p410, ma:d', BMED.p110, maɖ, DHED.p221, ma:ɖ, BAHL.p118, ma:ʈ, NKEV.p325, \*mVˀt, bamboo joint, #0105, K415(ˀt)/508(m), —,
 
 - Pinnow 1959: K415(ˀt)/508(m) / MKCD: —
 
@@ -3097,17 +3097,17 @@ Contrasts with _\*məˀt_ ‘eye’ (\#0012)
 
 ##### _\*ɟv₍₄₀₎ləˀt_ ‘slip (vi)/be slippery’ (\#0107-5)
 
-—, —, ɟalo:/ɟəlo:(ɟ), RSED.p120/115, sulo(ʔ), DSRE#37391, sulod, Z1965.383, joloɖ, PKED.p88, —, —, cluaʔ, PGEG.p16, (jilet'/jalat'), CSED.p273/252, jila:d', BMED.p83, jilad, DHED.p165, jeleɖ, BAHL.p62, (silir), NKEV.338, *ɟVlVˀt, slip (vi)/be slippery, #0107, V259, 1076/1081,
+—, —, ɟalo:/ɟəlo:(ɟ), RSED.p120/115, sulo(ʔ), DSRE#37391, sulod, Z1965.383, joloɖ, PKED.p88, —, —, cluaʔ, PGEG.p16, (jilet'/jalat'), CSED.p273/252, jila:d', BMED.p83, jilad, DHED.p165, jeleɖ, BAHL.p62, (silir), NKEV.338, \*ɟVlVˀt, slip (vi)/be slippery, #0107, V259, 1076/1081,
 
 - Pinnow 1959: V259 / MKCD: 1076 _\*liit_; _\*liət_ / 1081 _\*lut_; _\*luut_; _\*luət_; _\*lət_; _\*lat_; (_\*lut-s_;) _\*luc_;  _\*luuc_; _\*luəc_; _\*l\[ə\]c_
 
 ##### _\*tv₍₄₃₎məˀt_ ‘mouth’  (\#0110-2)
 
-"toˀd/tom, FR, tˀod/tam, RSED.p291/276, tumoʔ, BDBH.1431, tumog, AG08.662, tomoˀɖ, PKED.p201, tɔmɔd, PJDW.p286, tmwaʔ, PGEG.46, —, —, —, —, —, —, —, —, —, —, *tVmVˀt, mouth, #0110, V393, 1001/2020, "
+"toˀd/tom, FR, tˀod/tam, RSED.p291/276, tumoʔ, BDBH.1431, tumog, AG08.662, tomoˀɖ, PKED.p201, tɔmɔd, PJDW.p286, tmwaʔ, PGEG.46, —, —, —, —, —, —, —, —, —, —, \*tVmVˀt, mouth, #0110, V393, 1001/2020, "
 
 - Pinnow 1959: V393 / MKCD: 1001 _\*t₁ət_ ‘mouth’ /2020 _\*t₁n₁ɔh_ ‘mouth’
 
-remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m`ɔət_
+remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m'ɔət_
 
 
 #### _\*ˀt_/_\*r_ (Coda/Medial)
@@ -3338,7 +3338,7 @@ As discussed above, this might be a fused set of two or more etyma meaning long,
 
 ##### _\*ɟi₂ŋ(k)_ ‘porcupine’ (\#0095-1)
 
-—,  —,  kənɟɪ:ŋ,  RSED.p131,  gisiŋreʔe,  BDBH.858,  —,  —,  jiŋray,  PKED.p86,  ɟiŋɛ,  PJDW.p212,  gcæiŋ,  PGEG.p22,  jhĩk,  CSED.p268,  jiki,  BMED.p82,  jiki,  DHED.p165,  ji:k,  DSKW@09500,  jikɽa,  NKEV.p313,  *ɟiŋ(k),  porcupine,  #0095,  V318,  528/1883, 
+—,  —,  kənɟɪ:ŋ,  RSED.p131,  gisiŋreʔe,  BDBH.858,  —,  —,  jiŋray,  PKED.p86,  ɟiŋɛ,  PJDW.p212,  gcæiŋ,  PGEG.p22,  jhĩk,  CSED.p268,  jiki,  BMED.p82,  jiki,  DHED.p165,  ji:k,  DSKW@09500,  jikɽa,  NKEV.p313,  \*ɟiŋ(k),  porcupine,  #0095,  V318,  528/1883, 
 
 - Pinnow 1959: V318 / MKCD: 528 _\*cu\[ə\]ŋ_; _\*cəŋ_; _\*ciəŋ_
 
@@ -3346,7 +3346,7 @@ Looks like a combination of MKCD 528 and 1883 _\*\[r\]kus_; _\*\[r\]kuus_; _\*\[
 
 ##### _\*ɟv₍₄₀₎ləˀt_ ‘slip (vi)/be slippery’ (\#0107-1)
 
-—, —, ɟalo:/ɟəlo:(ɟ), RSED.p120/115, sulo(ʔ), DSRE#37391, sulod, Z1965.383, joloɖ, PKED.p88, —, —, cluaʔ, PGEG.p16, (jilet'/jalat'), CSED.p273/252, jila:d', BMED.p83, jilad, DHED.p165, jeleɖ, BAHL.p62, (silir), NKEV.338, *ɟVlVˀt, slip (vi)/be slippery, #0107, V259, 1076/1081,
+—, —, ɟalo:/ɟəlo:(ɟ), RSED.p120/115, sulo(ʔ), DSRE#37391, sulod, Z1965.383, joloɖ, PKED.p88, —, —, cluaʔ, PGEG.p16, (jilet'/jalat'), CSED.p273/252, jila:d', BMED.p83, jilad, DHED.p165, jeleɖ, BAHL.p62, (silir), NKEV.338, \*ɟVlVˀt, slip (vi)/be slippery, #0107, V259, 1076/1081,
 
 - Pinnow 1959: V259 / MKCD: 1076 _\*liit_; _\*liət_ / 1081 _\*lut_; _\*luut_; _\*luət_; _\*lət_; _\*lat_; (_\*lut-s_;) _\*luc_;  _\*luuc_; _\*luəc_; _\*l\[ə\]c_
 
@@ -3395,7 +3395,7 @@ ḭj / iˀɟ, FR, gad-iɟ, RSED.p94, ik’, BDBH.88, ig, AG08.p652, iˀj, DSKH#1
 
 ##### _\*roˀc_ ‘squeeze/milk (v)’ (\#0094-3)
 
-(ra’d),  FR,  (rad),  RSED.p226,  riʔ,  BDBH.2276,  roj,  DSGU#2071,  roˀj,  PKED.p170,  roɟ,  PJDW.p268,  rweʔ,  PGEG.p41,  roco,  BSDV5.p98,  roeʔ,  EMV12.p3628,  ro:eʔ,  DHED.p290,  roej,  DSKW@19520,  ro(:)c,  NKEV.p335,  *roˀc,  squeeze/milk (v),  #0094,  V381,  1061, 
+(ra’d),  FR,  (rad),  RSED.p226,  riʔ,  BDBH.2276,  roj,  DSGU#2071,  roˀj,  PKED.p170,  roɟ,  PJDW.p268,  rweʔ,  PGEG.p41,  roco,  BSDV5.p98,  roeʔ,  EMV12.p3628,  ro:eʔ,  DHED.p290,  roej,  DSKW@19520,  ro(:)c,  NKEV.p335,  \*roˀc,  squeeze/milk (v),  #0094,  V381,  1061, 
 
 - Pinnow 1959: V381 / MKCD: 1061 _\*ruut_; _\*ruət_; _\*rət_; _\*rat_; _\*rit_; _\*riit_; _\*riət_
 
@@ -3403,7 +3403,7 @@ Gorum /raˀd/ and Sora /rad/ fit better to the forms given in MKCD (in particula
 
 ##### _\*gaˀc_ ‘to fry’ (#0096-3)
 
-gaˀɟ ,FR ,gaɟ ,RSED.p95 ,gaĭ ,BDBH.766 ,gaj ,Z1965.120 ,gaˀj ,PKED.p165 ,gaj ,DSJU#10461 ,gæʔ ,PGEG.p19 ,ge̠c’ ,CSED.p184 ,geʔ ,EMV5.p1411 ,— ,— ,— ,— ,— ,— ,*gaˀc ,fry/scrape (v) ,#0096 ,V15 ,(338a) ,
+gaˀɟ ,FR ,gaɟ ,RSED.p95 ,gaĭ ,BDBH.766 ,gaj ,Z1965.120 ,gaˀj ,PKED.p165 ,gaj ,DSJU#10461 ,gæʔ ,PGEG.p19 ,ge̠c’ ,CSED.p184 ,geʔ ,EMV5.p1411 ,— ,— ,— ,— ,— ,— ,\*gaˀc ,fry/scrape (v) ,#0096 ,V15 ,(338a) ,
 
 - Pinnow 1959: V15 / MKCD: (338a)
 
@@ -3482,13 +3482,13 @@ Maybe two forms North Munda _\*ɲvr_ and in the southern languages _\*jvr_?
 
 ##### _\*ɲam_  ‘get (v)’ (\#0088-1)
 
-—, —, ɲam, RSED.p186, —, —, —, —, ɲam, PKED.p140, —, —, —, —, ɲam, CSED.p434, na:m, BMED.p126, nam, DHED.p241, ɲa:m, BAHL.p66, na, NKEV.p327, *ɲam, get (v), #0088, 5(?), ,
+—, —, ɲam, RSED.p186, —, —, —, —, ɲam, PKED.p140, —, —, —, —, ɲam, CSED.p434, na:m, BMED.p126, nam, DHED.p241, ɲa:m, BAHL.p66, na, NKEV.p327, \*ɲam, get (v), #0088, 5(?), ,
 
 - Pinnow 1959: 5(?) / MKCD: —
 
 ##### _\*ɲUm_ ‘name’ (\#0100-1)
 
-inum, FR, əɲam, RSED.p12, nimi, BDBH.1588, imi, AG.p645, (i)ɲimi, PKED.p140, —, —, mni, PGEG.p35, ɲum/ɲutum, CSED.p451/452, num/nutum, BMED.134, numu/nutum, DHED.p249, —, —, jimu, , *ɲUm, name, #0100, V279, 147,
+inum, FR, əɲam, RSED.p12, nimi, BDBH.1588, imi, AG.p645, (i)ɲimi, PKED.p140, —, —, mni, PGEG.p35, ɲum/ɲutum, CSED.p451/452, num/nutum, BMED.134, numu/nutum, DHED.p249, —, —, jimu, , \*ɲUm, name, #0100, V279, 147,
 
 - Pinnow 1959: V319 / MKCD: 147 _\*\[hy\]muʔ_
 
@@ -3521,7 +3521,7 @@ Gtaʔ /nɖroe/ derives from pre-Gtaʔ _\*n(ɖ)roj_. Kharia kɔnɖɔi could deriv
 
 ##### _\*Kʰojo_ ‘wind’ (\#0102-3)
 
-—, —, —, —, uĭɖak', BDBH.130, oioi, GGEG.p90, koyo, PKEV.p108, koio, PJDW.p225, hueɽiaʔ, PGEG.p26, hoyoŋ, CSED.p237, hoyo, BMED.72, hoyo, DHED.p146, hoe, BAHL.p149, koyo, NKEV.318, *Kʰojo, wind, #0102, V202, 1782,
+—, —, —, —, uĭɖak', BDBH.130, oioi, GGEG.p90, koyo, PKEV.p108, koio, PJDW.p225, hueɽiaʔ, PGEG.p26, hoyoŋ, CSED.p237, hoyo, BMED.72, hoyo, DHED.p146, hoe, BAHL.p149, koyo, NKEV.318, \*Kʰojo, wind, #0102, V202, 1782,
 
 - Pinnow 1959: V202 / MKCD: 1782 _\*kyaal_
 
@@ -3610,13 +3610,13 @@ Gtaʔ _aʔsu_ should have initial /h/ (so maybe _hasu_), the presence of /ʔ/ is
 
 ##### _\*Kʰa(aˀ)_ ‘fish’ (\#0101-1)
 
-ajuʔ, FR, əjo:, RSED.p5, aɽoŋ/CF:aʔ, BDBH.56, aʔɖoŋ, GGEG.p91, kaɖoŋ, HLKS.V64, karoŋ, PJDW.219, haʔɽo/CF:haʔ, PGEG.p24, hako, CSED.p212, ha:i, BMED.p64, hai/haku, DHED.p126, haku:, DSKW@22340, ka:ku, NKEV.p316, *Kʰa(aˀ), fish, #0101, V64, 16,
+ajuʔ, FR, əjo:, RSED.p5, aɽoŋ/CF:aʔ, BDBH.56, aʔɖoŋ, GGEG.p91, kaɖoŋ, HLKS.V64, karoŋ, PJDW.219, haʔɽo/CF:haʔ, PGEG.p24, hako, CSED.p212, ha:i, BMED.p64, hai/haku, DHED.p126, haku:, DSKW@22340, ka:ku, NKEV.p316, \*Kʰa(aˀ), fish, #0101, V64, 16,
 
 - Pinnow 1959: V64 / MKCD: 16 _\*kaʔ_
 
 ##### _\*Kʰojo_ ‘wind’ (\#0102-1)
 
-—, —, —, —, uĭɖak', BDBH.130, oioi, GGEG.p90, koyo, PKEV.p108, koio, PJDW.p225, hueɽiaʔ, PGEG.p26, hoyoŋ, CSED.p237, hoyo, BMED.72, hoyo, DHED.p146, hoe, BAHL.p149, koyo, NKEV.318, *Kʰojo, wind, #0102, V202, 1782,
+—, —, —, —, uĭɖak', BDBH.130, oioi, GGEG.p90, koyo, PKEV.p108, koio, PJDW.p225, hueɽiaʔ, PGEG.p26, hoyoŋ, CSED.p237, hoyo, BMED.72, hoyo, DHED.p146, hoe, BAHL.p149, koyo, NKEV.318, \*Kʰojo, wind, #0102, V202, 1782,
 
 - Pinnow 1959: V202 / MKCD: 1782 _\*kyaal_
 
@@ -3673,13 +3673,13 @@ gur, FR, gur, RSED.p92, gur, BDBH.914, gir, Z1965.132, gur, PKED.p68, gur, PJDW.
 
 ##### _\*gaˀc_ ‘to fry’ (#0096-1)
 
-gaˀɟ ,FR ,gaɟ ,RSED.p95 ,gaĭ ,BDBH.766 ,gaj ,Z1965.120 ,gaˀj ,PKED.p165 ,gaj ,DSJU#10461 ,gæʔ ,PGEG.p19 ,ge̠c’ ,CSED.p184 ,geʔ ,EMV5.p1411 ,— ,— ,— ,— ,— ,— ,*gaˀc ,fry/scrape (v) ,#0096 ,V15 ,(338a) ,
+gaˀɟ ,FR ,gaɟ ,RSED.p95 ,gaĭ ,BDBH.766 ,gaj ,Z1965.120 ,gaˀj ,PKED.p165 ,gaj ,DSJU#10461 ,gæʔ ,PGEG.p19 ,ge̠c’ ,CSED.p184 ,geʔ ,EMV5.p1411 ,— ,— ,— ,— ,— ,— ,\*gaˀc ,fry/scrape (v) ,#0096 ,V15 ,(338a) ,
 
 - Pinnow 1959: V15 / MKCD: (338a)
 
 ##### _\*gv₍₄₁₎ma_ ‘rain’ (#0108-1)
 
-—, —, gum, RSED.p105, —, —, arel-gum, DSGU#26300, gim, PKED.p61, gima, PJDW.p196, —, —, ?, ?, ga:ma:, BMED.p58, gama, DHED.p105, —, —, ghamaʔ, DSKO#9171, *gVmV, rain (n/vi), #0108, V282, 141,
+—, —, gum, RSED.p105, —, —, arel-gum, DSGU#26300, gim, PKED.p61, gima, PJDW.p196, —, —, ?, ?, ga:ma:, BMED.p58, gama, DHED.p105, —, —, ghamaʔ, DSKO#9171, \*gVmV, rain (n/vi), #0108, V282, 141,
 
 - Pinnow 1959: V282 / MKCD: 141 _\*gmaʔ_
 
@@ -3867,7 +3867,7 @@ Probably two separate etyma _\*boŋtel_ and North Munda \*bitkil_. The form sugg
 
 ##### _\*ɟi₂ŋ(k)_ ‘porcupine’ (\#0095-3)
 
-—,  —,  kənɟɪ:ŋ,  RSED.p131,  gisiŋreʔe,  BDBH.858,  —,  —,  jiŋray,  PKED.p86,  ɟiŋɛ,  PJDW.p212,  gcæiŋ,  PGEG.p22,  jhĩk,  CSED.p268,  jiki,  BMED.p82,  jiki,  DHED.p165,  ji:k,  DSKW@09500,  jikɽa,  NKEV.p313,  *ɟiŋ(k),  porcupine,  #0095,  V318,  528/1883, 
+—,  —,  kənɟɪ:ŋ,  RSED.p131,  gisiŋreʔe,  BDBH.858,  —,  —,  jiŋray,  PKED.p86,  ɟiŋɛ,  PJDW.p212,  gcæiŋ,  PGEG.p22,  jhĩk,  CSED.p268,  jiki,  BMED.p82,  jiki,  DHED.p165,  ji:k,  DSKW@09500,  jikɽa,  NKEV.p313,  \*ɟiŋ(k),  porcupine,  #0095,  V318,  528/1883, 
 
 - Pinnow 1959: V318 / MKCD: 528 _\*cu\[ə\]ŋ_; _\*cəŋ_; _\*ciəŋ_
 
@@ -3894,7 +3894,7 @@ tinaŋ, FR, tanaŋ, RSED.p, toŋ, BDBH.1490, tunon, AG08.p662, tuŋon, PKED.p201
 
 ruŋk, FR, rʊŋkʊ, RSED.p239, ruŋku, BDBH.2291, rukug, AG08.p672, ruŋkuˀb/rumkuˀb, PKED.p171, ruŋkub, PJDW.p269, rkoʔ, PGEG.p41, —, —, (rukhaɽ), BMED.p163, —, —, —, —, —, —, \*ruNkO(ˀp), husked rice, #0068, V139, 1820, 
 
-- Pinnow 1959: V139 / MKCD: 1820 _\*rk\[aw\]ʔ
+- Pinnow 1959: V139 / MKCD: 1820 _\*rk\[aw\]ʔ_
 
 The nasal cannot be reconstructed as _\*ŋ_, securely. The absense in some of the languages and the /ŋ/~/m/ variation in a velar context in Kharia make a reconstruction as _\*ŋ_ problematic.
 
@@ -3994,7 +3994,7 @@ alu’b, FR, əle:b, RSED.p7, sulup, BDBH.2688, sulub, GGEG.p116, selhob, PKED.p
 
 ##### _\*sv(vˀ)l_ ‘husking mortar’  (\#0104-1)
 
-a̰l, FR, ono:l/OnAl, RSED.p194/DSSO#50351, sabu, BDBH.2490, saʔl, JV, sol, PKED.p185, (hesab), PJDW.p204), saboʔ, PGEG.p41, —, —, se:l/sehel, EMV13.p3900/3894, sẽ:l, DHED.p311, —, —, sel, DSKO#24701, *sV(Vˀ)l, husking mortar, #0104, —, —,
+a̰l, FR, ono:l/OnAl, RSED.p194/DSSO#50351, sabu, BDBH.2490, saʔl, JV, sol, PKED.p185, (hesab), PJDW.p204), saboʔ, PGEG.p41, —, —, se:l/sehel, EMV13.p3900/3894, sẽ:l, DHED.p311, —, —, sel, DSKO#24701, \*sV(Vˀ)l, husking mortar, #0104, —, —,
 
 - Pinnow 1959: V233 / MKCD —
 
@@ -4067,13 +4067,13 @@ buʔ, FR, beˀ, RSED.p56, busu, BDBH.1960, busu, Z1965.72, beso/u, PKED.p20, bis
 
 ##### _\*sv₍₃₉₎r_ ‘sambar (deer)’ (\#0103-1)
 
-ki(N)sar, FR, kinsar, RSED.p141, saram/săram/sram/siram, BDBH.2496/2591, suram, AG08.p651, —, —, sɛram, PJDW.p276, sra, PGEG.p44, saram, CSED.p563, sa:ra:m, BMED.p169, saram, DHED.p305, —, —, (ruy), NKEV.335, *sVr, sambar (deer), #0103, —, —, 
+ki(N)sar, FR, kinsar, RSED.p141, saram/săram/sram/siram, BDBH.2496/2591, suram, AG08.p651, —, —, sɛram, PJDW.p276, sra, PGEG.p44, saram, CSED.p563, sa:ra:m, BMED.p169, saram, DHED.p305, —, —, (ruy), NKEV.335, \*sVr, sambar (deer), #0103, —, —, 
 
 - Pinnow 1959: — / MKCD: —
 
 ##### _\*sv₍₄₂₎rv₍₄₂₎ˀp_ ‘sip (v)’ (\#0109-1)
 
-soɖo'b, Zide, sərub, RSED.p242, —, —, surub, DSGU#23421, suruˀb, PKED.p190, surupi, DSJU#30520, srog, PGEG.p44, sirup', CSED.p582, —, —, siri:b, DHED.p320, —, —, —, —, *sVrVˀp, sip (v), #0109, V354, 1283,
+soɖo'b, Zide, sərub, RSED.p242, —, —, surub, DSGU#23421, suruˀb, PKED.p190, surupi, DSJU#30520, srog, PGEG.p44, sirup', CSED.p582, —, —, siri:b, DHED.p320, —, —, —, —, \*sVrVˀp, sip (v), #0109, V354, 1283,
 
 - Pinnow 1959: V354 / MKCD: 1283 _\*srup_; _\*sruup_ ‘to suck, drink’
 
@@ -4235,13 +4235,13 @@ laʔ, FR, —, —, —, —, lag, Z1965.205, laʔ, PKED.p118, lag, PJDW.p235, l
 
 ##### _\*sv₍₄₄₎(vˀ)l_ ‘husking mortar’ (\#0104-3) _\*l₁_, _\*l₃_, or _\*l₄_
 
-a̰l, FR, ono:l/OnAl, RSED.p194/DSSO#50351, sabu, BDBH.2490, saʔl, JV, sol, PKED.p185, (hesab), PJDW.p204), saboʔ, PGEG.p41, —, —, se:l/sehel, EMV13.p3900/3894, sẽ:l, DHED.p311, —, —, sel, DSKO#24701, *sV(Vˀ)l, husking mortar, #0104, —, —,
+a̰l, FR, ono:l/OnAl, RSED.p194/DSSO#50351, sabu, BDBH.2490, saʔl, JV, sol, PKED.p185, (hesab), PJDW.p204), saboʔ, PGEG.p41, —, —, se:l/sehel, EMV13.p3900/3894, sẽ:l, DHED.p311, —, —, sel, DSKO#24701, \*sV(Vˀ)l, husking mortar, #0104, —, —,
 
 - Pinnow 1959: V233 / MKCD —
 
 ##### _\*ɟv₍₄₀₎ləˀt_ ‘slip (vi)/be slippery’ (\#0107-3)
 
-—, —, ɟalo:/ɟəlo:(ɟ), RSED.p120/115, sulo(ʔ), DSRE#37391, sulod, Z1965.383, joloɖ, PKED.p88, —, —, cluaʔ, PGEG.p16, (jilet'/jalat'), CSED.p273/252, jila:d', BMED.p83, jilad, DHED.p165, jeleɖ, BAHL.p62, (silir), NKEV.338, *ɟVlVˀt, slip (vi)/be slippery, #0107, V259, 1076/1081,
+—, —, ɟalo:/ɟəlo:(ɟ), RSED.p120/115, sulo(ʔ), DSRE#37391, sulod, Z1965.383, joloɖ, PKED.p88, —, —, cluaʔ, PGEG.p16, (jilet'/jalat'), CSED.p273/252, jila:d', BMED.p83, jilad, DHED.p165, jeleɖ, BAHL.p62, (silir), NKEV.338, \*ɟVlVˀt, slip (vi)/be slippery, #0107, V259, 1076/1081,
 
 - Pinnow 1959: V259 / MKCD: 1076 _\*liit_; _\*liət_ / 1081 _\*lut_; _\*luut_; _\*luət_; _\*lət_; _\*lat_; (_\*lut-s_;) _\*luc_;  _\*luuc_; _\*luəc_; _\*l\[ə\]c_
 
@@ -4391,7 +4391,7 @@ buroˀb, FR, bəro:, RSED.p46, buruk’, BDBH.1936, —, —, —, —, (buku), 
 
 ruŋk, FR, rʊŋkʊ, RSED.p239, ruŋku, BDBH.2291, rukug, AG08.p672, ruŋkuˀb/rumkuˀb, PKED.p171, ruŋkub, PJDW.p269, rkoʔ, PGEG.p41, —, —, (rukhaɽ), BMED.p163, —, —, —, —, —, —, \*ruNkO(ˀp), husked rice, #0068, V139, 1820, 
 
-- Pinnow 1959: V139 / MKCD: 1820 _\*rk\[aw\]ʔ
+- Pinnow 1959: V139 / MKCD: 1820 _\*rk\[aw\]ʔ_
 
 ##### _\*roj_/_\*roˀk_ ‘fly’ (\#0071-1)
 
@@ -4433,25 +4433,25 @@ gur, FR, gur, RSED.p92, gur, BDBH.914, gir, Z1965.132, gur, PKED.p68, gur, PJDW.
 
 ##### _\*roˀc_ ‘squeeze/milk (v)’ (\#0094-1)
 
-(ra’d),  FR,  (rad),  RSED.p226,  riʔ,  BDBH.2276,  roj,  DSGU#2071,  roˀj,  PKED.p170,  roɟ,  PJDW.p268,  rweʔ,  PGEG.p41,  roco,  BSDV5.p98,  roeʔ,  EMV12.p3628,  ro:eʔ,  DHED.p290,  roej,  DSKW@19520,  ro(:)c,  NKEV.p335,  *roˀc,  squeeze/milk (v),  #0094,  V381,  1061, 
+(ra’d),  FR,  (rad),  RSED.p226,  riʔ,  BDBH.2276,  roj,  DSGU#2071,  roˀj,  PKED.p170,  roɟ,  PJDW.p268,  rweʔ,  PGEG.p41,  roco,  BSDV5.p98,  roeʔ,  EMV12.p3628,  ro:eʔ,  DHED.p290,  roej,  DSKW@19520,  ro(:)c,  NKEV.p335,  \*roˀc,  squeeze/milk (v),  #0094,  V381,  1061, 
 
 - Pinnow 1959: V381 / MKCD: 1061 _\*ruut_; _\*ruət_; _\*rət_; _\*rat_; _\*rit_; _\*riit_; _\*riət_
 
 ##### _\*per_ ‘to burn (of chilies) (vi)’ (\#0097-3) _\*r₂_?
 
-per ,FR ,— ,— ,per ,BDBH.1756 ,per ,Z1975.294 ,— ,— ,— ,— ,pir ,PGEG.p38 ,pe̠ṛen ,CSED.p500 ,— ,— ,(pertol) ,DHED.p266 ,— ,— ,— ,— ,*per ,burn(chilies) (v) ,#0097 ,— , ,
+per ,FR ,— ,— ,per ,BDBH.1756 ,per ,Z1975.294 ,— ,— ,— ,— ,pir ,PGEG.p38 ,pe̠ṛen ,CSED.p500 ,— ,— ,(pertol) ,DHED.p266 ,— ,— ,— ,— ,\*per ,burn(chilies) (v) ,#0097 ,— , ,
 
 - Pinnow 1959: — / MKCD: —
 
 ##### _\*sv₍₃₉₎r_ ‘sambar (deer)’ (\#0103-3)
 
-ki(N)sar, FR, kinsar, RSED.p141, saram/săram/sram/siram, BDBH.2496/2591, suram, AG08.p651, —, —, sɛram, PJDW.p276, sra, PGEG.p44, saram, CSED.p563, sa:ra:m, BMED.p169, saram, DHED.p305, —, —, (ruy), NKEV.335, *sVr, sambar (deer), #0103, —, —, 
+ki(N)sar, FR, kinsar, RSED.p141, saram/săram/sram/siram, BDBH.2496/2591, suram, AG08.p651, —, —, sɛram, PJDW.p276, sra, PGEG.p44, saram, CSED.p563, sa:ra:m, BMED.p169, saram, DHED.p305, —, —, (ruy), NKEV.335, \*sVr, sambar (deer), #0103, —, —, 
 
 - Pinnow 1959: — / MKCD: —
 
 ##### _\*sv₍₄₂₎rv₍₄₂₎ˀp_ ‘sip (v)’ (\#0109-3)
 
-soɖo'b, Zide, sərub, RSED.p242, —, —, surub, DSGU#23421, suruˀb, PKED.p190, surupi, DSJU#30520, srog, PGEG.p44, sirup', CSED.p582, —, —, siri:b, DHED.p320, —, —, —, —, *sVrVˀp, sip (v), #0109, V354, 1283,
+soɖo'b, Zide, sərub, RSED.p242, —, —, surub, DSGU#23421, suruˀb, PKED.p190, surupi, DSJU#30520, srog, PGEG.p44, sirup', CSED.p582, —, —, siri:b, DHED.p320, —, —, —, —, \*sVrVˀp, sip (v), #0109, V354, 1283,
 
 - Pinnow 1959: V354 / MKCD: 1283 _\*srup_; _\*sruup_ ‘to suck, drink’
 
@@ -4477,7 +4477,7 @@ jer, FR, jer, RSED.p88, ur, BDBH.155, —, —, yar, DSKH#12601, —, —, wir, 
 
 ##### _\*or_ ‘drag (v)’ (\#0106-1)
 
-or, FR, or, RSED.p195, —, —, (an), (Z1965.24), —, —, —, —, ur-guʔ, PGEG.p7, or, CSED.p461, or, BMED.p138, or, DHED.p253, or, BAHL.p23, o(:)ɽ, NKEV.p329, *or, pull/drag (vt), #0106, —, —,
+or, FR, or, RSED.p195, —, —, (an), (Z1965.24), —, —, —, —, ur-guʔ, PGEG.p7, or, CSED.p461, or, BMED.p138, or, DHED.p253, or, BAHL.p23, o(:)ɽ, NKEV.p329, \*or, pull/drag (vt), #0106, —, —,
 
 - Pinnow 1959: — / MKCD: —
 
@@ -4614,7 +4614,7 @@ diphthongisation: Gtaʔ
 - MKCD Pre-Proto-Mon-Khmer _\*diʔaak_ > _\*ɗaak_ (all branches), _\*\[ɗ\]ik_ (Pre-Khmer)
 - Pinnow 1959: V2 UM:_\*a_; K89/K179d UM:_\*ʔ/k/g_; K398b UM:_\*d_
 
-Proto-Sora-Gorum: _\*daʔ_; Proto Remo-Gutob: _\*daˀk_; Proto-Khewarian: _\*daˀk
+Proto-Sora-Gorum: _\*daʔ_; Proto Remo-Gutob: _\*daˀk_; Proto-Khewarian: _\*daˀk_
 
 ##### \#0002 _\*ɟaŋ_ ‘bone’
 
@@ -4742,7 +4742,7 @@ In all likelihood, V₁ (\#0018-2) ultimately a reflex of an epenthetic schwa, _
 
 - Pinnow 1959: V253 / MKCD: —
 
-V₂ (\#0019-4) _\*ə₁_ is compatible with _\*ə₁_v1, v3, and v4.
+V₂ (\#0019-4) _\*ə₁_ is compatible with _\*ə₁_ v1, v3, and v4.
 
 #### \#0020 _\*səreŋ_ ‘stone’
 
@@ -5321,7 +5321,7 @@ alu’b, FR, əle:b, RSED.p7, sulup, BDBH.2688, sulub, GGEG.p116, selhob, PKED.p
 
 pa’d, FR, pad, RSED.p200, poʔ, BDBH.1793, poɖ, DSGU#18931, paro(m), PKED.p155, (pakea), DSJU#25131, pwaʔ, PGEG.p39, par, CSED.p474, pa:rom, BMED.p144, parom, DHED.p262, parom, BAHL.p97, pa:r, NKEV.p331, \*pəˀt, cross (v), #0085, , , 
 
-While the reflexes in Gorum, Sora, Remo, Gutob, and Gtaʔ are consistent with a reconstruction of proto-Munda _\*pəˀt_. The attested vowels are consistent with the correspondence sets _\*ə_v2 and _\*ə_v3. 
+While the reflexes in Gorum, Sora, Remo, Gutob, and Gtaʔ are consistent with a reconstruction of proto-Munda _\*pəˀt_. The attested vowels are consistent with the correspondence sets _\*ə_ v2 and _\*ə_ v3. 
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
@@ -5345,7 +5345,7 @@ san, FR, san, RSED.p248, sensen, BDBH.2714, —, —, san, PKED.p176, (saŋgem),
 
 #### \#0088 _\*ɲam_  ‘get (v)’
 
-—, —, ɲam, RSED.p186, —, —, —, —, ɲam, PKED.p140, —, —, —, —, ɲam, CSED.p434, na:m, BMED.p126, nam, DHED.p241, ɲa:m, BAHL.p66, na, NKEV.p327, *ɲam, get (v), #0088, 5(?), 1243(?),
+—, —, ɲam, RSED.p186, —, —, —, —, ɲam, PKED.p140, —, —, —, —, ɲam, CSED.p434, na:m, BMED.p126, nam, DHED.p241, ɲa:m, BAHL.p66, na, NKEV.p327, \*ɲam, get (v), #0088, 5(?), 1243(?),
 
 - Pinnow 1959: 5(?) / MKCD: —
 
@@ -5382,7 +5382,7 @@ laʔ, FR, —, —, —, —, lag, Z1965.205, laʔ, PKED.p118, lag, PJDW.p235, l
 
 #### \#0094 _\*roˀc_ ‘squeeze/milk (v)’
 
-(ra’d),  FR,  (rad),  RSED.p226,  riʔ,  BDBH.2276,  roj,  DSGU#2071,  roˀj,  PKED.p170,  roɟ,  PJDW.p268,  rweʔ,  PGEG.p41,  roco,  BSDV5.p98,  roeʔ,  EMV12.p3628,  ro:eʔ,  DHED.p290,  roej,  DSKW@19520,  ro(:)c,  NKEV.p335,  *roˀc,  squeeze/milk (v),  #0094,  V381,  1061, 
+(ra’d),  FR,  (rad),  RSED.p226,  riʔ,  BDBH.2276,  roj,  DSGU#2071,  roˀj,  PKED.p170,  roɟ,  PJDW.p268,  rweʔ,  PGEG.p41,  roco,  BSDV5.p98,  roeʔ,  EMV12.p3628,  ro:eʔ,  DHED.p290,  roej,  DSKW@19520,  ro(:)c,  NKEV.p335,  \*roˀc,  squeeze/milk (v),  #0094,  V381,  1061, 
 
 - Pinnow 1959: V381 / MKCD: 1061 _\*ruut_; _\*ruət_; _\*rət_; _\*rat_; _\*rit_; _\*riit_; _\*riət_
 
@@ -5390,7 +5390,7 @@ Gorum /raˀd/ and Sora /rad/ fit better to the forms given in MKCD (in particula
 
 #### \#0095 _\*ɟiŋ(k)_ ‘porcupine’
 
-—,  —,  kənɟɪ:ŋ,  RSED.p131,  gisiŋreʔe,  BDBH.858,  —,  —,  jiŋray,  PKED.p86,  ɟiŋɛ,  PJDW.p212,  gcæiŋ,  PGEG.p22,  jhĩk,  CSED.p268,  jiki,  BMED.p82,  jiki,  DHED.p165,  ji:k,  DSKW@09500,  jikɽa,  NKEV.p313,  *ɟiŋ(k),  porcupine,  #0095,  V318,  528/1883, 
+—,  —,  kənɟɪ:ŋ,  RSED.p131,  gisiŋreʔe,  BDBH.858,  —,  —,  jiŋray,  PKED.p86,  ɟiŋɛ,  PJDW.p212,  gcæiŋ,  PGEG.p22,  jhĩk,  CSED.p268,  jiki,  BMED.p82,  jiki,  DHED.p165,  ji:k,  DSKW@09500,  jikɽa,  NKEV.p313,  \*ɟiŋ(k),  porcupine,  #0095,  V318,  528/1883, 
 
 - Pinnow 1959: V318
 - MKCD: 528 _\*cu\[ə\]ŋ_; _\*cəŋ_; _\*ciəŋ_
@@ -5401,7 +5401,7 @@ Looks like a combination of MKCD 528 and 1883 _\*\[r\]kus_; _\*\[r\]kuus_; _\*\[
 
 #### \#0096 _\*gaˀc_ ‘to fry’
 
-gaˀɟ ,FR ,gaɟ ,RSED.p95 ,gaĭ ,BDBH.766 ,gaj ,Z1965.120 ,gaˀj ,PKED.p165 ,gaj ,DSJU#10461 ,gæʔ ,PGEG.p19 ,ge̠c’ ,CSED.p184 ,geʔ ,EMV5.p1411 ,— ,— ,— ,— ,— ,— ,*gaˀc ,fry/scrape (v) ,#0096 ,V15 ,(338a) ,
+gaˀɟ ,FR ,gaɟ ,RSED.p95 ,gaĭ ,BDBH.766 ,gaj ,Z1965.120 ,gaˀj ,PKED.p165 ,gaj ,DSJU#10461 ,gæʔ ,PGEG.p19 ,ge̠c’ ,CSED.p184 ,geʔ ,EMV5.p1411 ,— ,— ,— ,— ,— ,— ,\*gaˀc ,fry/scrape (v) ,#0096 ,V15 ,(338a) ,
 
 - Pinnow 1959: V15
 - MKCD: 338a _\*\[c\]ɗaak_; _\*\[c\]ɗaik_ ‘to fry’ (uncertain)
@@ -5409,7 +5409,7 @@ gaˀɟ ,FR ,gaɟ ,RSED.p95 ,gaĭ ,BDBH.766 ,gaj ,Z1965.120 ,gaˀj ,PKED.p165 ,ga
 
 #### \#0097 _\*per_ ‘to burn (of chilies) (vi)’
 
-per ,FR ,— ,— ,per ,BDBH.1756 ,per ,Z1975.294 ,— ,— ,— ,— ,pir ,PGEG.p38 ,pe̠ṛen ,CSED.p500 ,— ,— ,(pertol) ,DHED.p266 ,— ,— ,— ,— ,*per ,burn(chilies) (v) ,#0097 ,— , ,
+per ,FR ,— ,— ,per ,BDBH.1756 ,per ,Z1975.294 ,— ,— ,— ,— ,pir ,PGEG.p38 ,pe̠ṛen ,CSED.p500 ,— ,— ,(pertol) ,DHED.p266 ,— ,— ,— ,— ,\*per ,burn(chilies) (v) ,#0097 ,— , ,
 
 - Pinnow 1959: — / MKCD: —
 
@@ -5436,7 +5436,7 @@ The vowel set is consistent with _\*u₁_ if Gtaʔ /ugboʔ/ is taken as the main
 
 #### \#0100 _\*ɲUm_ ‘name’
 
-inum, FR, əɲam, RSED.p12, nimi, BDBH.1588, imi, AG.p645, (i)ɲimi, PKED.p140, —, —, mni, PGEG.p35, ɲum/ɲutum, CSED.p451/452, num/nutum, BMED.134, numu/nutum, DHED.p249, —, —, jimu, , *ɲUm, name, #0100, V279, 147,
+inum, FR, əɲam, RSED.p12, nimi, BDBH.1588, imi, AG.p645, (i)ɲimi, PKED.p140, —, —, mni, PGEG.p35, ɲum/ɲutum, CSED.p451/452, num/nutum, BMED.134, numu/nutum, DHED.p249, —, —, jimu, , \*ɲUm, name, #0100, V279, 147,
 
 - Pinnow 1959: V319
 - MKCD: 147 _\*\[hy\]muʔ_ ‘name’ (unclear)
@@ -5444,7 +5444,7 @@ inum, FR, əɲam, RSED.p12, nimi, BDBH.1588, imi, AG.p645, (i)ɲimi, PKED.p140, 
 
 #### \#0101 _\*Kʰa(aˀ)_ ‘fish’
 
-ajuʔ, FR, əjo:, RSED.p5, aɽoŋ/CF:aʔ, BDBH.56, aʔɖoŋ, GGEG.p91, kaɖoŋ, HLKS.V64, karoŋ, PJDW.219, haʔɽo/CF:haʔ, PGEG.p24, hako, CSED.p212, ha:i, BMED.p64, hai/haku, DHED.p126, haku:, DSKW@22340, ka:ku, NKEV.p316, *Kʰa(aˀ), fish, #0101, V64, 16,
+ajuʔ, FR, əjo:, RSED.p5, aɽoŋ/CF:aʔ, BDBH.56, aʔɖoŋ, GGEG.p91, kaɖoŋ, HLKS.V64, karoŋ, PJDW.219, haʔɽo/CF:haʔ, PGEG.p24, hako, CSED.p212, ha:i, BMED.p64, hai/haku, DHED.p126, haku:, DSKW@22340, ka:ku, NKEV.p316, \*Kʰa(aˀ), fish, #0101, V64, 16,
 
 - Pinnow 1959: V64 / MKCD: 16 _\*kaʔ_
 - Palaungic: Sidwell (2015) 330 _\*kaʔ__ ‘fish’ (= MKCD 16.A)
@@ -5457,25 +5457,27 @@ Sora /ə/ is unexpected, but ptobably due to it becoming the presyllable of a ma
 
 #### \#0102  _\*Kʰojo_ ‘wind’
 
-—, —, —, —, uĭɖak', BDBH.130, oioi, GGEG.p90, koyo, PKEV.p108, koio, PJDW.p225, hueɽiaʔ, PGEG.p26, hoyoŋ, CSED.p237, hoyo, BMED.72, hoyo, DHED.p146, hoe, BAHL.p149, koyo, NKEV.318, *Kʰojo, wind, #0102, V202, 1782,
+—, —, —, —, uĭɖak', BDBH.130, oioi, GGEG.p90, koyo, PKEV.p108, koio, PJDW.p225, hueɽiaʔ, PGEG.p26, hoyoŋ, CSED.p237, hoyo, BMED.72, hoyo, DHED.p146, hoe, BAHL.p149, koyo, NKEV.318, \*Kʰojo, wind, #0102, V202, 1782,
 
 - Pinnow 1959: V202 / MKCD: 1782 _\*kyaal_
 
 #### \#0103 _\*sv₍₃₉₎r_ ‘sambar (deer)’
 
-ki(N)sar, FR, kinsar, RSED.p141, saram/săram/sram/siram, BDBH.2496/2591, suram, AG08.p651, —, —, sɛram, PJDW.p276, sra, PGEG.p44, saram, CSED.p563, sa:ra:m, BMED.p169, saram, DHED.p305, —, —, (ruy), NKEV.335, *sVr, sambar (deer), #0103, —, —, 
+ki(N)sar, FR, kinsar, RSED.p141, saram/săram/sram/siram, BDBH.2496/2591, suram, AG08.p651, —, —, sɛram, PJDW.p276, sra, PGEG.p44, saram, CSED.p563, sa:ra:m, BMED.p169, saram, DHED.p305, —, —, (ruy), NKEV.335, \*sVr, sambar (deer), #0103, —, —, 
 
 - Pinnow 1959: — / MKCD: —
 
 #### \#0104 _\*sv₍₄₄₎(vˀ)l_ ‘husking mortar’
 
-a̰l, FR, ono:l/OnAl, RSED.p194/DSSO#50351, sabu, BDBH.2490, saʔl, JV, sol, PKED.p185, (hesab), PJDW.p204), saboʔ, PGEG.p41, —, —, se:l/sehel, EMV13.p3900/3894, sẽ:l, DHED.p311, —, —, sel, DSKO#24701, *sV(Vˀ)l, husking mortar, #0104, —, —,
+a̰l, FR, ono:l/OnAl, RSED.p194/DSSO#50351, sabu, BDBH.2490, saʔl, JV, sol, PKED.p185, (hesab), PJDW.p204), saboʔ, PGEG.p41, —, —, se:l/sehel, EMV13.p3900/3894, sẽ:l, DHED.p311, —, —, sel, DSKO#24701, \*sV(Vˀ)l, husking mortar, #0104, —, —,
 
 - Pinnow 1959: V233 / MKCD —
 
+There is no known cognate of _\*sv₍₄₄₎(vˀ)l_ in Auastroasiatic, but DEDR 2391 (\*caval in Southworth 2011) could be related. Remo _saboʔ_ could consist of two parts, _sa_ deriving from _\*sv₍₄₄₎(vˀ)l_ and _boʔ_ related to MKCD 370 _*[k]ɓok_ ‘to pound; mortar’.
+
 #### \#0105 _\*maˀt_ ‘bamboo joint’
 
-maˀd, Z1982.p273, mad, RSED.p168, —, —, moʔ, DSGU#15161, moɖa, PKEP.p135, mɔɖɔ, PJDW.p244, (leʔ-mweʔ), PGEG.p31, mat', CSED.p410, ma:d', BMED.p110, maɖ, DHED.p221, ma:ɖ, BAHL.p118, ma:ʈ, NKEV.p325, *mVˀt, bamboo joint, #0105, K415(ˀt)/508(m), —,
+maˀd, Z1982.p273, mad, RSED.p168, —, —, moʔ, DSGU#15161, moɖa, PKEP.p135, mɔɖɔ, PJDW.p244, (leʔ-mweʔ), PGEG.p31, mat', CSED.p410, ma:d', BMED.p110, maɖ, DHED.p221, ma:ɖ, BAHL.p118, ma:ʈ, NKEV.p325, \*mVˀt, bamboo joint, #0105, K415(ˀt)/508(m), —,
 
 - Pinnow 1959: K415(ˀt)/508(m) / MKCD: —
 
@@ -5483,26 +5485,26 @@ Contrasts with _\*məˀt_ ‘eye’ (\#0012)
 
 #### \#0106 _\*or_ ‘drag (v)’
 
-or, FR, or, RSED.p195, —, —, (an), (Z1965.24), —, —, —, —, ur-guʔ, PGEG.p7, or, CSED.p461, or, BMED.p138, or, DHED.p253, or, BAHL.p23, o(:)ɽ, NKEV.p329, *or, pull/drag (vt), #0106, —, —,
+or, FR, or, RSED.p195, —, —, (an), (Z1965.24), —, —, —, —, ur-guʔ, PGEG.p7, or, CSED.p461, or, BMED.p138, or, DHED.p253, or, BAHL.p23, o(:)ɽ, NKEV.p329, \*or, pull/drag (vt), #0106, —, —,
 
 - Pinnow 1959: — / MKCD: —
 
 #### \#0107 _\*ɟv₍₄₀₎ləˀt_ ‘slip (vi)/be slippery’
 
-—, —, ɟalo:/ɟəlo:(ɟ), RSED.p120/115, sulo(ʔ), DSRE#37391, sulod, Z1965.383, joloɖ, PKED.p88, —, —, cluaʔ, PGEG.p16, (jilet'/jalat'), CSED.p273/252, jila:d', BMED.p83, jilad, DHED.p165, jeleɖ, BAHL.p62, (silir), NKEV.338, *ɟVlVˀt, slip (vi)/be slippery, #0107, V259, 1076/1081,
+—, —, ɟalo:/ɟəlo:(ɟ), RSED.p120/115, sulo(ʔ), DSRE#37391, sulod, Z1965.383, joloɖ, PKED.p88, —, —, cluaʔ, PGEG.p16, (jilet'/jalat'), CSED.p273/252, jila:d', BMED.p83, jilad, DHED.p165, jeleɖ, BAHL.p62, (silir), NKEV.338, \*ɟVlVˀt, slip (vi)/be slippery, #0107, V259, 1076/1081,
 
 - Pinnow 1959: V259 / MKCD: 1076 _\*liit_; _\*liət_ / 1081 _\*lut_; _\*luut_; _\*luət_; _\*lət_; _\*lat_; (_\*lut-s_;) _\*luc_;  _\*luuc_; _\*luəc_; _\*l\[ə\]
 - Palaungic: Sidwell (2015) 443 _\*kliɛt_ ‘slippery’ (= MKCD 1076.C)
 
 #### \#0108 _\*gv₍₄₁₎ma_ ‘rain’
 
-—, —, gum, RSED.p105, —, —, arel-gum, DSGU#26300, gim, PKED.p61, gima, PJDW.p196, —, —, ?, ?, ga:ma:, BMED.p58, gama, DHED.p105, —, —, ghamaʔ, DSKO#9171, *gVmV, rain (n/vi), #0108, V282, 141,
+—, —, gum, RSED.p105, —, —, arel-gum, DSGU#26300, gim, PKED.p61, gima, PJDW.p196, —, —, ?, ?, ga:ma:, BMED.p58, gama, DHED.p105, —, —, ghamaʔ, DSKO#9171, \*gVmV, rain (n/vi), #0108, V282, 141,
 
 - Pinnow 1959: V282 / MKCD: 141 _\*gmaʔ_
 
 #### \#0109 _\*sv₍₄₂₎rv₍₄₂₎ˀp_ ‘sip (v)’
 
-soɖo'b, Zide, sərub, RSED.p242, —, —, surub, DSGU#23421, suruˀb, PKED.p190, surupi, DSJU#30520, srog, PGEG.p44, sirup', CSED.p582, —, —, siri:b, DHED.p320, —, —, —, —, *sVrVˀp, sip (v), #0109, V354, 1283,
+soɖo'b, Zide, sərub, RSED.p242, —, —, surub, DSGU#23421, suruˀb, PKED.p190, surupi, DSJU#30520, srog, PGEG.p44, sirup', CSED.p582, —, —, siri:b, DHED.p320, —, —, —, —, \*sVrVˀp, sip (v), #0109, V354, 1283,
 
 - Pinnow 1959: V354
 - MKCD: 1283 _\*srup_; _\*sruup_ ‘to suck, drink’
@@ -5510,10 +5512,10 @@ soɖo'b, Zide, sərub, RSED.p242, —, —, surub, DSGU#23421, suruˀb, PKED.p19
 
 #### \#0110 _\*tv₍₄₃₎məˀt_ ‘mouth’
 
-"toˀd/tom, FR, tˀod/tam, RSED.p291/276, tumoʔ, BDBH.1431, tumog, AG08.662, tomoˀɖ, PKED.p201, tɔmɔd, PJDW.p286, tmwaʔ, PGEG.46, —, —, —, —, —, —, —, —, —, —, *tVmVˀt, mouth, #0110, V393, 1001/2020, "
+"toˀd/tom, FR, tˀod/tam, RSED.p291/276, tumoʔ, BDBH.1431, tumog, AG08.662, tomoˀɖ, PKED.p201, tɔmɔd, PJDW.p286, tmwaʔ, PGEG.46, —, —, —, —, —, —, —, —, —, —, \*tVmVˀt, mouth, #0110, V393, 1001/2020,
 
 - Pinnow 1959: V393
 - MKCD: 1001 _\*t₁ət_ ‘mouth’ 
 - MKCD: 2020 _\*t₁n₁ɔh_ ‘mouth’
 
-remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m`ɔət_
+remarkable: Shorto: 1001 (_\*t₁mət_>) Khmer _m'ɔət_
