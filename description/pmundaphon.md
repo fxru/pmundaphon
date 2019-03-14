@@ -1,6 +1,6 @@
 # Towards a Historical Phonology of the Munda languages
 
-**Version 0.1** 
+**Version 0.2** 
 
 Felix Rau
 University of Cologne
@@ -1419,7 +1419,7 @@ aŋal, FR, aŋəl, RSED.p37, suŋo, BDBH.2638, suõl, GZ63.216, soŋgol, PKED.p1
 
 - Pinnow 1959: V252 / MKCD 1723 _\*j\[n\]ŋəl_
 
-If Gtaʔ /sua/ is to be interpreted as a /ua/ parallel to /ua/~/wa? in the set above, V₂ of _\*sVŋVl_ ‘fuel’ belongs to the set _\*ə₁_ above only deviating reflex is Sora /ə/.
+If Gtaʔ /sua/ is to be interpreted as a /ua/ parallel to /ua/~/wa/ in the set above, V₂ of _\*sVŋVl_ ‘fuel’ belongs to the set _\*ə₁_ above only deviating reflex is Sora /ə/.
 
 _sua_/_su.a_ < _\*suŋal_ < _\*sVŋVl_ with l-loss and intervocalic ŋ-loss or _sua_ < _\*sŋual_ < _\*sVŋVl_ with  intervocalic ŋ-loss, V₁loss, and l-loss.
 
@@ -1817,7 +1817,7 @@ aŋal, FR, aŋəl, RSED.p37, suŋo, BDBH.2638, suõl, GZ63.216, soŋgol, PKED.p1
 
 - Pinnow 1959: V252 / MKCD 1723 _\*j\[n\]ŋəl_
 
-If Gtaʔ /sua/ is to be interpreted as a /ua/ parallel to /ua/~/wa? in the set above, V₂ of _\*sVŋVl_ ‘fuel’ belongs to the set _\*ə₁_ above only deviating reflex is Sora /ə/.
+If Gtaʔ /sua/ is to be interpreted as a /ua/ parallel to /ua/~/wa/ in the set above, V₂ of _\*sVŋVl_ ‘fuel’ belongs to the set _\*ə₁_ above only deviating reflex is Sora /ə/.
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
@@ -4664,7 +4664,7 @@ siʔ, FR, si:ʔ, RSED.p254, titi, BDBH.1370, titi, GZ65.p29, tiʔ, PKED.p199, it
 
 - Pinnow 1959: V341 UM: e,ɛ / MKCD: 39 _\*ciiʔ_ (& _\*ciʔ_?)
 
-Unexplained variation of _\*i₁_, especially the constrast to \*tiiˀ_ ‘hand’ (\#0008-2) is striking. Kharia /e/, Juang /ɛ/, and Santali /e/ cannot be explained. Pinnow (1959, p. 164 and p. 195) reconstructs proto-Munda _\*e_/_\*ɛ_. However, positing \#0009-2 as a continuation of proto-Munda _\*e_ (_\*ɛ_) is also not consistent. MKCD 39 _\*ciiʔ_ also suggests proto-Munda _\*siiˀ_.
+Unexplained variation of _\*i₁_, especially the constrast to _\*tiiˀ_ ‘hand’ (\#0008-2) is striking. Kharia /e/, Juang /ɛ/, and Santali /e/ cannot be explained. Pinnow (1959, p. 164 and p. 195) reconstructs proto-Munda _\*e_/_\*ɛ_. However, positing \#0009-2 as a continuation of proto-Munda _\*e_ (_\*ɛ_) is also not consistent. MKCD 39 _\*ciiʔ_ also suggests proto-Munda _\*siiˀ_.
 
 ##### \#0010 _\*ɟv₍₇₎ŋ_ ‘foot’
 
@@ -4672,7 +4672,7 @@ zḭŋ, FR, ɟe:ˀŋ, RSED.p123, suŋ, BDBH.1363, suŋ, GZ63.205, juŋ, PKED.p66
 
 - Pinnow 1959: V365 / MKCD 538 _\*juŋ_; _\*juəŋ_; _\*jəŋ_; _\*jəəŋ_
 
-This is a unique set with unclear reflexes.
+This is a unique set with unclear reflexes for the vowel.
 
 Pinnow (1959, p. 169) says “...so bleibt der Vokalwechsel des Wortes für Fuß, Bein ein gänzlich ungelöstes Rätsel der austroasiatischen Sprachwissenschaft,...”
 
@@ -4990,7 +4990,7 @@ gumar, FR, gum, RSED.p105, (giteʔ), BDBH.864, gim, GZ63.134, gum, PKED.p67, gu�
 - Pinnow 1959: K159 / MKCD: 1317 _\*gum_; _\*guum_; _\*g\[əə\]m_
 - Palaungic: Sidwell (2015) 265 _\*guːm_ ‘winnow’ (= MKCD 1317.B)
 
-If Remo _gumi_ ‘heap of unclean paddy before winnowing’ (BDBH.908) can be connected, it would connected these reflexes to _\*u₁_, with Gtaʔ _goŋ_ displaying exceptional reflexes of proto-Munda _\*u_ and proto-Munda _\*ŋ_.
+If Remo _gumi_ ‘heap of unclean paddy before winnowing’ (BDBH.908) can be connected, it would connected these reflexes to _\*u₁_, with Gtaʔ _goŋ_ displaying exceptional reflexes of proto-Munda _\*u_ and proto-Munda _\*m_.
 
 #### \#0045 _\*bɨˀt_ ‘sow (v)’ 
 
@@ -5007,7 +5007,7 @@ asin, FR, əsin, RSED.p16, nsiŋ, BDBH.1641, isin, GZ65.173, isin, PKED.p81, isi
 
 In contrast to the regular reflexes in _\*sƏn_ ‘chase (v)’, Remo, Gtaʔ, and Korwa have _ŋ_  instead of the expected _n_ in _\*I₍₂₃₎sin_ ‘boil (v)’. The difference between _\*sƏn_ ‘chase (v)’ and _\*I₍₂₃₎sin_ ‘boil (v)’ is unexplained, the crucial difference is in all likelihood the _\*i_ preceding the _\*n_.
 
-#### \#0047 _\*dal_ ‘to cover’ (\#0047-2)
+#### \#0047 _\*dal_ ‘to cover’
 
 ɖal, FR, dal, RSED.p73, ɖalu, BDBH.1210, ɖal, GZ65.80, ɖal, PKED.p42, ɖan, MJTL.p96, ɖa, PGEG.p16, dapal/dalo̠p’, CDES.p40, dapal/dālob, BMED.p35/36, dapal/dalop, HOGV.p153, —, —, da:l, NKEV.p299, \*dal, cover (v), #0047, V3, 1745, 
 
@@ -5017,7 +5017,7 @@ Santali _dapal_/_dalo̠p’_ (CDES.p40), Mundari _dapal_/_dālob_ (BMED.p35/36),
 
 The consistent differences in the vowels – a-a in the case of Santali _dapal_ and related forms and a-o̠/o in the case of Santali _dalo̠p’_ related forms – is interesting.
 
-#### \#0048 _\*saˀp_ ‘grab (v)’ (\#0048-2)
+#### \#0048 _\*saˀp_ ‘grab (v)’
 
 —, —, (sakab), RSED.p246, sop’, BDBH.2748, sob, GGEG.p113, (suˀb), PKED.p188, sɔb, PJDW.p277, saʔ, PGEG.p42, sap’, CDES.p28, sa:b, BMED.p163, sab, DHED.p296, sa:b, BAHL.pdfp131, sa:p, NKEV.p337, \*sxˀp, grab (v), #0048, , , 
 
@@ -5252,7 +5252,7 @@ The nasalization in Gutob is unexpected, but consistent with the other sets in _
 
 #### \#0076 _\*daˀp_ ‘cover (v)’
 
-"ɖaˀb, FR, dab, RSED.p71, ɖab, BDBH.1197, , , dab, PKED, , , , , , , , , , , , , , , , , #0076, V3, 1260/1261,
+ɖaˀb, FR, dab, RSED.p71, ɖab, BDBH.1197, , , dab, PKED, , , , , , , , , , , , , , , , , #0076, V3, 1260/1261,
 
 - Pinnow 1959: V3
 - MKCD: 1260 _\*ɗəp_; _\*ɗəəp_; _\*ɗap_; _\*ɗaap_; _\*ɗup_; _\*ɗuup_; _\*ɗuəp_; _\*\[ɗ\]ip_; _\*ɗiəp_ ‘to cover’
