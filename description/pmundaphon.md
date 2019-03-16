@@ -1226,6 +1226,14 @@ or, FR, or, RSED.p195, —, —, (an), (Z1965.24), —, —, —, —, ur-guʔ, 
 
 - Pinnow 1959: — / MKCD: —
 
+##### _\*Kʰon_ ‘child’ (\#0124-2)
+
+ŋon,son (aŋ = male),FR,oˀo:n,child,RSED.p195,ɔ̃ʔɔ̃,son; daughter,BDBH.487,oʔn,child,AG08.p636,konon,small,PKED.p104,kɔn,n,child; son; boy,ūhuŋo,child; infant,PGEG.p6,hon,son; child,CSED.p234,hon,son; child,BMED.p71,hon,child,DHED.p142,hon,to give birth to a child; diminutive suffix ,BAHL.p149,ko(ː)n,child; son,NKEV.p318,\*Kʰon,child,#A0124,V205,1127,\*kuun (& \*kun?); \*kuən,child,
+
+- Pinnow 1959: V205 / MKCD: 1127 _\*kuun (& \*kun?); \*kuən_
+
+child_3,#A0124-3,n,n,N,n,n,n,ŋ,n,n,n,n,n,n2a,n,n,,C
+
 #### _\*o₂_
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
@@ -1372,7 +1380,7 @@ MKCD 972 _\*sguut_; _\*\[s\]gət_; _\*sgat_ ‘cut (v)’ (_\*gVˀt_ ‘cut (v)�
 
 The reflexes especially with no apparent motivation for the front vowel in North Munda makes a proto-phoneme, other than _\*a_ more likely and 
 
-Some variation: Sora o:~a seems real, Juang ɔ~o artefact of my inconsistent treatment of PJDW, Gtaʔ ua~wa seems to be the artefact of inconsistent represeantation of the diphthong in PGEG.
+Some variation: Sora o:\~a seems real, Juang ɔ~o artefact of my inconsistent treatment of PJDW, Gtaʔ ua~wa seems to be the artefact of inconsistent represeantation of the diphthong in PGEG.
 
 ##### _\*məˀt_ ‘eye’ (\#0012-2) _\*ə₁_ v1
 
@@ -1817,7 +1825,7 @@ aŋal, FR, aŋəl, RSED.p37, suŋo, BDBH.2638, suõl, GZ63.216, soŋgol, PKED.p1
 
 - Pinnow 1959: V252 / MKCD 1723 _\*j\[n\]ŋəl_
 
-If Gtaʔ /sua/ is to be interpreted as a /ua/ parallel to /ua/~/wa/ in the set above, V₂ of _\*sVŋVl_ ‘fuel’ belongs to the set _\*ə₁_ above only deviating reflex is Sora /ə/.
+If Gtaʔ /sua/ is to be interpreted as a /ua/ parallel to /ua/\~/wa/ in the set above, V₂ of _\*sVŋVl_ ‘fuel’ belongs to the set _\*ə₁_ above only deviating reflex is Sora /ə/.
 
 |Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku| Set  |
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|------|
@@ -2761,7 +2769,7 @@ zum, FR, ɟom, RSED.p128, sum, BDBH.2667, som, GZ63.212, jom, HLKS.K274, ɟim, P
 
 ##### _\*ɲam_  ‘get (v)’ (\#0088-3)
 
-—, —, ɲam, RSED.p186, —, —, —, —, ɲam, PKED.p140, —, —, —, —, ɲam, CSED.p434, na:m, BMED.p126, nam, DHED.p241, ɲa:m, BAHL.p66, na, NKEV.p327, *ɲxm, get (v), #0088, 5(?), 1243(?),
+—, —, ɲam, RSED.p186, —, —, —, —, ɲam, PKED.p140, —, —, —, —, ɲam, CSED.p434, na:m, BMED.p126, nam, DHED.p241, ɲa:m, BAHL.p66, na, NKEV.p327, \*ɲxm, get (v), #0088, 5(?), 1243(?),
 
 - Pinnow 1959: 5(?) / MKCD: —
 
@@ -2780,7 +2788,7 @@ miam, FR, miɲam, RSED.p177, —, —, iam, GZ63.325, iɲam, PKED.p115, iɲam/i�
 
 ##### _\*ɲUm_ ‘name’ (\#0100-3)
 
-inum, FR, əɲam, RSED.p12, nimi, BDBH.1588, imi, AG.p645, (i)ɲimi, PKED.p140, —, —, mni, PGEG.p35, ɲum/ɲutum, CSED.p451/452, num/nutum, BMED.134, numu/nutum, DHED.p249, —, —, jimu, , *ɲUm, name, #0100, V279, 147,
+inum, FR, əɲam, RSED.p12, nimi, BDBH.1588, imi, AG.p645, (i)ɲimi, PKED.p140, —, —, mni, PGEG.p35, ɲum/ɲutum, CSED.p451/452, num/nutum, BMED.134, numu/nutum, DHED.p249, —, —, jimu, , \*ɲUm, name, #0100, V279, 147,
 
 - Pinnow 1959: V319 / MKCD: 147 _\*\[hy\]muʔ_
 
@@ -2790,7 +2798,7 @@ inum, FR, əɲam, RSED.p12, nimi, BDBH.1588, imi, AG.p645, (i)ɲimi, PKED.p140, 
 |-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
 | m   | m  | m  | m   | m    | ŋ/ɲ | ŋ  | m     | m     |m | m   | m   |
 
-Juang /ŋ/~/ɲ/ is unclear. Gtaʔ /ŋ/ is the coda neutralization also attested in _\*m₁_ and _\*m₂_.
+Juang /ŋ/\~/ɲ/ is unclear. Gtaʔ /ŋ/ is the coda neutralization also attested in _\*m₁_ and _\*m₂_.
 
 ##### _\*gum_ ‘winnow (v)’ (\#0044-3)
 
@@ -3126,7 +3134,7 @@ The Sora and Gorum, Remo and Gutob, as well as Gtaʔ suggest a _\*pəˀt_. Howev
 
 no set for initial _\*n_
 
-synchronic n~l variation in Gutob and Ho (check others)
+synchronic n\~l variation in Gutob and Ho (check others)
 
 All languages have words with initial /n/ and initial /n/ is particularly prominent in the deictical and pronominal domain. The lexemes beginning in /n/ are not well attested across the whole family.
 
@@ -3161,6 +3169,19 @@ asin, FR, əsin, RSED.p16, nsiŋ, BDBH.1641, isin, GZ65.173, isin, PKED.p81, isi
 - Pinnow 1959: V86 / MKCD: 1137 _\*ciinʔ_ (> Pre-Bahnaric _\*cin_); _\*ciən\[ \]_; _\*cain\[ \]_; ‘cooked’
 
 In contrast to the regular reflexes in _\*sƏn_ ‘chase (v)’, Remo, Gtaʔ, and Korwa have _ŋ_  instead of the expected _n_ in _\*I₍₂₃₎sin_ ‘boil (v)’. The difference between _\*sƏn_ ‘chase (v)’ and _\*I₍₂₃₎sin_ ‘boil (v)’ is unexplained, the crucial difference is in all likelihood the _\*i_ preceding the _\*n_.
+
+#### _\*n₂ₐ_ (Coda)
+
+|Gorum|Sora|Remo|Gutob|Kharia|Juang|Gtaʔ|Santali|Mundari|Ho|Korwa|Korku|
+|-----|----|----|-----|------|-----|----|-------|-------|--|-----|-----|
+| n   | n  | N  | n   | n    | n   | ŋ  | n     | n     |n | n   | n   |
+
+##### _\*Kʰon_ ‘child’ (\#0124-3)
+
+ŋon,son (aŋ = male),FR,oˀo:n,child,RSED.p195,ɔ̃ʔɔ̃,son; daughter,BDBH.487,oʔn,child,AG08.p636,konon,small,PKED.p104,kɔn,n,child; son; boy,ūhuŋo,child; infant,PGEG.p6,hon,son; child,CSED.p234,hon,son; child,BMED.p71,hon,child,DHED.p142,hon,to give birth to a child; diminutive suffix ,BAHL.p149,ko(ː)n,child; son,NKEV.p318,\*Kʰon,child,#A0124,V205,1127,\*kuun (& \*kun?); \*kuən,child,
+
+- Pinnow 1959: V205 / MKCD: 1127 _\*kuun (& \*kun?); \*kuən_
+
 
 #### _\*N₃_ (Coda)
 
@@ -3584,6 +3605,8 @@ Gtaʔ /rkoʔ/ is surprisingly close th Shorto’s  _\*rk\[aw\]ʔ_.
 | ∅   | ∅  | ∅  | ∅   | k    | k   | h  | h     | ∅     |∅ | ∅   | ?   |_\*b(xKʰ)Vˀp_|
 | ∅   | ∅  | ∅  | ∅   | k    | k   | ∅  | h     | h     |h | h   | k   |_\*KʰVsu_|
 | ∅   | ∅  | ∅  | ∅   | k    | k   | h  | h     | h     |h | h   | k   |_\*Kʰa(aˀ)_|
+| ∅   | ∅  | ∅  | ∅   | k    | k   | h  | h     | h     |h | h   | k   |_\*Kʰon_|
+
 
 There are a few instances of k~h~∅ correspondences; see also Pinnow (1959) p.198-201. Pinnow (1959 p.232-234) _\*q_ etc. ~
 
@@ -3619,6 +3642,13 @@ ajuʔ, FR, əjo:, RSED.p5, aɽoŋ/CF:aʔ, BDBH.56, aʔɖoŋ, GGEG.p91, kaɖoŋ, 
 —, —, —, —, uĭɖak', BDBH.130, oioi, GGEG.p90, koyo, PKEV.p108, koio, PJDW.p225, hueɽiaʔ, PGEG.p26, hoyoŋ, CSED.p237, hoyo, BMED.72, hoyo, DHED.p146, hoe, BAHL.p149, koyo, NKEV.318, \*Kʰojo, wind, #0102, V202, 1782,
 
 - Pinnow 1959: V202 / MKCD: 1782 _\*kyaal_
+
+##### _\*Kʰon_ ‘child’ (\#0124-1)
+
+ŋon,son (aŋ = male),FR,oˀo:n,child,RSED.p195,ɔ̃ʔɔ̃,son; daughter,BDBH.487,oʔn,child,AG08.p636,konon,small,PKED.p104,kɔn,n,child; son; boy,ūhuŋo,child; infant,PGEG.p6,hon,son; child,CSED.p234,hon,son; child,BMED.p71,hon,child,DHED.p142,hon,to give birth to a child; diminutive suffix ,BAHL.p149,ko(ː)n,child; son,NKEV.p318,\*Kʰon,child,#A0124,V205,1127,\*kuun (& \*kun?); \*kuən,child,
+
+- Pinnow 1959: V205 / MKCD: 1127 _\*kuun (& \*kun?); \*kuən_
+
 
 #### _\*g_
 
