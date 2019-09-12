@@ -16,3 +16,8 @@ The CSV file [pm_cognates_main.csv](https://github.com/fxru/pmundaphon/blob/mast
 ### pm_correspondences.csv
 
 The CSV file [pm_correspondences.csv](https://github.com/fxru/pmundaphon/blob/master/pm_correspondences.csv) contains corrsponence sets for phonemes from the cognates contained in [pm_cognates_main.csv](https://github.com/fxru/pmundaphon/blob/master/pm_cognates_main.csv).
+
+
+## License
+
+This dataset is licensed as [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) (`cc0-1.0`).
